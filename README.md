@@ -4,6 +4,7 @@ Tres visualizaciones interactivas, una por técnica (small multiples, slope char
 
 ## Visualizaciones
 
+| Técnica | URL pública |
 | --- | --- |
 | Portada | https://ivanchu23.github.io/DATA_Visualization_UOC_ivan/ |
 | Small multiples (grupo I) | https://ivanchu23.github.io/DATA_Visualization_UOC_ivan/small-multiples.html |
