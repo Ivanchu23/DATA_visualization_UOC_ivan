@@ -1,0 +1,2575 @@
+anio_modelo,marca,modelo,tipo,traccion,l100km
+2013,Nissan,GT-R,Compactos,Total (4x4 / AWD),12.38
+2013,Volkswagen,CC,Compactos,A dos ruedas,9.41
+2013,Volkswagen,CC,Compactos,A dos ruedas,11.2
+2013,Volkswagen,CC 4motion,Compactos,Total (4x4 / AWD),11.76
+2013,Chevrolet,Malibu eAssist,Berlinas y familiares,A dos ruedas,8.11
+2013,Lexus,GS 350,Berlinas y familiares,A dos ruedas,10.23
+2013,Lexus,GS 350 AWD,Berlinas y familiares,Total (4x4 / AWD),11.2
+2013,Mazda,CX-5 4WD,SUV,Total (4x4 / AWD),8.4
+2013,Volvo,XC90 FWD,SUV,A dos ruedas,12.38
+2013,Volvo,XC90 AWD,SUV,Total (4x4 / AWD),13.07
+2013,Hyundai,Genesis Coupe,Compactos,A dos ruedas,11.2
+2013,Hyundai,Genesis Coupe,Compactos,A dos ruedas,9.8
+2013,Hyundai,Genesis Coupe,Compactos,A dos ruedas,12.38
+2013,Hyundai,Genesis Coupe,Compactos,A dos ruedas,11.2
+2013,Volkswagen,CC,Compactos,A dos ruedas,9.41
+2013,Lincoln,MKS AWD,Berlinas y familiares,Total (4x4 / AWD),11.2
+2013,Lincoln,MKS AWD,Berlinas y familiares,Total (4x4 / AWD),11.76
+2013,Lincoln,MKS FWD,Berlinas y familiares,A dos ruedas,11.2
+2013,Ford,Explorer FWD,SUV,A dos ruedas,10.23
+2013,Mazda,CX-5 2WD,SUV,A dos ruedas,8.11
+2013,Mazda,CX-5 2WD,SUV,A dos ruedas,8.11
+2013,Lexus,LX 570,SUV,Total (4x4 / AWD),16.8
+2013,Toyota,Land Cruiser Wagon 4WD,SUV,Total (4x4 / AWD),15.68
+2013,Mazda,6,Berlinas y familiares,A dos ruedas,11.2
+2013,Ford,Taurus AWD,Berlinas y familiares,Total (4x4 / AWD),11.2
+2013,Ford,Taurus AWD,Berlinas y familiares,Total (4x4 / AWD),11.76
+2013,Ford,Taurus AWD FFV,Berlinas y familiares,Total (4x4 / AWD),11.2
+2013,Ford,Taurus FWD,Berlinas y familiares,A dos ruedas,10.23
+2013,Ford,Edge FWD,SUV,A dos ruedas,9.8
+2013,Ford,Edge FWD,SUV,A dos ruedas,10.69
+2013,Ford,Edge FWD,SUV,A dos ruedas,10.69
+2013,Lincoln,MKX FWD,SUV,A dos ruedas,10.69
+2013,Ford,Edge AWD,SUV,Total (4x4 / AWD),11.2
+2013,Ford,Edge AWD,SUV,Total (4x4 / AWD),12.38
+2013,Ford,Explorer AWD FFV,SUV,Total (4x4 / AWD),12.38
+2013,Lincoln,MKX AWD,SUV,Total (4x4 / AWD),12.38
+2013,Ford,Mustang,Compactos,A dos ruedas,10.23
+2013,Ford,Mustang,Compactos,A dos ruedas,10.69
+2013,Ford,Mustang,Compactos,A dos ruedas,11.76
+2013,Ford,Mustang,Compactos,A dos ruedas,12.38
+2013,Ford,Mustang Convertible,Compactos,A dos ruedas,10.23
+2013,Kia,Rio,Compactos,A dos ruedas,7.59
+2013,Kia,Rio,Compactos,A dos ruedas,7.35
+2013,Kia,Rio Eco,Compactos,A dos ruedas,7.35
+2013,Hyundai,Elantra,Berlinas y familiares,A dos ruedas,7.35
+2013,Hyundai,Elantra,Berlinas y familiares,A dos ruedas,7.35
+2013,Hyundai,Elantra Blue,Berlinas y familiares,A dos ruedas,7.35
+2013,Hyundai,Elantra Coupe,Berlinas y familiares,A dos ruedas,7.59
+2013,Hyundai,Elantra Coupe,Berlinas y familiares,A dos ruedas,7.35
+2013,Mazda,6,Berlinas y familiares,A dos ruedas,9.41
+2013,Mazda,6,Berlinas y familiares,A dos ruedas,9.8
+2013,Ford,Taurus FWD FFV,Berlinas y familiares,A dos ruedas,10.23
+2013,Porsche,Panamera GTS,Berlinas y familiares,Total (4x4 / AWD),12.38
+2013,Lincoln,MKT Livery AWD,Pickups y furgonetas,Total (4x4 / AWD),12.38
+2013,Ford,Explorer 2WD FFV,SUV,A dos ruedas,11.76
+2013,Ford,Explorer FWD,SUV,A dos ruedas,11.76
+2013,Ford,Flex FWD,SUV,A dos ruedas,11.76
+2013,Lincoln,MKT FWD,SUV,A dos ruedas,11.76
+2013,Ford,Flex AWD,SUV,Total (4x4 / AWD),12.38
+2013,Ford,Flex AWD,SUV,Total (4x4 / AWD),13.07
+2013,Lincoln,MKT AWD,SUV,Total (4x4 / AWD),13.07
+2013,Kia,Sorento 2WD,SUV,A dos ruedas,9.8
+2013,Kia,Sorento 2WD,SUV,A dos ruedas,9.8
+2013,Kia,Sorento 2WD,SUV,A dos ruedas,10.69
+2013,Kia,Sorento 2WD,SUV,A dos ruedas,10.69
+2013,Kia,Sorento 4WD,SUV,Total (4x4 / AWD),10.69
+2013,Kia,Sorento 4WD,SUV,Total (4x4 / AWD),10.23
+2013,Kia,Sorento 4WD,SUV,Total (4x4 / AWD),11.76
+2013,Scion,FR-S,Compactos,A dos ruedas,8.4
+2013,Scion,FR-S,Compactos,A dos ruedas,9.41
+2013,Subaru,BRZ,Compactos,A dos ruedas,8.4
+2013,Subaru,BRZ,Compactos,A dos ruedas,9.41
+2013,Porsche,Panamera 4S,Berlinas y familiares,Total (4x4 / AWD),12.38
+2013,Porsche,Panamera S,Berlinas y familiares,A dos ruedas,12.38
+2013,Infiniti,JX35 FWD,SUV,A dos ruedas,11.2
+2013,Infiniti,JX35 AWD,SUV,Total (4x4 / AWD),11.76
+2013,Lexus,GS 450h,Berlinas y familiares,A dos ruedas,7.59
+2013,Hyundai,Sonata,Berlinas y familiares,A dos ruedas,9.05
+2013,Hyundai,Sonata,Berlinas y familiares,A dos ruedas,8.4
+2013,Hyundai,Sonata,Berlinas y familiares,A dos ruedas,8.4
+2013,Lexus,RX 350,SUV,A dos ruedas,11.2
+2013,Lexus,RX 450h,SUV,A dos ruedas,7.84
+2013,BMW,X3 xDrive28i,SUV,Total (4x4 / AWD),9.8
+2013,BMW,X3 xDrive35i,SUV,Total (4x4 / AWD),11.2
+2013,BMW,X5 xDrive50i,SUV,Total (4x4 / AWD),14.7
+2013,BMW,X6 xDrive50i,SUV,Total (4x4 / AWD),14.7
+2013,Lexus,RX 350 AWD,SUV,Total (4x4 / AWD),11.76
+2013,Lexus,RX 450h AWD,SUV,Total (4x4 / AWD),8.11
+2013,BMW,X5 xDrive35i,SUV,Total (4x4 / AWD),12.38
+2013,BMW,X5 M,SUV,Total (4x4 / AWD),16.8
+2013,BMW,X6 xDrive35i,SUV,Total (4x4 / AWD),12.38
+2013,BMW,X6 M,SUV,Total (4x4 / AWD),16.8
+2013,Chevrolet,Corvette,Deportivos biplaza,A dos ruedas,13.84
+2013,Chevrolet,Corvette,Deportivos biplaza,A dos ruedas,13.07
+2013,smart,fortwo coupe,Deportivos biplaza,A dos ruedas,6.53
+2013,smart,fortwo cabriolet,Deportivos biplaza,A dos ruedas,6.53
+2013,Bentley,Continental GTC,Compactos,Total (4x4 / AWD),13.84
+2013,Bentley,Continental GTC,Compactos,Total (4x4 / AWD),16.8
+2013,Bentley,Continental Supersports Convertible,Compactos,Total (4x4 / AWD),16.8
+2013,Bentley,Continental GT,Compactos,Total (4x4 / AWD),13.07
+2013,Bentley,Continental GT,Compactos,Total (4x4 / AWD),16.8
+2013,Hyundai,Accent,Compactos,A dos ruedas,7.59
+2013,Hyundai,Accent,Compactos,A dos ruedas,7.35
+2013,Bentley,Continental Flying Spur,Berlinas y familiares,Total (4x4 / AWD),16.8
+2013,Ford,Escape FWD,SUV,A dos ruedas,9.41
+2013,Ford,Escape FWD,SUV,A dos ruedas,9.41
+2013,Ford,Escape AWD,SUV,Total (4x4 / AWD),9.8
+2013,Chevrolet,Corvette,Deportivos biplaza,A dos ruedas,12.38
+2013,Chevrolet,Corvette,Deportivos biplaza,A dos ruedas,13.07
+2013,Mercedes-Benz,SL550,Deportivos biplaza,A dos ruedas,11.76
+2013,Porsche,Boxster,Deportivos biplaza,A dos ruedas,9.8
+2013,Porsche,Boxster,Deportivos biplaza,A dos ruedas,9.05
+2013,Porsche,911 Carrera,Compactos,A dos ruedas,10.69
+2013,Porsche,911 Carrera,Compactos,A dos ruedas,10.23
+2013,Porsche,911 Carrera Cabriolet,Compactos,A dos ruedas,10.69
+2013,Porsche,911 Carrera Cabriolet,Compactos,A dos ruedas,10.23
+2013,Porsche,911 Carrera S,Compactos,A dos ruedas,10.69
+2013,Porsche,911 Carrera S,Compactos,A dos ruedas,10.69
+2013,Porsche,911 Carrera S Cabriolet,Compactos,A dos ruedas,10.69
+2013,Porsche,911 Carrera S Cabriolet,Compactos,A dos ruedas,10.69
+2013,Porsche,911 Carrera 4,Compactos,Total (4x4 / AWD),10.69
+2013,Porsche,911 Carrera 4,Compactos,Total (4x4 / AWD),10.23
+2013,Porsche,911 Carrera 4 Cabriolet,Compactos,Total (4x4 / AWD),11.2
+2013,Porsche,911 Carrera 4 Cabriolet,Compactos,Total (4x4 / AWD),10.69
+2013,Porsche,911 Carrera 4S,Compactos,Total (4x4 / AWD),11.2
+2013,Porsche,911 Carrera 4S,Compactos,Total (4x4 / AWD),10.69
+2013,Porsche,911 Carrera 4S Cabriolet,Compactos,Total (4x4 / AWD),11.2
+2013,Porsche,911 Carrera 4S Cabriolet,Compactos,Total (4x4 / AWD),11.2
+2013,Ford,Mustang,Compactos,A dos ruedas,13.07
+2013,Chevrolet,Camaro,Compactos,A dos ruedas,14.7
+2013,Chevrolet,Camaro,Compactos,A dos ruedas,16.8
+2013,Chevrolet,Camaro,Compactos,A dos ruedas,12.38
+2013,Chevrolet,Camaro,Compactos,A dos ruedas,10.69
+2013,Chevrolet,Camaro,Compactos,A dos ruedas,11.76
+2013,Chevrolet,Camaro,Compactos,A dos ruedas,13.07
+2013,Audi,A8,Berlinas y familiares,Total (4x4 / AWD),11.2
+2013,Buick,Regal eAssist,Berlinas y familiares,A dos ruedas,8.11
+2013,Buick,LaCrosse eAssist,Berlinas y familiares,A dos ruedas,8.11
+2013,Cadillac,CTS,Berlinas y familiares,A dos ruedas,14.7
+2013,Cadillac,CTS,Berlinas y familiares,A dos ruedas,16.8
+2013,Dodge,Dart,Berlinas y familiares,A dos ruedas,7.35
+2013,Dodge,Dart,Berlinas y familiares,A dos ruedas,8.11
+2013,Infiniti,M37x,Berlinas y familiares,Total (4x4 / AWD),11.76
+2013,Audi,A8 L,Berlinas y familiares,Total (4x4 / AWD),11.2
+2013,Hyundai,Equus,Berlinas y familiares,A dos ruedas,13.07
+2013,Porsche,Panamera,Berlinas y familiares,A dos ruedas,11.2
+2013,Porsche,Panamera 4,Berlinas y familiares,Total (4x4 / AWD),11.2
+2013,Audi,allroad quattro,Berlinas y familiares,Total (4x4 / AWD),10.23
+2013,Cadillac,CTS Wagon,Berlinas y familiares,A dos ruedas,14.7
+2013,Cadillac,CTS Wagon,Berlinas y familiares,A dos ruedas,16.8
+2013,Chevrolet,Silverado C15 2WD,Pickups y furgonetas,A dos ruedas,13.84
+2013,Chevrolet,Silverado C15 2WD,Pickups y furgonetas,A dos ruedas,13.84
+2013,Chevrolet,Silverado C15 XFE 2WD,Pickups y furgonetas,A dos ruedas,13.07
+2013,Chevrolet,Silverado C15 2WD,Pickups y furgonetas,A dos ruedas,14.7
+2013,Chevrolet,Silverado C15 2WD,Pickups y furgonetas,A dos ruedas,16.8
+2013,GMC,Sierra C15 2WD,Pickups y furgonetas,A dos ruedas,13.84
+2013,GMC,Sierra C15 XFE 2WD,Pickups y furgonetas,A dos ruedas,13.07
+2013,GMC,Sierra C15 2WD,Pickups y furgonetas,A dos ruedas,13.84
+2013,GMC,Sierra C15 2WD,Pickups y furgonetas,A dos ruedas,14.7
+2013,GMC,Sierra C15 2WD,Pickups y furgonetas,A dos ruedas,16.8
+2013,Chevrolet,Silverado K15 4WD,Pickups y furgonetas,Total (4x4 / AWD),15.68
+2013,Chevrolet,Silverado K15 4WD,Pickups y furgonetas,Total (4x4 / AWD),13.84
+2013,Chevrolet,Silverado K15 4WD,Pickups y furgonetas,Total (4x4 / AWD),15.68
+2013,Chevrolet,Silverado K15 4WD,Pickups y furgonetas,Total (4x4 / AWD),16.8
+2013,GMC,Sierra K15 4WD,Pickups y furgonetas,Total (4x4 / AWD),15.68
+2013,GMC,Sierra K15 4WD,Pickups y furgonetas,Total (4x4 / AWD),13.84
+2013,GMC,Sierra K15 4WD,Pickups y furgonetas,Total (4x4 / AWD),15.68
+2013,GMC,Sierra K15 4WD,Pickups y furgonetas,Total (4x4 / AWD),16.8
+2013,Chevrolet,Express 1500 2WD Cargo,Pickups y furgonetas,A dos ruedas,13.84
+2013,Chevrolet,Express 1500 2WD Cargo,Pickups y furgonetas,A dos ruedas,15.68
+2013,Chevrolet,Express 1500 2WD Conversion Cargo,Pickups y furgonetas,A dos ruedas,16.8
+2013,Chevrolet,Express 1500 AWD Conversion Cargo,Pickups y furgonetas,Total (4x4 / AWD),16.8
+2013,Chevrolet,Express 1500 AWD Cargo,Pickups y furgonetas,Total (4x4 / AWD),16.8
+2013,GMC,Savana 1500 2WD (cargo),Pickups y furgonetas,A dos ruedas,13.84
+2013,GMC,Savana 1500 2WD (cargo),Pickups y furgonetas,A dos ruedas,15.68
+2013,GMC,Savana 1500  2WD Conversion (cargo),Pickups y furgonetas,A dos ruedas,16.8
+2013,GMC,Savana 1500  AWD (cargo),Pickups y furgonetas,Total (4x4 / AWD),16.8
+2013,GMC,Savana 1500  AWD Conversion (cargo),Pickups y furgonetas,Total (4x4 / AWD),16.8
+2013,Chevrolet,Express 2500 2WD Passenger MDPV,Pickups y furgonetas,A dos ruedas,18.09
+2013,Chevrolet,Express 1500 2WD Passenger,Pickups y furgonetas,A dos ruedas,16.8
+2013,Chevrolet,Express 1500 AWD Passenger,Pickups y furgonetas,Total (4x4 / AWD),16.8
+2013,GMC,Savana 2500 2WD (Passenger) MDPV,Pickups y furgonetas,A dos ruedas,18.09
+2013,GMC,Savana 1500 2WD (Passenger),Pickups y furgonetas,A dos ruedas,16.8
+2013,GMC,Savana 1500 AWD (Passenger),Pickups y furgonetas,Total (4x4 / AWD),16.8
+2013,Lincoln,MKT Livery FWD,Pickups y furgonetas,A dos ruedas,10.23
+2013,Porsche,Cayenne S,SUV,Total (4x4 / AWD),13.07
+2013,Porsche,Cayenne GTS,SUV,Total (4x4 / AWD),13.84
+2013,Hyundai,Tucson 2WD,SUV,A dos ruedas,9.41
+2013,Hyundai,Tucson 2WD,SUV,A dos ruedas,10.23
+2013,Hyundai,Tucson 2WD,SUV,A dos ruedas,9.41
+2013,Hyundai,Tucson 2WD,SUV,A dos ruedas,10.69
+2013,Kia,Sportage 2WD,SUV,A dos ruedas,9.41
+2013,Kia,Sportage 2WD,SUV,A dos ruedas,10.23
+2013,Kia,Sportage 2WD,SUV,A dos ruedas,9.8
+2013,Ford,Escape AWD,SUV,Total (4x4 / AWD),9.41
+2013,Hyundai,Tucson 4WD,SUV,Total (4x4 / AWD),10.23
+2013,Hyundai,Tucson 4WD,SUV,Total (4x4 / AWD),11.2
+2013,Kia,Sportage 4WD,SUV,Total (4x4 / AWD),10.23
+2013,Kia,Sportage 4WD,SUV,Total (4x4 / AWD),11.2
+2013,Kia,Sportage 4WD,SUV,Total (4x4 / AWD),10.69
+2013,Subaru,Forester AWD,SUV,Total (4x4 / AWD),10.23
+2013,Subaru,Forester AWD,SUV,Total (4x4 / AWD),10.23
+2013,Subaru,Forester AWD,SUV,Total (4x4 / AWD),11.2
+2013,Cadillac,Escalade 2WD,SUV,A dos ruedas,14.7
+2013,Cadillac,Escalade ESV 2WD,SUV,A dos ruedas,14.7
+2013,Chevrolet,Tahoe 1500 2WD,SUV,A dos ruedas,13.84
+2013,Chevrolet,Avalanche 1500 2WD,SUV,A dos ruedas,13.84
+2013,Chevrolet,Suburban 1500 2WD,SUV,A dos ruedas,13.84
+2013,Chevrolet,Suburban 2500 2WD,SUV,A dos ruedas,19.6
+2013,GMC,Yukon 1500 2WD,SUV,A dos ruedas,13.84
+2013,GMC,Yukon XL 1500 2WD,SUV,A dos ruedas,13.84
+2013,GMC,Yukon 1500 2WD,SUV,A dos ruedas,14.7
+2013,GMC,Yukon XL 1500 2WD,SUV,A dos ruedas,14.7
+2013,GMC,Yukon XL 2500 2WD,SUV,A dos ruedas,19.6
+2013,Cadillac,Escalade AWD,SUV,Total (4x4 / AWD),15.68
+2013,Chevrolet,Avalanche 1500 4WD,SUV,Total (4x4 / AWD),13.84
+2013,Chevrolet,Tahoe 1500 4WD,SUV,Total (4x4 / AWD),13.84
+2013,Chevrolet,Suburban 1500 4WD,SUV,Total (4x4 / AWD),13.84
+2013,GMC,Yukon XL 1500 4WD,SUV,Total (4x4 / AWD),13.84
+2013,GMC,Yukon 1500 4WD,SUV,Total (4x4 / AWD),13.84
+2013,GMC,Yukon Denali 1500 AWD,SUV,Total (4x4 / AWD),15.68
+2013,Infiniti,G37 Convertible,Compactos,A dos ruedas,11.76
+2013,Infiniti,G37 Convertible,Compactos,A dos ruedas,12.38
+2013,Infiniti,G37 Coupe,Compactos,A dos ruedas,11.76
+2013,Infiniti,G37 Coupe,Compactos,A dos ruedas,10.69
+2013,Infiniti,G37x Coupe,Compactos,Total (4x4 / AWD),11.76
+2013,Buick,LaCrosse,Berlinas y familiares,A dos ruedas,11.2
+2013,Infiniti,M56,Berlinas y familiares,A dos ruedas,12.38
+2013,Infiniti,M56x,Berlinas y familiares,Total (4x4 / AWD),13.07
+2013,Infiniti,M35h,Berlinas y familiares,A dos ruedas,8.11
+2013,Infiniti,M37,Berlinas y familiares,A dos ruedas,11.2
+2013,Subaru,Legacy AWD,Berlinas y familiares,Total (4x4 / AWD),9.8
+2013,Subaru,Legacy AWD,Berlinas y familiares,Total (4x4 / AWD),8.71
+2013,Subaru,Legacy AWD,Berlinas y familiares,Total (4x4 / AWD),11.76
+2013,Cadillac,XTS,Berlinas y familiares,A dos ruedas,11.2
+2013,GMC,Sierra K15 AWD,Pickups y furgonetas,Total (4x4 / AWD),16.8
+2013,Chevrolet,Express 2500 2WD Conversion Cargo MDPV,Pickups y furgonetas,A dos ruedas,19.6
+2013,GMC,Savana 2500 2WD Conversion (cargo) MDPV,Pickups y furgonetas,A dos ruedas,19.6
+2013,Chevrolet,Express 3500 2WD Passenger MDPV,Pickups y furgonetas,A dos ruedas,18.09
+2013,Chevrolet,Express 2500 2WD Passenger MDPV,Pickups y furgonetas,A dos ruedas,18.09
+2013,Chevrolet,Express 3500 2WD Passenger MDPV,Pickups y furgonetas,A dos ruedas,19.6
+2013,GMC,Savana 3500 2WD (Passenger) MDPV,Pickups y furgonetas,A dos ruedas,18.09
+2013,GMC,Savana 2500 2WD (Passenger) MDPV,Pickups y furgonetas,A dos ruedas,18.09
+2013,GMC,Savana 3500 2WD (Passenger) MDPV,Pickups y furgonetas,A dos ruedas,19.6
+2013,Subaru,Outback AWD,SUV,Total (4x4 / AWD),9.8
+2013,Subaru,Outback AWD,SUV,Total (4x4 / AWD),9.05
+2013,Subaru,Outback AWD,SUV,Total (4x4 / AWD),11.76
+2013,Cadillac,Escalade Ext AWD,SUV,Total (4x4 / AWD),16.8
+2013,Cadillac,Escalade ESV AWD,SUV,Total (4x4 / AWD),16.8
+2013,Chevrolet,Suburban 2500 4WD,SUV,Total (4x4 / AWD),19.6
+2013,GMC,Yukon XL 1500 AWD,SUV,Total (4x4 / AWD),16.8
+2013,GMC,Yukon XL 2500 4WD,SUV,Total (4x4 / AWD),19.6
+2013,Porsche,Boxster S,Deportivos biplaza,A dos ruedas,10.23
+2013,Porsche,Boxster S,Deportivos biplaza,A dos ruedas,9.8
+2013,Porsche,911 Turbo,Compactos,A dos ruedas,12.38
+2013,Porsche,911 Turbo Cabriolet,Compactos,A dos ruedas,12.38
+2013,Porsche,911 Turbo S,Compactos,A dos ruedas,12.38
+2013,Porsche,911 Turbo S Cabriolet,Compactos,A dos ruedas,12.38
+2013,Porsche,911 Turbo,Compactos,A dos ruedas,12.38
+2013,Porsche,911 Turbo Cabriolet,Compactos,A dos ruedas,12.38
+2013,Ford,Fiesta FWD,Compactos,A dos ruedas,7.13
+2013,Ford,Fiesta FWD,Compactos,A dos ruedas,7.13
+2013,Ford,Fiesta SFE FWD,Compactos,A dos ruedas,7.13
+2013,Buick,Verano,Compactos,A dos ruedas,9.41
+2013,Chevrolet,Camaro,Compactos,A dos ruedas,11.2
+2013,Scion,tC,Compactos,A dos ruedas,9.05
+2013,Scion,tC,Compactos,A dos ruedas,9.05
+2013,Subaru,Impreza AWD,Compactos,Total (4x4 / AWD),7.84
+2013,Subaru,Impreza AWD,Compactos,Total (4x4 / AWD),11.2
+2013,Subaru,Impreza AWD,Compactos,Total (4x4 / AWD),12.38
+2013,Buick,LaCrosse,Berlinas y familiares,A dos ruedas,11.2
+2013,Buick,Regal,Berlinas y familiares,A dos ruedas,10.69
+2013,Buick,Regal,Berlinas y familiares,A dos ruedas,9.8
+2013,Buick,Regal,Berlinas y familiares,A dos ruedas,10.69
+2013,Cadillac,CTS,Berlinas y familiares,A dos ruedas,11.2
+2013,Chevrolet,Cruze Eco,Berlinas y familiares,A dos ruedas,7.59
+2013,Chevrolet,Cruze,Berlinas y familiares,A dos ruedas,7.84
+2013,Chevrolet,Cruze Eco,Berlinas y familiares,A dos ruedas,7.13
+2013,Chevrolet,Cruze,Berlinas y familiares,A dos ruedas,7.84
+2013,Chevrolet,Cruze,Berlinas y familiares,A dos ruedas,8.11
+2013,Chevrolet,Cruze,Berlinas y familiares,A dos ruedas,8.71
+2013,Cadillac,CTS Wagon,Berlinas y familiares,A dos ruedas,11.2
+2013,Subaru,Impreza Wagon AWD,Berlinas y familiares,Total (4x4 / AWD),7.84
+2013,Subaru,Impreza Wagon AWD,Berlinas y familiares,Total (4x4 / AWD),11.2
+2013,Subaru,Impreza Wagon AWD,Berlinas y familiares,Total (4x4 / AWD),12.38
+2013,Porsche,Cayenne Turbo,SUV,Total (4x4 / AWD),13.84
+2013,Toyota,Venza,SUV,A dos ruedas,10.23
+2013,Toyota,Venza,SUV,A dos ruedas,10.69
+2013,Toyota,Venza AWD,SUV,Total (4x4 / AWD),10.69
+2013,Toyota,Venza AWD,SUV,Total (4x4 / AWD),11.2
+2013,Cadillac,SRX 2WD,SUV,A dos ruedas,12.38
+2013,Cadillac,SRX AWD,SUV,Total (4x4 / AWD),13.07
+2013,Audi,TT Roadster quattro,Deportivos biplaza,Total (4x4 / AWD),9.05
+2013,Mercedes-Benz,SLK250,Deportivos biplaza,A dos ruedas,9.05
+2013,Audi,A5 quattro,Compactos,Total (4x4 / AWD),9.05
+2013,Audi,S5,Compactos,Total (4x4 / AWD),11.2
+2013,Audi,S5 Cabriolet,Compactos,Total (4x4 / AWD),11.2
+2013,Audi,S5,Compactos,Total (4x4 / AWD),11.76
+2013,Audi,RS 5,Compactos,Total (4x4 / AWD),13.07
+2013,Audi,TT Coupe quattro,Compactos,Total (4x4 / AWD),9.05
+2013,Audi,TT RS Coupe,Compactos,Total (4x4 / AWD),11.76
+2013,Chevrolet,Spark,Compactos,A dos ruedas,6.92
+2013,Roush Performance,Stage 3 Mustang,Compactos,A dos ruedas,13.84
+2013,Roush Performance,Stage 3 Mustang,Compactos,A dos ruedas,13.07
+2013,Volkswagen,Eos,Compactos,A dos ruedas,9.41
+2013,Volvo,C70 FWD,Compactos,A dos ruedas,10.69
+2013,Audi,A4 quattro,Compactos,Total (4x4 / AWD),9.05
+2013,Audi,S4,Compactos,Total (4x4 / AWD),11.2
+2013,Audi,S4,Compactos,Total (4x4 / AWD),11.76
+2013,Chevrolet,Sonic,Compactos,A dos ruedas,7.13
+2013,Chevrolet,Sonic,Compactos,A dos ruedas,7.59
+2013,Hyundai,Veloster,Compactos,A dos ruedas,7.59
+2013,Hyundai,Veloster,Compactos,A dos ruedas,7.59
+2013,Hyundai,Veloster,Compactos,A dos ruedas,8.4
+2013,Hyundai,Veloster,Compactos,A dos ruedas,8.4
+2013,Kia,Forte Koup,Compactos,A dos ruedas,8.11
+2013,Kia,Forte Koup,Compactos,A dos ruedas,8.4
+2013,Kia,Forte Koup,Compactos,A dos ruedas,9.05
+2013,Kia,Forte Koup,Compactos,A dos ruedas,9.05
+2013,Subaru,Impreza AWD,Compactos,Total (4x4 / AWD),8.4
+2013,Volkswagen,GTI,Compactos,A dos ruedas,8.71
+2013,Volkswagen,Golf R,Compactos,Total (4x4 / AWD),10.69
+2013,Volvo,S60 AWD,Compactos,Total (4x4 / AWD),11.2
+2013,Volvo,C30 FWD,Compactos,A dos ruedas,9.8
+2013,Volvo,C30 FWD,Compactos,A dos ruedas,9.8
+2013,Volvo,S60 FWD,Compactos,A dos ruedas,9.8
+2013,Volvo,S60 AWD,Compactos,Total (4x4 / AWD),10.23
+2013,BMW,640i Gran Coupe,Compactos,A dos ruedas,9.8
+2013,Cadillac,CTS AWD,Berlinas y familiares,Total (4x4 / AWD),11.2
+2013,Cadillac,CTS,Berlinas y familiares,A dos ruedas,12.38
+2013,Cadillac,CTS,Berlinas y familiares,A dos ruedas,10.69
+2013,Cadillac,CTS AWD,Berlinas y familiares,Total (4x4 / AWD),11.2
+2013,Chevrolet,Sonic 5,Berlinas y familiares,A dos ruedas,7.13
+2013,Chevrolet,Sonic 5,Berlinas y familiares,A dos ruedas,7.59
+2013,Dodge,Dart,Berlinas y familiares,A dos ruedas,8.71
+2013,Hyundai,Elantra GT,Berlinas y familiares,A dos ruedas,7.84
+2013,Hyundai,Elantra GT,Berlinas y familiares,A dos ruedas,7.84
+2013,Kia,Optima,Berlinas y familiares,A dos ruedas,9.05
+2013,Kia,Optima,Berlinas y familiares,A dos ruedas,8.4
+2013,Kia,Optima,Berlinas y familiares,A dos ruedas,8.4
+2013,Kia,Forte,Berlinas y familiares,A dos ruedas,8.11
+2013,Kia,Forte,Berlinas y familiares,A dos ruedas,8.11
+2013,Kia,Forte Eco,Berlinas y familiares,A dos ruedas,7.84
+2013,Kia,Forte,Berlinas y familiares,A dos ruedas,9.05
+2013,Kia,Forte,Berlinas y familiares,A dos ruedas,9.05
+2013,Nissan,Altima,Berlinas y familiares,A dos ruedas,7.59
+2013,Nissan,Altima,Berlinas y familiares,A dos ruedas,9.41
+2013,Volkswagen,Jetta,Compactos,A dos ruedas,8.71
+2013,Volkswagen,Jetta,Compactos,A dos ruedas,9.05
+2013,Volkswagen,Passat,Berlinas y familiares,A dos ruedas,6.92
+2013,Volkswagen,Passat,Berlinas y familiares,A dos ruedas,10.23
+2013,Volkswagen,Passat,Berlinas y familiares,A dos ruedas,6.72
+2013,Volvo,S80 AWD,Berlinas y familiares,Total (4x4 / AWD),11.2
+2013,Cadillac,XTS AWD,Berlinas y familiares,Total (4x4 / AWD),11.76
+2013,Audi,A3,Berlinas y familiares,A dos ruedas,9.8
+2013,Audi,A3,Berlinas y familiares,A dos ruedas,9.8
+2013,Cadillac,CTS Wagon AWD,Berlinas y familiares,Total (4x4 / AWD),11.2
+2013,Cadillac,CTS Wagon,Berlinas y familiares,A dos ruedas,11.2
+2013,Cadillac,CTS Wagon AWD,Berlinas y familiares,Total (4x4 / AWD),11.2
+2013,Subaru,Impreza Wagon AWD,Berlinas y familiares,Total (4x4 / AWD),8.4
+2013,Chevrolet,Silverado 15 Hybrid 2WD,Pickups y furgonetas,A dos ruedas,11.2
+2013,GMC,Sierra 15 Hybrid 2WD,Pickups y furgonetas,A dos ruedas,11.2
+2013,Chevrolet,Silverado 15 Hybrid 4WD,Pickups y furgonetas,Total (4x4 / AWD),11.2
+2013,GMC,Sierra 15 Hybrid 4WD,Pickups y furgonetas,Total (4x4 / AWD),11.2
+2013,Volkswagen,Tiguan,SUV,A dos ruedas,11.2
+2013,Volkswagen,Tiguan,SUV,A dos ruedas,10.23
+2013,Volkswagen,Touareg,SUV,Total (4x4 / AWD),10.23
+2013,Volkswagen,Tiguan 4motion,SUV,Total (4x4 / AWD),10.23
+2013,Acura,RDX 2WD,SUV,A dos ruedas,10.23
+2013,Acura,RDX 4WD,SUV,Total (4x4 / AWD),10.69
+2013,Chevrolet,Equinox AWD,SUV,Total (4x4 / AWD),10.23
+2013,Chevrolet,Equinox AWD,SUV,Total (4x4 / AWD),10.23
+2013,GMC,Terrain AWD,SUV,Total (4x4 / AWD),10.23
+2013,GMC,Terrain AWD,SUV,Total (4x4 / AWD),10.23
+2013,Subaru,XV Crosstrek AWD,SUV,Total (4x4 / AWD),9.05
+2013,Subaru,XV Crosstrek AWD,SUV,Total (4x4 / AWD),8.4
+2013,Volvo,XC70 AWD,SUV,Total (4x4 / AWD),11.76
+2013,Volvo,XC60 AWD,SUV,Total (4x4 / AWD),11.76
+2013,Cadillac,Escalade Hybrid 2WD,SUV,A dos ruedas,11.2
+2013,Chevrolet,Tahoe Hybrid 2WD,SUV,A dos ruedas,11.2
+2013,GMC,Yukon 1500 Hybrid 2WD,SUV,A dos ruedas,11.2
+2013,Jeep,Grand Cherokee 2WD,SUV,A dos ruedas,12.38
+2013,Audi,Q7,SUV,Total (4x4 / AWD),13.07
+2013,Cadillac,Escalade Hybrid 4WD,SUV,Total (4x4 / AWD),11.2
+2013,Chevrolet,Tahoe Hybrid 4WD,SUV,Total (4x4 / AWD),11.2
+2013,GMC,Yukon 1500 Hybrid 4WD,SUV,Total (4x4 / AWD),11.2
+2013,GMC,Yukon Denali 1500 Hybrid 4WD,SUV,Total (4x4 / AWD),11.2
+2013,Jeep,Grand Cherokee 4WD,SUV,Total (4x4 / AWD),12.38
+2013,Land Rover,Range Rover Sport,SUV,Total (4x4 / AWD),16.8
+2013,Chevrolet,Volt,Compactos,A dos ruedas,6.36
+2013,Bugatti,Veyron,Deportivos biplaza,Total (4x4 / AWD),23.52
+2013,Lamborghini,Gallardo Coupe,Deportivos biplaza,Total (4x4 / AWD),14.7
+2013,Lamborghini,Gallardo Spyder,Deportivos biplaza,Total (4x4 / AWD),14.7
+2013,Lamborghini,Gallardo Coupe,Deportivos biplaza,Total (4x4 / AWD),15.68
+2013,Lamborghini,Gallardo Spyder,Deportivos biplaza,Total (4x4 / AWD),16.8
+2013,Mazda,MX-5,Deportivos biplaza,A dos ruedas,9.41
+2013,Mazda,MX-5,Deportivos biplaza,A dos ruedas,9.8
+2013,Mazda,MX-5,Deportivos biplaza,A dos ruedas,10.23
+2013,Mercedes-Benz,SL63 AMG,Deportivos biplaza,A dos ruedas,12.38
+2013,Mercedes-Benz,SLK55 AMG,Deportivos biplaza,A dos ruedas,10.69
+2013,Nissan,370Z,Deportivos biplaza,A dos ruedas,10.69
+2013,Nissan,370Z,Deportivos biplaza,A dos ruedas,11.2
+2013,Nissan,370Z Roadster,Deportivos biplaza,A dos ruedas,11.2
+2013,Nissan,370Z Roadster,Deportivos biplaza,A dos ruedas,11.76
+2013,Jaguar,XK Convertible,Compactos,A dos ruedas,13.84
+2013,Jaguar,XK Convertible,Compactos,A dos ruedas,13.07
+2013,Jaguar,XK,Compactos,A dos ruedas,12.38
+2013,Jaguar,XK,Compactos,A dos ruedas,13.07
+2013,Audi,A5 Cabriolet,Compactos,A dos ruedas,9.05
+2013,Audi,A5 quattro,Compactos,Total (4x4 / AWD),9.8
+2013,Audi,A5 Cabriolet quattro,Compactos,Total (4x4 / AWD),9.8
+2013,Chevrolet,Spark,Compactos,A dos ruedas,7.35
+2013,Mercedes-Benz,E350 4matic Coupe,Compactos,Total (4x4 / AWD),10.69
+2013,Mercedes-Benz,E350 Coupe,Compactos,A dos ruedas,10.23
+2013,Mercedes-Benz,E350 4matic Coupe,Compactos,Total (4x4 / AWD),10.69
+2013,Mercedes-Benz,E350 Coupe,Compactos,A dos ruedas,10.23
+2013,Mercedes-Benz,E350 Convertible,Compactos,A dos ruedas,10.69
+2013,Mercedes-Benz,E550 Coupe,Compactos,A dos ruedas,11.2
+2013,Mercedes-Benz,E550 Convertible,Compactos,A dos ruedas,12.38
+2013,Volkswagen,Beetle,Compactos,A dos ruedas,7.35
+2013,Volkswagen,Beetle Convertible,Compactos,A dos ruedas,7.35
+2013,Audi,A4,Compactos,A dos ruedas,9.05
+2013,Audi,A4 quattro,Compactos,Total (4x4 / AWD),9.8
+2013,Buick,Verano,Compactos,A dos ruedas,9.8
+2013,Cadillac,ATS,Compactos,A dos ruedas,9.05
+2013,Chevrolet,Sonic,Compactos,A dos ruedas,7.84
+2013,Chevrolet,Sonic,Compactos,A dos ruedas,8.4
+2013,Mercedes-Benz,CL550 4matic,Compactos,Total (4x4 / AWD),13.07
+2013,Mercedes-Benz,CL63 AMG,Compactos,A dos ruedas,13.07
+2013,Mercedes-Benz,CLS550,Compactos,A dos ruedas,11.76
+2013,Mercedes-Benz,CLS550 4matic,Compactos,Total (4x4 / AWD),12.38
+2013,Mercedes-Benz,CLS63 AMG,Compactos,A dos ruedas,12.38
+2013,Volkswagen,Golf,Compactos,A dos ruedas,6.92
+2013,Volkswagen,Golf,Compactos,A dos ruedas,6.92
+2013,Audi,A6,Berlinas y familiares,A dos ruedas,8.4
+2013,Audi,A6 quattro,Berlinas y familiares,Total (4x4 / AWD),9.8
+2013,Audi,A7 quattro,Berlinas y familiares,Total (4x4 / AWD),11.2
+2013,Audi,A6 quattro,Berlinas y familiares,Total (4x4 / AWD),10.69
+2013,Buick,Regal,Berlinas y familiares,A dos ruedas,10.69
+2013,Buick,LaCrosse AWD,Berlinas y familiares,Total (4x4 / AWD),11.76
+2013,Buick,Regal,Berlinas y familiares,A dos ruedas,10.23
+2013,Buick,Regal,Berlinas y familiares,A dos ruedas,10.23
+2013,Chevrolet,Sonic 5,Berlinas y familiares,A dos ruedas,7.84
+2013,Chevrolet,Sonic 5,Berlinas y familiares,A dos ruedas,8.4
+2013,Lexus,ES 350,Berlinas y familiares,A dos ruedas,9.8
+2013,Lexus,ES 300h,Berlinas y familiares,A dos ruedas,5.88
+2013,Mercedes-Benz,E350 4matic,Berlinas y familiares,Total (4x4 / AWD),10.69
+2013,Mercedes-Benz,E350,Berlinas y familiares,A dos ruedas,10.23
+2013,Mercedes-Benz,E550 4matic,Berlinas y familiares,Total (4x4 / AWD),11.76
+2013,Mercedes-Benz,E63 AMG,Berlinas y familiares,A dos ruedas,12.38
+2013,Volkswagen,Jetta,Compactos,A dos ruedas,6.92
+2013,Volkswagen,Jetta,Compactos,A dos ruedas,6.92
+2013,Volkswagen,Passat,Berlinas y familiares,A dos ruedas,9.05
+2013,Volkswagen,Passat,Berlinas y familiares,A dos ruedas,9.41
+2013,Volkswagen,Jetta,Compactos,A dos ruedas,9.41
+2013,Volkswagen,Jetta,Compactos,A dos ruedas,8.4
+2013,Volvo,S80 FWD,Berlinas y familiares,A dos ruedas,10.23
+2013,Chevrolet,Impala,Berlinas y familiares,A dos ruedas,10.69
+2013,Chevrolet,Impala,Berlinas y familiares,A dos ruedas,10.69
+2013,Mercedes-Benz,S550,Berlinas y familiares,A dos ruedas,12.38
+2013,Mercedes-Benz,S63 AMG,Berlinas y familiares,A dos ruedas,13.07
+2013,Mercedes-Benz,S550 4matic,Berlinas y familiares,Total (4x4 / AWD),13.07
+2013,Porsche,Panamera Turbo,Berlinas y familiares,Total (4x4 / AWD),13.07
+2013,Porsche,Panamera Turbo S,Berlinas y familiares,Total (4x4 / AWD),13.07
+2013,Audi,A3 quattro,Berlinas y familiares,Total (4x4 / AWD),9.8
+2013,Audi,A3,Berlinas y familiares,A dos ruedas,6.92
+2013,Volkswagen,Jetta SportWagen,Berlinas y familiares,A dos ruedas,7.13
+2013,Volkswagen,Jetta SportWagen,Berlinas y familiares,A dos ruedas,6.92
+2013,Mercedes-Benz,E63 AMG (wagon),Berlinas y familiares,A dos ruedas,13.07
+2013,Porsche,Cayenne,SUV,Total (4x4 / AWD),12.38
+2013,Porsche,Cayenne,SUV,Total (4x4 / AWD),13.84
+2013,Volkswagen,Touareg Hybrid,SUV,Total (4x4 / AWD),11.2
+2013,Volkswagen,Touareg,SUV,Total (4x4 / AWD),12.38
+2013,Chevrolet,Equinox FWD,SUV,A dos ruedas,11.76
+2013,Chevrolet,Equinox FWD,SUV,A dos ruedas,9.05
+2013,Chevrolet,Equinox FWD,SUV,A dos ruedas,11.76
+2013,Chevrolet,Equinox FWD,SUV,A dos ruedas,9.05
+2013,Chevrolet,Captiva FWD,SUV,A dos ruedas,10.23
+2013,Chevrolet,Captiva FWD,SUV,A dos ruedas,12.38
+2013,GMC,Terrain FWD,SUV,A dos ruedas,9.05
+2013,GMC,Terrain FWD,SUV,A dos ruedas,11.76
+2013,GMC,Terrain FWD,SUV,A dos ruedas,9.05
+2013,Chevrolet,Captiva AWD,SUV,Total (4x4 / AWD),13.07
+2013,Subaru,Tribeca AWD,SUV,Total (4x4 / AWD),13.07
+2013,Volvo,XC70 AWD,SUV,Total (4x4 / AWD),11.76
+2013,Volvo,XC60 AWD,SUV,Total (4x4 / AWD),11.76
+2013,Dodge,Durango 2WD,SUV,A dos ruedas,14.7
+2013,Dodge,Durango 2WD,SUV,A dos ruedas,12.38
+2013,Jeep,Grand Cherokee 2WD,SUV,A dos ruedas,14.7
+2013,Dodge,Durango 4WD,SUV,Total (4x4 / AWD),12.38
+2013,Dodge,Durango 4WD,SUV,Total (4x4 / AWD),15.68
+2013,Jeep,Grand Cherokee 4WD,SUV,Total (4x4 / AWD),15.68
+2013,Jeep,Grand Cherokee SRT8,SUV,Total (4x4 / AWD),16.8
+2013,Land Rover,Range Rover Sport,SUV,Total (4x4 / AWD),15.68
+2013,Lexus,GX 460,SUV,Total (4x4 / AWD),13.84
+2013,Mercedes-Benz,ML350 4matic,SUV,Total (4x4 / AWD),11.76
+2013,Mercedes-Benz,SLK250,Deportivos biplaza,A dos ruedas,9.05
+2013,Mercedes-Benz,SLK350,Deportivos biplaza,A dos ruedas,9.8
+2013,Mercedes-Benz,SLS AMG Coupe,Deportivos biplaza,A dos ruedas,15.68
+2013,Mercedes-Benz,SLS AMG Roadster,Deportivos biplaza,A dos ruedas,15.68
+2013,Maserati,GranTurismo,Compactos,A dos ruedas,14.7
+2013,Maserati,GranTurismo Convertible,Compactos,A dos ruedas,15.68
+2013,Mercedes-Benz,C250 Coupe,Compactos,A dos ruedas,9.41
+2013,Mercedes-Benz,C63 AMG Coupe,Compactos,A dos ruedas,15.68
+2013,Mercedes-Benz,C63 AMG Black Series Coupe,Compactos,A dos ruedas,15.68
+2013,Mercedes-Benz,C350 4matic Coupe,Compactos,Total (4x4 / AWD),10.69
+2013,Mercedes-Benz,C350 Coupe,Compactos,A dos ruedas,10.23
+2013,Mercedes-Benz,E350 Coupe,Compactos,A dos ruedas,10.23
+2013,Mercedes-Benz,E350 4matic Coupe,Compactos,Total (4x4 / AWD),10.69
+2013,Mercedes-Benz,E350 Convertible,Compactos,A dos ruedas,10.69
+2013,Volkswagen,Beetle Convertible,Compactos,A dos ruedas,9.8
+2013,Mazda,2,Compactos,A dos ruedas,7.35
+2013,Mercedes-Benz,C300 4matic,Compactos,Total (4x4 / AWD),10.23
+2013,Mercedes-Benz,C350,Compactos,A dos ruedas,10.23
+2013,Mercedes-Benz,C250,Compactos,A dos ruedas,9.41
+2013,Mercedes-Benz,C350,Compactos,A dos ruedas,10.23
+2013,Mercedes-Benz,C63 AMG,Compactos,A dos ruedas,15.68
+2013,Mercedes-Benz,CL600,Compactos,A dos ruedas,16.8
+2013,Rolls-Royce,Phantom Drophead Coupe,Compactos,A dos ruedas,16.8
+2013,Rolls-Royce,Phantom Coupe,Compactos,A dos ruedas,16.8
+2013,Volkswagen,Beetle,Compactos,A dos ruedas,9.8
+2013,Volkswagen,Beetle,Compactos,A dos ruedas,7.35
+2013,Mercedes-Benz,E350,Berlinas y familiares,A dos ruedas,10.23
+2013,Mercedes-Benz,E350 4matic,Berlinas y familiares,Total (4x4 / AWD),10.69
+2013,Ford,Taurus FWD,Berlinas y familiares,A dos ruedas,9.05
+2013,Hyundai,Genesis,Berlinas y familiares,A dos ruedas,10.69
+2013,Hyundai,Genesis R-Spec,Berlinas y familiares,A dos ruedas,13.07
+2013,Maserati,Quattroporte,Berlinas y familiares,A dos ruedas,16.8
+2013,Mercedes-Benz,S400 Hybrid,Berlinas y familiares,A dos ruedas,11.2
+2013,Mercedes-Benz,S600,Berlinas y familiares,A dos ruedas,16.8
+2013,Mercedes-Benz,S65 AMG,Berlinas y familiares,A dos ruedas,16.8
+2013,Porsche,Panamera S Hybrid,Berlinas y familiares,A dos ruedas,9.41
+2013,Rolls-Royce,Phantom,Berlinas y familiares,A dos ruedas,16.8
+2013,Rolls-Royce,Phantom EWB,Berlinas y familiares,A dos ruedas,16.8
+2013,Kia,Soul Eco,Berlinas y familiares,A dos ruedas,8.4
+2013,Kia,Soul,Berlinas y familiares,A dos ruedas,8.71
+2013,Kia,Soul,Berlinas y familiares,A dos ruedas,8.71
+2013,Kia,Soul Eco,Berlinas y familiares,A dos ruedas,9.05
+2013,Kia,Soul,Berlinas y familiares,A dos ruedas,9.41
+2013,Kia,Soul,Berlinas y familiares,A dos ruedas,9.05
+2013,Mercedes-Benz,E350 4matic (wagon),Berlinas y familiares,Total (4x4 / AWD),10.69
+2013,Chrysler,Town and Country,Pickups y furgonetas,A dos ruedas,11.76
+2013,Dodge,Grand Caravan,Pickups y furgonetas,A dos ruedas,11.76
+2013,Dodge,Grand Caravan,Pickups y furgonetas,A dos ruedas,11.76
+2013,Ram,C/V,Pickups y furgonetas,A dos ruedas,11.76
+2013,Volkswagen,Routan,Pickups y furgonetas,A dos ruedas,11.76
+2013,Porsche,Cayenne S Hybrid,SUV,Total (4x4 / AWD),11.2
+2013,Dodge,Journey FWD,SUV,A dos ruedas,11.76
+2013,Dodge,Journey FWD,SUV,A dos ruedas,11.2
+2013,Hyundai,Santa Fe Sport 2WD,SUV,A dos ruedas,9.8
+2013,Hyundai,Santa Fe Sport 2WD,SUV,A dos ruedas,10.23
+2013,Infiniti,FX37 RWD,SUV,A dos ruedas,12.38
+2013,Jeep,Patriot 2WD,SUV,A dos ruedas,9.41
+2013,Jeep,Compass 2WD,SUV,A dos ruedas,9.41
+2013,Jeep,Patriot 2WD,SUV,A dos ruedas,9.8
+2013,Jeep,Compass 2WD,SUV,A dos ruedas,9.8
+2013,Jeep,Compass 2WD,SUV,A dos ruedas,9.8
+2013,Jeep,Patriot 2WD,SUV,A dos ruedas,9.8
+2013,Jeep,Compass 2WD,SUV,A dos ruedas,9.05
+2013,Jeep,Patriot 2WD,SUV,A dos ruedas,9.05
+2013,Mercedes-Benz,GLK350,SUV,A dos ruedas,11.2
+2013,Mercedes-Benz,GLK350,SUV,A dos ruedas,11.2
+2013,Nissan,Rogue FWD,SUV,A dos ruedas,9.41
+2013,Volvo,XC60 FWD,SUV,A dos ruedas,11.2
+2013,Volvo,XC70 FWD,SUV,A dos ruedas,11.2
+2013,Dodge,Journey AWD,SUV,Total (4x4 / AWD),12.38
+2013,Hyundai,Santa Fe Sport 4WD,SUV,Total (4x4 / AWD),10.69
+2013,Hyundai,Santa Fe Sport 4WD,SUV,Total (4x4 / AWD),11.2
+2013,Infiniti,FX50 AWD,SUV,Total (4x4 / AWD),14.7
+2013,Infiniti,FX37 AWD,SUV,Total (4x4 / AWD),13.07
+2013,Jeep,Patriot 4WD,SUV,Total (4x4 / AWD),9.8
+2013,Jeep,Compass 4WD,SUV,Total (4x4 / AWD),9.8
+2013,Jeep,Patriot 4WD,SUV,Total (4x4 / AWD),11.2
+2013,Jeep,Compass 4WD,SUV,Total (4x4 / AWD),11.2
+2013,Jeep,Compass 4WD,SUV,Total (4x4 / AWD),10.23
+2013,Jeep,Patriot 4WD,SUV,Total (4x4 / AWD),10.23
+2013,Mercedes-Benz,GLK350 4matic,SUV,Total (4x4 / AWD),11.2
+2013,Mercedes-Benz,GLK350 4matic,SUV,Total (4x4 / AWD),11.2
+2013,Nissan,Rogue AWD,SUV,Total (4x4 / AWD),9.8
+2013,Mercedes-Benz,ML350,SUV,A dos ruedas,11.76
+2013,Audi,Q7,SUV,Total (4x4 / AWD),10.69
+2013,Audi,Q5,SUV,Total (4x4 / AWD),10.23
+2013,Mercedes-Benz,ML350 4matic,SUV,Total (4x4 / AWD),11.76
+2013,Mercedes-Benz,ML550 4matic,SUV,Total (4x4 / AWD),14.7
+2013,Mercedes-Benz,ML63 AMG,SUV,Total (4x4 / AWD),15.68
+2013,Mercedes-Benz,R350 4matic,SUV,Total (4x4 / AWD),13.07
+2013,Mercedes-Benz,G550,SUV,Total (4x4 / AWD),18.09
+2013,Mercedes-Benz,G63 AMG,SUV,Total (4x4 / AWD),18.09
+2013,BMW,Z4 sDrive28i,Deportivos biplaza,A dos ruedas,9.05
+2013,BMW,Z4 sDrive28i,Deportivos biplaza,A dos ruedas,9.05
+2013,BMW,Z4 sDrive35i,Deportivos biplaza,A dos ruedas,11.2
+2013,BMW,Z4 sDrive35i,Deportivos biplaza,A dos ruedas,12.38
+2013,BMW,Z4 sDrive35is,Deportivos biplaza,A dos ruedas,12.38
+2013,MINI,Cooper Roadster,Deportivos biplaza,A dos ruedas,7.84
+2013,MINI,Cooper Roadster,Deportivos biplaza,A dos ruedas,7.84
+2013,MINI,Cooper Coupe,Deportivos biplaza,A dos ruedas,7.59
+2013,MINI,Cooper Coupe,Deportivos biplaza,A dos ruedas,7.35
+2013,MINI,Cooper S Roadster,Deportivos biplaza,A dos ruedas,8.11
+2013,MINI,Cooper S Roadster,Deportivos biplaza,A dos ruedas,8.11
+2013,MINI,Cooper S Coupe,Deportivos biplaza,A dos ruedas,8.11
+2013,MINI,Cooper S Coupe,Deportivos biplaza,A dos ruedas,8.11
+2013,MINI,John Cooper Works Coupe,Deportivos biplaza,A dos ruedas,8.11
+2013,MINI,John Cooper Works Coupe,Deportivos biplaza,A dos ruedas,8.11
+2013,MINI,John Cooper Works Roadster,Deportivos biplaza,A dos ruedas,8.11
+2013,MINI,John Cooper Works Roadster,Deportivos biplaza,A dos ruedas,8.11
+2013,MINI,Cooper,Compactos,A dos ruedas,7.59
+2013,MINI,Cooper,Compactos,A dos ruedas,7.35
+2013,MINI,Cooper Convertible,Compactos,A dos ruedas,7.84
+2013,MINI,Cooper Convertible,Compactos,A dos ruedas,7.84
+2013,MINI,Cooper S,Compactos,A dos ruedas,8.11
+2013,MINI,Cooper S,Compactos,A dos ruedas,8.11
+2013,MINI,Cooper S Convertible,Compactos,A dos ruedas,8.11
+2013,MINI,Cooper S Convertible,Compactos,A dos ruedas,8.11
+2013,MINI,John Cooper Works,Compactos,A dos ruedas,8.11
+2013,MINI,John Cooper Works,Compactos,A dos ruedas,8.11
+2013,MINI,John Cooper Works Convertible,Compactos,A dos ruedas,8.11
+2013,MINI,John Cooper Works Convertible,Compactos,A dos ruedas,8.11
+2013,Scion,iQ,Compactos,A dos ruedas,6.36
+2013,BMW,135i,Compactos,A dos ruedas,11.2
+2013,BMW,135i Convertible,Compactos,A dos ruedas,11.76
+2013,BMW,135i Convertible,Compactos,A dos ruedas,10.69
+2013,BMW,335i Coupe,Compactos,A dos ruedas,11.2
+2013,BMW,335i Coupe,Compactos,A dos ruedas,10.69
+2013,BMW,335i Coupe xDrive,Compactos,Total (4x4 / AWD),11.2
+2013,BMW,335i Coupe xDrive,Compactos,Total (4x4 / AWD),10.23
+2013,BMW,335is Convertible,Compactos,A dos ruedas,12.38
+2013,BMW,335is Convertible,Compactos,A dos ruedas,11.2
+2013,BMW,335i Convertible,Compactos,A dos ruedas,11.2
+2013,BMW,335i Convertible,Compactos,A dos ruedas,10.69
+2013,MINI,Cooper Clubman,Compactos,A dos ruedas,7.84
+2013,MINI,Cooper Clubman,Compactos,A dos ruedas,7.84
+2013,MINI,Cooper S Clubman,Compactos,A dos ruedas,8.11
+2013,MINI,Cooper S Clubman,Compactos,A dos ruedas,8.11
+2013,MINI,John Cooper Works Clubman,Compactos,A dos ruedas,8.11
+2013,MINI,John Cooper Works Clubman,Compactos,A dos ruedas,8.11
+2013,Volkswagen,Beetle Convertible,Compactos,A dos ruedas,10.23
+2013,Volkswagen,Beetle Convertible,Compactos,A dos ruedas,9.8
+2013,BMW,328i,Compactos,A dos ruedas,9.05
+2013,BMW,328i,Compactos,A dos ruedas,9.05
+2013,BMW,328i xDrive,Compactos,Total (4x4 / AWD),9.05
+2013,BMW,335i,Compactos,A dos ruedas,10.23
+2013,BMW,335i xDrive,Compactos,Total (4x4 / AWD),9.8
+2013,BMW,335i xDrive,Compactos,Total (4x4 / AWD),10.23
+2013,BMW,335is Coupe,Compactos,A dos ruedas,12.38
+2013,BMW,335is Coupe,Compactos,A dos ruedas,11.2
+2013,BMW,640i Convertible,Compactos,A dos ruedas,9.8
+2013,Chrysler,200 Convertible,Compactos,A dos ruedas,10.69
+2013,Chrysler,200 Convertible,Compactos,A dos ruedas,11.2
+2013,Ford,Focus FWD,Compactos,A dos ruedas,7.59
+2013,Ford,Focus FWD,Compactos,A dos ruedas,7.59
+2013,Ford,Focus FWD,Compactos,A dos ruedas,7.84
+2013,Ford,Focus FWD,Compactos,A dos ruedas,9.05
+2013,Ford,Focus FWD FFV,Compactos,A dos ruedas,7.59
+2013,Ford,Focus FWD FFV,Compactos,A dos ruedas,7.59
+2013,Ford,Focus FWD FFV,Compactos,A dos ruedas,7.84
+2013,Ford,Focus SFE FWD FFV,Compactos,A dos ruedas,7.13
+2013,Mazda,2,Compactos,A dos ruedas,7.84
+2013,Mazda,3 DI 4-Door,Compactos,A dos ruedas,7.59
+2013,Mazda,3 DI 4-Door,Compactos,A dos ruedas,7.13
+2013,Mazda,3,Compactos,A dos ruedas,8.4
+2013,Mazda,3,Compactos,A dos ruedas,8.71
+2013,Mazda,3,Compactos,A dos ruedas,10.23
+2013,Mazda,3,Compactos,A dos ruedas,9.41
+2013,Mercedes-Benz,C350,Compactos,A dos ruedas,9.8
+2013,Mercedes-Benz,C300 4matic,Compactos,Total (4x4 / AWD),10.69
+2013,Mercedes-Benz,CL65 AMG,Compactos,A dos ruedas,16.8
+2013,MINI,Cooper Countryman,Compactos,A dos ruedas,8.71
+2013,MINI,Cooper Countryman,Compactos,A dos ruedas,7.84
+2013,MINI,Cooper S Countryman,Compactos,A dos ruedas,8.4
+2013,MINI,Cooper S Countryman,Compactos,A dos ruedas,8.11
+2013,MINI,Cooper S Countryman All4,Compactos,Total (4x4 / AWD),9.05
+2013,MINI,Cooper S Countryman All4,Compactos,Total (4x4 / AWD),8.71
+2013,MINI,Cooper S Countryman Coupe,Compactos,A dos ruedas,8.4
+2013,MINI,Cooper S Countryman Coupe All4,Compactos,Total (4x4 / AWD),9.05
+2013,MINI,Cooper S Countryman Coupe All4,Compactos,Total (4x4 / AWD),8.71
+2013,Mitsubishi,Lancer,Compactos,A dos ruedas,8.4
+2013,Mitsubishi,Lancer,Compactos,A dos ruedas,8.11
+2013,Mitsubishi,Lancer,Compactos,A dos ruedas,9.05
+2013,Mitsubishi,Lancer,Compactos,A dos ruedas,9.05
+2013,Mitsubishi,Lancer,Compactos,Total (4x4 / AWD),11.76
+2013,Mitsubishi,Lancer AWD,Compactos,Total (4x4 / AWD),9.41
+2013,Mitsubishi,Lancer Evolution,Compactos,Total (4x4 / AWD),12.38
+2013,Mitsubishi,Lancer Evolution,Compactos,Total (4x4 / AWD),12.38
+2013,Toyota,Corolla,Compactos,A dos ruedas,8.11
+2013,Toyota,Corolla,Compactos,A dos ruedas,7.84
+2013,Volkswagen,Golf,Compactos,A dos ruedas,9.05
+2013,Volkswagen,Beetle,Compactos,A dos ruedas,9.41
+2013,Volkswagen,Beetle,Compactos,A dos ruedas,9.41
+2013,Volkswagen,GTI,Compactos,A dos ruedas,9.41
+2013,Volkswagen,Golf,Compactos,A dos ruedas,9.05
+2013,Volkswagen,Beetle,Compactos,A dos ruedas,9.41
+2013,Audi,S7,Berlinas y familiares,Total (4x4 / AWD),11.76
+2013,Audi,S6,Berlinas y familiares,Total (4x4 / AWD),11.76
+2013,BMW,X1 xDrive28i,Berlinas y familiares,Total (4x4 / AWD),9.05
+2013,BMW,X1 sDrive28i,Berlinas y familiares,A dos ruedas,8.4
+2013,BMW,X1 xDrive35i,Berlinas y familiares,Total (4x4 / AWD),11.2
+2013,BMW,528i,Berlinas y familiares,A dos ruedas,8.4
+2013,BMW,528i xDrive,Berlinas y familiares,Total (4x4 / AWD),9.05
+2013,BMW,535i,Berlinas y familiares,A dos ruedas,9.8
+2013,BMW,535i,Berlinas y familiares,A dos ruedas,10.23
+2013,BMW,535i xDrive,Berlinas y familiares,Total (4x4 / AWD),9.8
+2013,BMW,550i,Berlinas y familiares,A dos ruedas,11.76
+2013,BMW,550i,Berlinas y familiares,A dos ruedas,13.84
+2013,Chevrolet,Malibu,Berlinas y familiares,A dos ruedas,9.05
+2013,Chrysler,200,Berlinas y familiares,A dos ruedas,10.69
+2013,Chrysler,200,Berlinas y familiares,A dos ruedas,10.23
+2013,Chrysler,200,Berlinas y familiares,A dos ruedas,9.8
+2013,Dodge,Avenger,Berlinas y familiares,A dos ruedas,10.69
+2013,Dodge,Challenger SRT8,Berlinas y familiares,A dos ruedas,13.84
+2013,Dodge,Challenger,Berlinas y familiares,A dos ruedas,12.38
+2013,Dodge,Challenger,Berlinas y familiares,A dos ruedas,11.2
+2013,Dodge,Challenger,Berlinas y familiares,A dos ruedas,13.07
+2013,Dodge,Challenger SRT8,Berlinas y familiares,A dos ruedas,13.84
+2013,Dodge,Avenger,Berlinas y familiares,A dos ruedas,10.23
+2013,Dodge,Avenger,Berlinas y familiares,A dos ruedas,9.8
+2013,Mazda,3 DI 5-Door,Berlinas y familiares,A dos ruedas,7.59
+2013,Mazda,3 DI 5-Door,Berlinas y familiares,A dos ruedas,7.35
+2013,Mazda,Speed 3,Berlinas y familiares,A dos ruedas,11.2
+2013,Mercedes-Benz,E350,Berlinas y familiares,A dos ruedas,10.23
+2013,Mercedes-Benz,E350 4Matic,Berlinas y familiares,Total (4x4 / AWD),10.69
+2013,MINI,JCW Countryman All4,Compactos,Total (4x4 / AWD),9.05
+2013,MINI,JCW Countryman All4,Compactos,Total (4x4 / AWD),8.71
+2013,MINI,JCW Countryman Coupe All4,Compactos,Total (4x4 / AWD),9.05
+2013,MINI,JCW Countryman Coupe All4,Compactos,Total (4x4 / AWD),8.71
+2013,Volkswagen,Jetta,Compactos,A dos ruedas,9.05
+2013,Volkswagen,Jetta,Compactos,A dos ruedas,9.05
+2013,BMW,535i Gran Turismo,Berlinas y familiares,A dos ruedas,9.8
+2013,Chrysler,300 SRT8,Berlinas y familiares,A dos ruedas,13.84
+2013,Chrysler,300 AWD,Berlinas y familiares,Total (4x4 / AWD),13.07
+2013,Chrysler,300,Berlinas y familiares,A dos ruedas,12.38
+2013,Chrysler,300 AWD,Berlinas y familiares,Total (4x4 / AWD),11.2
+2013,Chrysler,300,Berlinas y familiares,A dos ruedas,10.23
+2013,Chrysler,300 AWD,Berlinas y familiares,Total (4x4 / AWD),11.2
+2013,Chrysler,300,Berlinas y familiares,A dos ruedas,10.23
+2013,Dodge,Charger AWD,Berlinas y familiares,Total (4x4 / AWD),13.07
+2013,Dodge,Charger,Berlinas y familiares,A dos ruedas,12.38
+2013,Dodge,Charger,Berlinas y familiares,A dos ruedas,11.2
+2013,Dodge,Charger AWD,Berlinas y familiares,Total (4x4 / AWD),11.2
+2013,Dodge,Charger,Berlinas y familiares,A dos ruedas,10.23
+2013,Dodge,Charger,Berlinas y familiares,A dos ruedas,11.2
+2013,Dodge,Charger AWD,Berlinas y familiares,Total (4x4 / AWD),11.2
+2013,Dodge,Charger,Berlinas y familiares,A dos ruedas,10.23
+2013,Dodge,Charger SRT8,Berlinas y familiares,A dos ruedas,13.84
+2013,Ford,C-MAX Hybrid FWD,Berlinas y familiares,A dos ruedas,5.47
+2013,Mitsubishi,Lancer Sportback,Berlinas y familiares,A dos ruedas,8.71
+2013,Mitsubishi,Lancer Sportback,Berlinas y familiares,A dos ruedas,9.41
+2013,Volkswagen,Jetta SportWagen,Berlinas y familiares,A dos ruedas,9.05
+2013,Volkswagen,Jetta SportWagen,Berlinas y familiares,A dos ruedas,9.05
+2013,Ford,Transit Connect Van,Pickups y furgonetas,A dos ruedas,10.23
+2013,Ford,Transit Connect Wagon FWD,Pickups y furgonetas,A dos ruedas,9.8
+2013,Ford,Escape FWD,SUV,A dos ruedas,9.05
+2013,GMC,Terrain FWD,SUV,A dos ruedas,11.76
+2013,Jeep,Wrangler 4WD,SUV,Total (4x4 / AWD),13.07
+2013,Jeep,Wrangler Unlimited 4WD,SUV,Total (4x4 / AWD),13.07
+2013,Jeep,Wrangler 4WD,SUV,Total (4x4 / AWD),13.07
+2013,Jeep,Wrangler Unlimited 4WD,SUV,Total (4x4 / AWD),13.07
+2013,Lexus,RX 350 AWD,SUV,Total (4x4 / AWD),11.2
+2013,Lamborghini,Aventador Coupe,Deportivos biplaza,Total (4x4 / AWD),18.09
+2013,Ferrari,California,Compactos,A dos ruedas,15.68
+2013,Fiat,500,Compactos,A dos ruedas,7.59
+2013,Fiat,500 Abarth,Compactos,A dos ruedas,7.59
+2013,Fiat,500,Compactos,A dos ruedas,7.84
+2013,Fiat,500,Compactos,A dos ruedas,6.92
+2013,BMW,128i,Compactos,A dos ruedas,10.69
+2013,BMW,128i,Compactos,A dos ruedas,10.69
+2013,BMW,128ci Convertible,Compactos,A dos ruedas,11.2
+2013,BMW,128ci Convertible,Compactos,A dos ruedas,10.69
+2013,BMW,135i,Compactos,A dos ruedas,10.23
+2013,BMW,328i Coupe xDrive,Compactos,Total (4x4 / AWD),11.76
+2013,BMW,328i Coupe xDrive,Compactos,Total (4x4 / AWD),12.38
+2013,BMW,328i Convertible,Compactos,A dos ruedas,11.2
+2013,BMW,328i Convertible,Compactos,A dos ruedas,11.76
+2013,BMW,M3 Coupe,Compactos,A dos ruedas,14.7
+2013,BMW,M3 Coupe,Compactos,A dos ruedas,14.7
+2013,BMW,M3 Convertible,Compactos,A dos ruedas,14.7
+2013,BMW,M3 Convertible,Compactos,A dos ruedas,14.7
+2013,BMW,650i Coupe,Compactos,A dos ruedas,12.38
+2013,BMW,M6 Coupe,Compactos,A dos ruedas,13.84
+2013,BMW,M6 Coupe,Compactos,A dos ruedas,14.7
+2013,Nissan,Altima Coupe,Compactos,A dos ruedas,9.05
+2013,Suzuki,SX4 AWD,Compactos,Total (4x4 / AWD),9.41
+2013,Suzuki,SX4 AWD,Compactos,Total (4x4 / AWD),9.41
+2013,Suzuki,SX4,Compactos,A dos ruedas,9.41
+2013,Suzuki,SX4,Compactos,A dos ruedas,9.05
+2013,BMW,328i Coupe,Compactos,A dos ruedas,10.69
+2013,BMW,328i Coupe,Compactos,A dos ruedas,10.69
+2013,BMW,335i,Compactos,A dos ruedas,9.05
+2013,BMW,640i Coupe,Compactos,A dos ruedas,9.05
+2013,BMW,650i Coupe xDrive,Compactos,Total (4x4 / AWD),12.38
+2013,BMW,650i Convertible,Compactos,A dos ruedas,12.38
+2013,BMW,650i Convertible xDrive,Compactos,Total (4x4 / AWD),12.38
+2013,BMW,M6 Convertible,Compactos,A dos ruedas,13.84
+2013,BMW,M6 Convertible,Compactos,A dos ruedas,14.7
+2013,MINI,Cooper S Countryman Coupe,Compactos,A dos ruedas,8.11
+2013,Suzuki,SX4 Sedan,Compactos,A dos ruedas,9.05
+2013,Suzuki,SX4 Sedan,Compactos,A dos ruedas,8.4
+2013,Suzuki,SX4 Sport,Compactos,A dos ruedas,9.05
+2013,Suzuki,SX4 Sport,Compactos,A dos ruedas,9.05
+2013,Suzuki,Kizashi,Compactos,A dos ruedas,9.05
+2013,Suzuki,Kizashi S,Compactos,A dos ruedas,9.41
+2013,Suzuki,Kizashi,Compactos,A dos ruedas,9.8
+2013,Suzuki,Kizashi S AWD,Compactos,Total (4x4 / AWD),9.41
+2013,Suzuki,Kizashi AWD,Compactos,Total (4x4 / AWD),9.41
+2013,Audi,A8,Berlinas y familiares,Total (4x4 / AWD),11.2
+2013,BMW,ActiveHybrid 3,Compactos,A dos ruedas,8.4
+2013,BMW,ActiveHybrid 5,Berlinas y familiares,A dos ruedas,9.05
+2013,BMW,550i xDrive,Berlinas y familiares,Total (4x4 / AWD),12.38
+2013,BMW,M5,Berlinas y familiares,A dos ruedas,13.84
+2013,BMW,M5,Berlinas y familiares,A dos ruedas,14.7
+2013,BMW,650i Gran Coupe,Compactos,A dos ruedas,12.38
+2013,BMW,650i xDrive Gran Coupe,Compactos,Total (4x4 / AWD),12.38
+2013,BMW,M6 Gran Coupe,Compactos,A dos ruedas,13.84
+2013,BMW,M6 Gran Coupe,Compactos,A dos ruedas,14.7
+2013,Buick,Regal,Berlinas y familiares,A dos ruedas,10.69
+2013,Dodge,Dart,Berlinas y familiares,A dos ruedas,7.59
+2013,Ford,Fusion Hybrid FWD,Berlinas y familiares,A dos ruedas,5.0
+2013,Ford,Fusion FWD,Berlinas y familiares,A dos ruedas,8.11
+2013,Ford,Fusion FWD,Berlinas y familiares,A dos ruedas,8.4
+2013,Ford,Fusion FWD,Berlinas y familiares,A dos ruedas,9.05
+2013,Ford,Fusion FWD,Berlinas y familiares,A dos ruedas,9.05
+2013,Ford,Fusion AWD,Berlinas y familiares,Total (4x4 / AWD),9.41
+2013,Audi,A8 L,Berlinas y familiares,Total (4x4 / AWD),12.38
+2013,Audi,A8 L,Berlinas y familiares,Total (4x4 / AWD),14.7
+2013,BMW,535i xDrive Gran Turismo,Berlinas y familiares,Total (4x4 / AWD),11.2
+2013,BMW,550i Gran Turismo,Berlinas y familiares,A dos ruedas,12.38
+2013,BMW,550i xDrive Gran Turismo,Berlinas y familiares,Total (4x4 / AWD),12.38
+2013,BMW,740i,Berlinas y familiares,A dos ruedas,10.69
+2013,BMW,740Li,Berlinas y familiares,A dos ruedas,10.69
+2013,BMW,740Li xDrive,Berlinas y familiares,Total (4x4 / AWD),10.69
+2013,BMW,750i,Berlinas y familiares,A dos ruedas,12.38
+2013,BMW,750Li,Berlinas y familiares,A dos ruedas,12.38
+2013,BMW,750i xDrive,Berlinas y familiares,Total (4x4 / AWD),12.38
+2013,BMW,750Li xDrive,Berlinas y familiares,Total (4x4 / AWD),12.38
+2013,BMW,Alpina B7 SWB,Berlinas y familiares,A dos ruedas,12.38
+2013,BMW,Alpina B7 LWB,Berlinas y familiares,A dos ruedas,12.38
+2013,BMW,Alpina B7 SWB xDrive,Berlinas y familiares,Total (4x4 / AWD),12.38
+2013,BMW,Alpina B7 LWB xDrive,Berlinas y familiares,Total (4x4 / AWD),12.38
+2013,BMW,760Li,Berlinas y familiares,A dos ruedas,15.68
+2013,Rolls-Royce,Ghost,Berlinas y familiares,A dos ruedas,15.68
+2013,Rolls-Royce,Ghost EWB,Berlinas y familiares,A dos ruedas,15.68
+2013,Toyota,Matrix,Berlinas y familiares,A dos ruedas,8.4
+2013,Toyota,Matrix,Berlinas y familiares,A dos ruedas,8.11
+2013,Toyota,Matrix,Berlinas y familiares,Total (4x4 / AWD),10.69
+2013,Toyota,Matrix,Berlinas y familiares,A dos ruedas,9.8
+2013,Toyota,Matrix,Berlinas y familiares,A dos ruedas,9.8
+2013,Toyota,Tacoma 2WD,Pickups y furgonetas,A dos ruedas,12.38
+2013,Toyota,Tacoma 2WD,Pickups y furgonetas,A dos ruedas,13.07
+2013,Toyota,Tacoma 2WD,Pickups y furgonetas,A dos ruedas,11.2
+2013,Toyota,Tacoma 2WD,Pickups y furgonetas,A dos ruedas,10.23
+2013,Toyota,Tacoma 4WD,Pickups y furgonetas,Total (4x4 / AWD),13.07
+2013,Toyota,Tacoma 4WD,Pickups y furgonetas,Total (4x4 / AWD),13.84
+2013,Toyota,Tacoma 4WD,Pickups y furgonetas,Total (4x4 / AWD),12.38
+2013,Toyota,Tacoma 4WD,Pickups y furgonetas,Total (4x4 / AWD),12.38
+2013,Toyota,Sienna 2WD,Pickups y furgonetas,A dos ruedas,11.2
+2013,Toyota,Sienna 2WD,Pickups y furgonetas,A dos ruedas,11.2
+2013,Toyota,Sienna AWD,Pickups y furgonetas,Total (4x4 / AWD),12.38
+2013,Porsche,Cayenne Diesel,SUV,Total (4x4 / AWD),10.23
+2013,Mitsubishi,Outlander Sport 2WD,SUV,A dos ruedas,9.05
+2013,Mitsubishi,Outlander Sport 2WD,SUV,A dos ruedas,8.71
+2013,Suzuki,Grand Vitara,SUV,A dos ruedas,10.69
+2013,Suzuki,Grand Vitara,SUV,A dos ruedas,11.2
+2013,Mitsubishi,Outlander Sport 4WD,SUV,Total (4x4 / AWD),9.05
+2013,Suzuki,Grand Vitara 4WD,SUV,Total (4x4 / AWD),11.76
+2013,Buick,Enclave FWD,SUV,A dos ruedas,12.38
+2013,Chevrolet,Traverse FWD,SUV,A dos ruedas,12.38
+2013,GMC,Acadia FWD,SUV,A dos ruedas,12.38
+2013,Buick,Enclave AWD,SUV,Total (4x4 / AWD),13.07
+2013,Chevrolet,Traverse AWD,SUV,Total (4x4 / AWD),12.38
+2013,GMC,Acadia AWD,SUV,Total (4x4 / AWD),13.07
+2013,Ferrari,458 Italia,Deportivos biplaza,A dos ruedas,16.8
+2013,Ferrari,458 Italia,Deportivos biplaza,A dos ruedas,15.68
+2013,Ferrari,458 Spider,Deportivos biplaza,A dos ruedas,16.8
+2013,Ferrari,458 Spider,Deportivos biplaza,A dos ruedas,15.68
+2013,Ferrari,California,Compactos,A dos ruedas,14.7
+2013,Audi,A5 quattro,Compactos,Total (4x4 / AWD),9.8
+2013,Audi,A5 Cabriolet quattro,Compactos,Total (4x4 / AWD),9.8
+2013,Scion,xD,Compactos,A dos ruedas,8.11
+2013,Scion,xD,Compactos,A dos ruedas,8.11
+2013,Acura,ILX,Compactos,A dos ruedas,8.4
+2013,Acura,ILX,Compactos,A dos ruedas,9.41
+2013,Acura,ILX Hybrid,Compactos,A dos ruedas,6.19
+2013,Acura,TSX,Compactos,A dos ruedas,9.8
+2013,Acura,TSX,Compactos,A dos ruedas,9.05
+2013,Acura,TSX,Compactos,A dos ruedas,10.23
+2013,Audi,A4 quattro,Compactos,Total (4x4 / AWD),9.8
+2013,Buick,Verano,Compactos,A dos ruedas,9.8
+2013,Cadillac,ATS AWD,Compactos,Total (4x4 / AWD),11.2
+2013,Cadillac,ATS AWD,Compactos,Total (4x4 / AWD),11.2
+2013,Cadillac,ATS,Compactos,A dos ruedas,10.69
+2013,Cadillac,ATS,Compactos,A dos ruedas,10.69
+2013,Honda,Insight,Compactos,A dos ruedas,5.6
+2013,Honda,Insight,Compactos,A dos ruedas,5.6
+2013,Acura,TL 2WD,Berlinas y familiares,A dos ruedas,10.23
+2013,Acura,TL 4WD,Berlinas y familiares,Total (4x4 / AWD),11.76
+2013,Acura,TL 4WD,Berlinas y familiares,Total (4x4 / AWD),11.2
+2013,Audi,S8,Berlinas y familiares,Total (4x4 / AWD),12.38
+2013,Bentley,Mulsanne,Berlinas y familiares,A dos ruedas,18.09
+2013,Chevrolet,Malibu,Berlinas y familiares,A dos ruedas,9.8
+2013,Dodge,Dart Aero,Berlinas y familiares,A dos ruedas,7.35
+2013,Dodge,Dart Aero,Berlinas y familiares,A dos ruedas,7.35
+2013,Ferrari,FF,Berlinas y familiares,Total (4x4 / AWD),18.09
+2013,Ferrari,FF,Berlinas y familiares,Total (4x4 / AWD),18.09
+2013,Honda,Accord,Berlinas y familiares,A dos ruedas,8.11
+2013,Honda,Accord,Berlinas y familiares,A dos ruedas,8.4
+2013,Honda,Accord,Berlinas y familiares,A dos ruedas,9.41
+2013,Honda,Accord,Berlinas y familiares,A dos ruedas,9.41
+2013,Honda,Accord,Berlinas y familiares,A dos ruedas,10.69
+2013,Nissan,Maxima,Berlinas y familiares,A dos ruedas,10.69
+2013,Hyundai,Azera,Berlinas y familiares,A dos ruedas,10.23
+2013,Acura,TSX Wagon,Berlinas y familiares,A dos ruedas,9.41
+2013,Audi,allroad quattro,Berlinas y familiares,Total (4x4 / AWD),10.23
+2013,Nissan,Juke,Berlinas y familiares,A dos ruedas,8.11
+2013,Nissan,Juke,Berlinas y familiares,A dos ruedas,8.71
+2013,Nissan,Juke AWD,Berlinas y familiares,Total (4x4 / AWD),8.71
+2013,Ford,F150 Pickup 2WD FFV,Pickups y furgonetas,A dos ruedas,13.84
+2013,Ford,F150 Pickup 2WD FFV,Pickups y furgonetas,A dos ruedas,13.84
+2013,Ford,F150 Pickup 2WD,Pickups y furgonetas,A dos ruedas,15.68
+2013,Ford,F150 Pickup 2WD FFV,Pickups y furgonetas,A dos ruedas,12.38
+2013,Ford,F150 Pickup 2WD FFV,Pickups y furgonetas,A dos ruedas,12.38
+2013,Ford,F150 Pickup 2WD,Pickups y furgonetas,A dos ruedas,13.07
+2013,Ford,F150 Pickup 2WD,Pickups y furgonetas,A dos ruedas,13.07
+2013,Nissan,Titan 2WD,Pickups y furgonetas,A dos ruedas,15.68
+2013,Nissan,Titan 2WD,Pickups y furgonetas,A dos ruedas,15.68
+2013,Ram,1500 2WD,Pickups y furgonetas,A dos ruedas,14.7
+2013,Ram,1500 2WD,Pickups y furgonetas,A dos ruedas,14.7
+2013,Ram,1500 2WD,Pickups y furgonetas,A dos ruedas,11.76
+2013,Toyota,Tundra 2WD,Pickups y furgonetas,A dos ruedas,13.84
+2013,Toyota,Tundra 2WD,Pickups y furgonetas,A dos ruedas,13.84
+2013,Toyota,Tundra 2WD,Pickups y furgonetas,A dos ruedas,15.68
+2013,Ford,F150 Raptor Pickup 4WD,Pickups y furgonetas,Total (4x4 / AWD),18.09
+2013,Ford,F150 Pickup 4WD,Pickups y furgonetas,Total (4x4 / AWD),18.09
+2013,Ford,F150 Pickup 4WD FFV,Pickups y furgonetas,Total (4x4 / AWD),14.7
+2013,Ford,F150 Pickup 4WD FFV,Pickups y furgonetas,Total (4x4 / AWD),14.7
+2013,Ford,F150 Pickup 4WD FFV,Pickups y furgonetas,Total (4x4 / AWD),13.07
+2013,Ford,F150 Pickup 4WD FFV,Pickups y furgonetas,Total (4x4 / AWD),13.07
+2013,Ford,F150 Pickup 4WD,Pickups y furgonetas,Total (4x4 / AWD),13.84
+2013,Ford,F150 Pickup 4WD,Pickups y furgonetas,Total (4x4 / AWD),13.84
+2013,Nissan,Titan 4WD,Pickups y furgonetas,Total (4x4 / AWD),16.8
+2013,Nissan,Titan 4WD,Pickups y furgonetas,Total (4x4 / AWD),16.8
+2013,Ram,1500 4WD,Pickups y furgonetas,Total (4x4 / AWD),14.7
+2013,Ram,1500 4WD,Pickups y furgonetas,Total (4x4 / AWD),15.68
+2013,Ram,1500 4WD,Pickups y furgonetas,Total (4x4 / AWD),12.38
+2013,Toyota,Tundra 4WD,Pickups y furgonetas,Total (4x4 / AWD),14.7
+2013,Toyota,Tundra 4WD,Pickups y furgonetas,Total (4x4 / AWD),15.68
+2013,Toyota,Tundra 4WD FFV,Pickups y furgonetas,Total (4x4 / AWD),15.68
+2013,Ford,E150 Van FFV,Pickups y furgonetas,A dos ruedas,15.68
+2013,Ford,E250 Van FFV,Pickups y furgonetas,A dos ruedas,15.68
+2013,Ford,E150 Van FFV,Pickups y furgonetas,A dos ruedas,16.8
+2013,Ford,E250 Van FFV,Pickups y furgonetas,A dos ruedas,16.8
+2013,Ford,E350 Van FFV,Pickups y furgonetas,A dos ruedas,18.09
+2013,Ford,E350 Van,Pickups y furgonetas,A dos ruedas,19.6
+2013,Ford,E150 Wagon FFV,Pickups y furgonetas,A dos ruedas,16.8
+2013,Ford,E150 Wagon FFV,Pickups y furgonetas,A dos ruedas,18.09
+2013,Ford,E350 Wagon FFV,Pickups y furgonetas,A dos ruedas,18.09
+2013,Ford,E350 Wagon,Pickups y furgonetas,A dos ruedas,21.38
+2013,Honda,Odyssey,Pickups y furgonetas,A dos ruedas,11.2
+2013,Honda,Odyssey,Pickups y furgonetas,A dos ruedas,10.69
+2013,Nissan,Quest,Pickups y furgonetas,A dos ruedas,11.2
+2013,Buick,Encore,SUV,A dos ruedas,8.4
+2013,Honda,CR-V 2WD,SUV,A dos ruedas,9.05
+2013,Honda,Pilot 2WD,SUV,A dos ruedas,11.2
+2013,Mitsubishi,Outlander 2WD,SUV,A dos ruedas,9.41
+2013,Mitsubishi,Outlander 2WD,SUV,A dos ruedas,10.69
+2013,Toyota,Highlander 2WD,SUV,A dos ruedas,10.69
+2013,Toyota,Highlander 2WD,SUV,A dos ruedas,11.76
+2013,Toyota,FJ Cruiser 2WD,SUV,A dos ruedas,13.07
+2013,Acura,MDX 4WD,SUV,Total (4x4 / AWD),13.07
+2013,Chevrolet,Equinox AWD,SUV,Total (4x4 / AWD),12.38
+2013,Chevrolet,Equinox AWD,SUV,Total (4x4 / AWD),12.38
+2013,GMC,Terrain AWD,SUV,Total (4x4 / AWD),12.38
+2013,GMC,Terrain AWD,SUV,Total (4x4 / AWD),12.38
+2013,Honda,CR-V 4WD,SUV,Total (4x4 / AWD),9.41
+2013,Mitsubishi,Outlander 4WD,SUV,Total (4x4 / AWD),9.8
+2013,Mitsubishi,Outlander 4WD,SUV,Total (4x4 / AWD),11.2
+2013,Toyota,Highlander 4WD,SUV,Total (4x4 / AWD),12.38
+2013,Toyota,FJ Cruiser 4WD,SUV,Total (4x4 / AWD),13.07
+2013,Toyota,FJ Cruiser 4WD,SUV,Total (4x4 / AWD),14.7
+2013,Ford,Expedition 2WD FFV,SUV,A dos ruedas,14.7
+2013,Lincoln,Navigator 2WD FFV,SUV,A dos ruedas,14.7
+2013,Nissan,Armada 2WD,SUV,A dos ruedas,15.68
+2013,Nissan,Armada 2WD,SUV,A dos ruedas,15.68
+2013,Toyota,4Runner 2WD,SUV,A dos ruedas,12.38
+2013,Toyota,Sequoia 2WD,SUV,A dos ruedas,15.68
+2013,Ford,Expedition 4WD FFV,SUV,Total (4x4 / AWD),15.68
+2013,Ford,Explorer AWD,SUV,Total (4x4 / AWD),13.07
+2013,Honda,Pilot 4WD,SUV,Total (4x4 / AWD),11.76
+2013,Lincoln,Navigator 4WD FFV,SUV,Total (4x4 / AWD),15.68
+2013,Mercedes-Benz,GL450 4matic,SUV,Total (4x4 / AWD),14.7
+2013,Mercedes-Benz,GL350 Bluetec 4matic,SUV,Total (4x4 / AWD),10.69
+2013,Mercedes-Benz,GL550 4matic,SUV,Total (4x4 / AWD),15.68
+2013,Nissan,Armada 4WD,SUV,Total (4x4 / AWD),16.8
+2013,Nissan,Armada 4WD,SUV,Total (4x4 / AWD),16.8
+2013,Toyota,Highlander Hybrid 4WD,SUV,Total (4x4 / AWD),8.4
+2013,Toyota,4Runner 4WD,SUV,Total (4x4 / AWD),13.07
+2013,Toyota,4Runner 4WD,SUV,Total (4x4 / AWD),13.07
+2013,Toyota,Sequoia 4WD,SUV,Total (4x4 / AWD),16.8
+2013,Toyota,Sequoia 4WD FFV,SUV,Total (4x4 / AWD),16.8
+2013,Nissan,Versa,Compactos,A dos ruedas,6.72
+2013,Nissan,Versa,Compactos,A dos ruedas,7.84
+2013,Nissan,Versa,Compactos,A dos ruedas,7.84
+2013,Honda,Accord,Berlinas y familiares,A dos ruedas,7.84
+2013,Infiniti,G37,Berlinas y familiares,A dos ruedas,10.69
+2013,Infiniti,G37,Berlinas y familiares,A dos ruedas,11.76
+2013,Infiniti,G37x,Berlinas y familiares,Total (4x4 / AWD),11.76
+2013,Honda,Fit,Berlinas y familiares,A dos ruedas,8.11
+2013,Honda,Fit,Berlinas y familiares,A dos ruedas,7.59
+2013,Honda,Fit,Berlinas y familiares,A dos ruedas,7.84
+2013,Infiniti,EX37,Berlinas y familiares,A dos ruedas,11.76
+2013,Infiniti,EX37 AWD,Berlinas y familiares,Total (4x4 / AWD),11.76
+2013,Audi,Q5,SUV,Total (4x4 / AWD),10.23
+2013,Mercedes-Benz,ML350 Bluetec 4matic,SUV,Total (4x4 / AWD),10.23
+2013,Ford,Fusion FWD,Berlinas y familiares,A dos ruedas,8.4
+2013,Bentley,Continental GTC,Compactos,Total (4x4 / AWD),15.68
+2013,Lexus,IS F,Compactos,A dos ruedas,13.07
+2013,Lexus,IS 350 AWD,Compactos,Total (4x4 / AWD),10.69
+2013,Lexus,IS 350/IS 350C,Compactos,A dos ruedas,10.69
+2013,Lexus,IS 250 AWD,Compactos,Total (4x4 / AWD),10.23
+2013,Lexus,IS 250/IS 250C,Compactos,A dos ruedas,9.8
+2013,Cadillac,ATS AWD,Compactos,Total (4x4 / AWD),9.8
+2013,Lexus,CT 200h,Compactos,A dos ruedas,5.6
+2013,Toyota,Yaris,Compactos,A dos ruedas,7.35
+2013,Toyota,Yaris,Compactos,A dos ruedas,7.13
+2013,Lincoln,MKZ FWD,Berlinas y familiares,A dos ruedas,9.05
+2013,Lincoln,MKZ AWD,Berlinas y familiares,Total (4x4 / AWD),9.41
+2013,Lincoln,MKZ AWD,Berlinas y familiares,Total (4x4 / AWD),11.2
+2013,Lincoln,MKZ FWD,Berlinas y familiares,A dos ruedas,10.69
+2013,Lincoln,MKZ Hybrid FWD,Berlinas y familiares,A dos ruedas,5.23
+2013,BMW,ActiveHybrid 7L,Berlinas y familiares,A dos ruedas,9.41
+2013,Honda,Ridgeline Truck 4WD,Pickups y furgonetas,Total (4x4 / AWD),13.84
+2013,Mazda,5,Pickups y furgonetas,A dos ruedas,9.8
+2013,Mazda,5,Pickups y furgonetas,A dos ruedas,9.8
+2013,Mazda,CX-9 2WD,SUV,A dos ruedas,12.38
+2013,Audi,Q5 Hybrid,SUV,Total (4x4 / AWD),9.05
+2013,Mazda,CX-9 4WD,SUV,Total (4x4 / AWD),13.07
+2013,Infiniti,QX56 2WD,SUV,A dos ruedas,14.7
+2013,Infiniti,QX56 4WD,SUV,Total (4x4 / AWD),14.7
+2013,Lotus,Evora,Compactos,A dos ruedas,11.2
+2013,Lotus,Evora,Compactos,A dos ruedas,11.76
+2013,Lotus,Evora,Compactos,A dos ruedas,10.23
+2013,Lotus,Evora,Compactos,A dos ruedas,10.69
+2013,Bentley,Continental GT,Compactos,Total (4x4 / AWD),15.68
+2013,Cadillac,ATS,Compactos,A dos ruedas,9.8
+2013,Toyota,Prius c,Compactos,A dos ruedas,4.7
+2013,Chevrolet,Sonic RS,Berlinas y familiares,A dos ruedas,7.84
+2013,Chevrolet,Sonic RS,Berlinas y familiares,A dos ruedas,8.4
+2013,Jaguar,XF,Berlinas y familiares,A dos ruedas,11.2
+2013,Jaguar,XF AWD,Berlinas y familiares,Total (4x4 / AWD),12.38
+2013,Lexus,LS 460,Berlinas y familiares,A dos ruedas,12.38
+2013,Lexus,LS 460 AWD,Berlinas y familiares,Total (4x4 / AWD),13.07
+2013,Lexus,LS 460 L,Berlinas y familiares,A dos ruedas,12.38
+2013,Lexus,LS 460 L AWD,Berlinas y familiares,Total (4x4 / AWD),13.07
+2013,Toyota,Prius,Berlinas y familiares,A dos ruedas,4.7
+2013,Jaguar,XJ,Berlinas y familiares,A dos ruedas,13.07
+2013,Jaguar,XJ LWB,Berlinas y familiares,A dos ruedas,13.07
+2013,Jaguar,XJ AWD,Berlinas y familiares,Total (4x4 / AWD),12.38
+2013,Jaguar,XJ LWB AWD,Berlinas y familiares,Total (4x4 / AWD),12.38
+2013,Nissan,Cube,Berlinas y familiares,A dos ruedas,8.4
+2013,Nissan,Cube,Berlinas y familiares,A dos ruedas,8.71
+2013,Toyota,Prius v,Berlinas y familiares,A dos ruedas,5.6
+2013,Nissan,Murano FWD,SUV,A dos ruedas,11.76
+2013,Land Rover,Range Rover Evoque,SUV,Total (4x4 / AWD),10.23
+2013,Nissan,Murano AWD,SUV,Total (4x4 / AWD),11.76
+2013,Toyota,Prius Plug-in Hybrid,Berlinas y familiares,A dos ruedas,4.7
+2013,Ford,C-Max Energi Plug-in Hybrid,Berlinas y familiares,A dos ruedas,5.47
+2013,Mercedes-Benz,SL65 AMG,Deportivos biplaza,A dos ruedas,13.84
+2013,Mercedes-Benz,SLS AMG GT Coupe,Deportivos biplaza,A dos ruedas,15.68
+2013,Mercedes-Benz,SLS AMG GT Roadster,Deportivos biplaza,A dos ruedas,15.68
+2013,Cadillac,ATS,Compactos,A dos ruedas,10.23
+2013,Jaguar,XF,Berlinas y familiares,A dos ruedas,13.07
+2013,Mercedes-Benz,E400 Hybrid,Berlinas y familiares,A dos ruedas,9.05
+2013,Mercedes-Benz,E350 Bluetec,Berlinas y familiares,A dos ruedas,9.41
+2013,Nissan,Sentra,Berlinas y familiares,A dos ruedas,7.84
+2013,Nissan,Sentra,Berlinas y familiares,A dos ruedas,6.92
+2013,Nissan,Sentra,Berlinas y familiares,A dos ruedas,7.13
+2013,Toyota,Avalon,Berlinas y familiares,A dos ruedas,9.8
+2013,Jaguar,XJ LWB,Berlinas y familiares,A dos ruedas,12.38
+2013,Jaguar,XJ,Berlinas y familiares,A dos ruedas,11.2
+2013,Mercedes-Benz,S350 Bluetec 4matic,Berlinas y familiares,Total (4x4 / AWD),9.41
+2013,Ram,1500 2WD,Pickups y furgonetas,A dos ruedas,11.76
+2013,Ram,1500 HFE 2WD,Pickups y furgonetas,A dos ruedas,11.2
+2013,Nissan,Pathfinder 2WD,SUV,A dos ruedas,10.69
+2013,Audi,Q5,SUV,Total (4x4 / AWD),11.2
+2013,Nissan,Pathfinder 4WD,SUV,Total (4x4 / AWD),11.2
+2013,Land Rover,LR4,SUV,Total (4x4 / AWD),16.8
+2013,Volkswagen,Jetta Hybrid,Compactos,A dos ruedas,5.23
+2013,Audi,RS 5 Cabriolet,Compactos,Total (4x4 / AWD),13.07
+2013,Jaguar,XF,Berlinas y familiares,A dos ruedas,10.23
+2013,Lexus,LS 600h L,Berlinas y familiares,Total (4x4 / AWD),11.76
+2013,Toyota,Camry,Berlinas y familiares,A dos ruedas,8.4
+2013,Toyota,Avalon Hybrid,Berlinas y familiares,A dos ruedas,5.88
+2013,Toyota,Camry Hybrid LE,Berlinas y familiares,A dos ruedas,5.74
+2013,Toyota,Camry Hybrid XLE,Berlinas y familiares,A dos ruedas,5.88
+2013,Toyota,Avalon,Berlinas y familiares,A dos ruedas,9.41
+2013,Toyota,Camry,Berlinas y familiares,A dos ruedas,9.41
+2013,VPG,MV-1,Pickups y furgonetas,A dos ruedas,15.68
+2013,Ford,Edge AWD,SUV,Total (4x4 / AWD),11.2
+2013,Land Rover,LR2,SUV,Total (4x4 / AWD),11.76
+2013,Land Rover,Range Rover,SUV,Total (4x4 / AWD),15.68
+2013,Land Rover,Range Rover,SUV,Total (4x4 / AWD),14.7
+2013,Aston Martin,V8 Vantage,Deportivos biplaza,A dos ruedas,15.68
+2013,Aston Martin,V8 Vantage,Deportivos biplaza,A dos ruedas,14.7
+2013,Aston Martin,V8 Vantage S,Deportivos biplaza,A dos ruedas,15.68
+2013,Aston Martin,V8 Vantage S,Deportivos biplaza,A dos ruedas,14.7
+2013,Aston Martin,DB9,Compactos,A dos ruedas,15.68
+2013,Cadillac,XTS Hearse,Pickups y furgonetas,A dos ruedas,13.84
+2013,Cadillac,XTS Limo,Pickups y furgonetas,A dos ruedas,13.84
+2013,Hyundai,Santa Fe 2WD,SUV,A dos ruedas,11.2
+2013,Buick,Encore AWD,SUV,Total (4x4 / AWD),9.05
+2013,Hyundai,Santa Fe 4WD,SUV,Total (4x4 / AWD),11.76
+2013,Nissan,Murano CrossCabriolet,SUV,Total (4x4 / AWD),12.38
+2013,BMW,X5 xDrive35d,SUV,Total (4x4 / AWD),10.69
+2013,Ford,Fusion Energi Plug-in Hybrid,Berlinas y familiares,A dos ruedas,5.47
+2014,Mazda,6,Berlinas y familiares,A dos ruedas,8.11
+2014,Mazda,6,Berlinas y familiares,A dos ruedas,7.84
+2014,Mazda,CX-5 2WD,SUV,A dos ruedas,8.71
+2014,Mazda,CX-5 2WD,SUV,A dos ruedas,8.11
+2014,Mazda,CX-5 2WD,SUV,A dos ruedas,8.11
+2014,Mazda,CX-5 4WD,SUV,Total (4x4 / AWD),9.05
+2014,Mazda,CX-5 4WD,SUV,Total (4x4 / AWD),8.4
+2014,Ford,Mustang,Compactos,A dos ruedas,10.69
+2014,Ford,Mustang,Compactos,A dos ruedas,10.23
+2014,Ford,Mustang,Compactos,A dos ruedas,13.07
+2014,Ford,Mustang,Compactos,A dos ruedas,11.76
+2014,Subaru,Forester AWD,SUV,Total (4x4 / AWD),9.8
+2014,Subaru,Forester AWD,SUV,Total (4x4 / AWD),8.71
+2014,Subaru,Forester AWD,SUV,Total (4x4 / AWD),9.41
+2013,Lamborghini,Aventador Roadster,Deportivos biplaza,Total (4x4 / AWD),19.6
+2013,Dodge,Dart,Berlinas y familiares,A dos ruedas,8.71
+2013,Nissan,Sentra FE,Berlinas y familiares,A dos ruedas,6.92
+2013,Scion,xB,Berlinas y familiares,A dos ruedas,9.8
+2013,Scion,xB,Berlinas y familiares,A dos ruedas,9.8
+2013,Nissan,Frontier 2WD,Pickups y furgonetas,A dos ruedas,12.38
+2013,Nissan,Frontier 2WD,Pickups y furgonetas,A dos ruedas,11.2
+2013,Nissan,Frontier 2WD,Pickups y furgonetas,A dos ruedas,13.07
+2013,Nissan,Frontier 2WD,Pickups y furgonetas,A dos ruedas,12.38
+2013,Nissan,Frontier 4WD,Pickups y furgonetas,Total (4x4 / AWD),13.84
+2013,Nissan,Frontier 4WD,Pickups y furgonetas,Total (4x4 / AWD),13.07
+2013,Nissan,Xterra 2WD,SUV,A dos ruedas,13.07
+2013,Toyota,RAV4 2WD,SUV,A dos ruedas,9.05
+2013,Nissan,Xterra 4WD,SUV,Total (4x4 / AWD),13.84
+2013,Nissan,Xterra 4WD,SUV,Total (4x4 / AWD),13.84
+2013,Toyota,RAV4 AWD,SUV,Total (4x4 / AWD),9.41
+2013,Toyota,RAV4 Limited AWD,SUV,Total (4x4 / AWD),9.41
+2014,Ford,Mustang Convertible,Compactos,A dos ruedas,10.23
+2014,Ford,Mustang,Compactos,A dos ruedas,12.38
+2014,Nissan,GT-R,Compactos,Total (4x4 / AWD),12.38
+2014,Audi,A8 L,Berlinas y familiares,Total (4x4 / AWD),8.4
+2014,Kia,Sorento 2WD,SUV,A dos ruedas,10.69
+2014,Kia,Sorento 2WD,SUV,A dos ruedas,11.2
+2014,Kia,Sorento 2WD,SUV,A dos ruedas,11.2
+2014,Kia,Sorento 4WD,SUV,Total (4x4 / AWD),11.2
+2014,Kia,Sorento 4WD,SUV,Total (4x4 / AWD),11.76
+2014,Nissan,Murano CrossCabriolet,SUV,Total (4x4 / AWD),12.38
+2014,Audi,R8 Spyder,Deportivos biplaza,Total (4x4 / AWD),14.7
+2014,Audi,R8,Deportivos biplaza,Total (4x4 / AWD),14.7
+2014,Audi,R8 Spyder,Deportivos biplaza,Total (4x4 / AWD),13.84
+2014,Audi,R8,Deportivos biplaza,Total (4x4 / AWD),13.84
+2014,Audi,R8 Spyder,Deportivos biplaza,Total (4x4 / AWD),16.8
+2014,Audi,R8,Deportivos biplaza,Total (4x4 / AWD),16.8
+2014,Audi,R8 Spyder,Deportivos biplaza,Total (4x4 / AWD),16.8
+2014,Audi,R8,Deportivos biplaza,Total (4x4 / AWD),16.8
+2014,Aston Martin,DB9,Compactos,A dos ruedas,15.68
+2014,Aston Martin,Vanquish,Compactos,A dos ruedas,15.68
+2014,Aston Martin,Rapide S,Compactos,A dos ruedas,15.68
+2014,Roush Performance,Stage 3 Mustang,Compactos,A dos ruedas,13.84
+2014,Jeep,Compass FWD,SUV,A dos ruedas,9.8
+2014,Jeep,Patriot FWD,SUV,A dos ruedas,9.8
+2014,Jeep,Compass FWD,SUV,A dos ruedas,9.8
+2014,Jeep,Patriot FWD,SUV,A dos ruedas,9.8
+2014,Jeep,Patriot FWD,SUV,A dos ruedas,9.41
+2014,Jeep,Compass FWD,SUV,A dos ruedas,9.41
+2014,Jeep,Compass FWD,SUV,A dos ruedas,9.05
+2014,Jeep,Compass 4WD,SUV,Total (4x4 / AWD),10.23
+2014,Jeep,Patriot 4WD,SUV,Total (4x4 / AWD),10.23
+2014,Jeep,Compass 4WD,SUV,Total (4x4 / AWD),9.41
+2014,Jeep,Patriot 4WD,SUV,Total (4x4 / AWD),9.41
+2014,Jeep,Grand Cherokee SRT8,SUV,Total (4x4 / AWD),15.68
+2014,Porsche,Cayenne Turbo,SUV,Total (4x4 / AWD),13.84
+2013,Honda,CR-Z,Deportivos biplaza,A dos ruedas,6.92
+2013,MINI,Cooper Clubvan,Deportivos biplaza,A dos ruedas,7.84
+2013,MINI,Cooper Clubvan,Deportivos biplaza,A dos ruedas,7.84
+2013,MINI,John Cooper Works GP-2,Deportivos biplaza,A dos ruedas,8.11
+2013,BMW,320i,Compactos,A dos ruedas,8.71
+2013,BMW,320i xDrive,Compactos,Total (4x4 / AWD),8.71
+2013,Honda,Civic,Compactos,A dos ruedas,9.41
+2013,MINI,Cooper Countryman Coupe,Compactos,A dos ruedas,8.71
+2013,MINI,Cooper Countryman Coupe,Compactos,A dos ruedas,7.84
+2013,Ram,1500 4WD,Pickups y furgonetas,Total (4x4 / AWD),13.84
+2013,Honda,Crosstour 4WD,SUV,Total (4x4 / AWD),10.69
+2013,Mercedes-Benz,GL63 AMG,SUV,Total (4x4 / AWD),16.8
+2014,Roush Performance,Stage 3 Mustang,Compactos,A dos ruedas,13.07
+2014,Porsche,Cayenne Turbo S,SUV,Total (4x4 / AWD),14.7
+2014,BMW,Z4 sDrive28i,Deportivos biplaza,A dos ruedas,9.05
+2014,BMW,Z4 sDrive35i,Deportivos biplaza,A dos ruedas,11.2
+2014,BMW,Z4 sDrive35i,Deportivos biplaza,A dos ruedas,11.76
+2014,BMW,Z4 sDrive35is,Deportivos biplaza,A dos ruedas,11.76
+2014,BMW,640i Coupe,Compactos,A dos ruedas,9.41
+2014,BMW,640i Convertible,Compactos,A dos ruedas,9.8
+2014,BMW,650i xDrive Coupe,Compactos,Total (4x4 / AWD),12.38
+2014,BMW,650i xDrive Convertible,Compactos,Total (4x4 / AWD),12.38
+2014,BMW,640i Gran Coupe,Compactos,A dos ruedas,9.8
+2014,BMW,650i xDrive Gran Coupe,Compactos,Total (4x4 / AWD),12.38
+2014,Kia,Forte,Berlinas y familiares,A dos ruedas,8.4
+2014,Kia,Forte,Berlinas y familiares,A dos ruedas,8.4
+2014,BMW,X1 xDrive35i,Berlinas y familiares,Total (4x4 / AWD),11.2
+2014,Kia,Cadenza,Berlinas y familiares,A dos ruedas,10.69
+2014,Kia,Sedona,Pickups y furgonetas,A dos ruedas,11.76
+2014,Jeep,Compass 4WD,SUV,Total (4x4 / AWD),11.2
+2014,Jeep,Patriot 4WD,SUV,Total (4x4 / AWD),11.2
+2014,Jeep,Grand Cherokee 2WD,SUV,A dos ruedas,11.76
+2014,Jeep,Grand Cherokee 2WD,SUV,A dos ruedas,13.84
+2014,Jeep,Grand Cherokee 4WD,SUV,Total (4x4 / AWD),12.38
+2014,Jeep,Grand Cherokee 4WD,SUV,Total (4x4 / AWD),14.7
+2014,Porsche,Cayenne S,SUV,Total (4x4 / AWD),13.07
+2013,Honda,CR-Z,Deportivos biplaza,A dos ruedas,6.36
+2013,BMW,320i,Compactos,A dos ruedas,8.4
+2013,Honda,Civic,Compactos,A dos ruedas,7.35
+2013,Honda,Civic,Compactos,A dos ruedas,7.59
+2013,Honda,Civic HF,Compactos,A dos ruedas,7.13
+2013,Honda,Civic Hybrid,Compactos,A dos ruedas,5.35
+2013,Honda,Crosstour 2WD,SUV,A dos ruedas,9.41
+2013,Honda,Crosstour 2WD,SUV,A dos ruedas,10.23
+2014,BMW,640i xDrive Coupe,Compactos,Total (4x4 / AWD),10.23
+2014,BMW,640i xDrive Convertible,Compactos,Total (4x4 / AWD),10.23
+2014,BMW,650i Coupe,Compactos,A dos ruedas,11.76
+2014,BMW,650i Convertible,Compactos,A dos ruedas,11.76
+2014,Bentley,Continental GT,Compactos,Total (4x4 / AWD),15.68
+2014,BMW,640i xDrive Gran Coupe,Compactos,Total (4x4 / AWD),10.23
+2014,BMW,650i Gran Coupe,Compactos,A dos ruedas,11.76
+2014,Acura,RLX,Berlinas y familiares,A dos ruedas,9.8
+2014,Kia,Forte Eco,Berlinas y familiares,A dos ruedas,8.11
+2014,Kia,Forte,Berlinas y familiares,A dos ruedas,8.11
+2014,Kia,Forte,Berlinas y familiares,A dos ruedas,8.11
+2014,BMW,X1 xDrive28i,Berlinas y familiares,Total (4x4 / AWD),9.05
+2014,BMW,328i xDrive Sports Wagon,Berlinas y familiares,Total (4x4 / AWD),9.05
+2014,Acura,RDX 2WD,SUV,A dos ruedas,10.23
+2014,Acura,RDX 4WD,SUV,Total (4x4 / AWD),10.69
+2014,BMW,X3 xDrive28i,SUV,Total (4x4 / AWD),9.8
+2014,Porsche,Cayenne GTS,SUV,Total (4x4 / AWD),13.84
+2013,Dodge,Dart,Berlinas y familiares,A dos ruedas,8.71
+2013,Hyundai,Sonata Hybrid Limited,Berlinas y familiares,A dos ruedas,6.36
+2013,Hyundai,Sonata Hybrid,Berlinas y familiares,A dos ruedas,6.19
+2013,Kia,Optima Hybrid EX,Berlinas y familiares,A dos ruedas,6.36
+2013,Kia,Optima Hybrid,Berlinas y familiares,A dos ruedas,6.19
+2013,Nissan,NV200 Cargo Van,Pickups y furgonetas,A dos ruedas,9.8
+2013,Acura,ZDX 4WD,SUV,Total (4x4 / AWD),12.38
+2013,SRT,Viper,Deportivos biplaza,A dos ruedas,15.68
+2014,BMW,Z4 sDrive28i,Deportivos biplaza,A dos ruedas,9.05
+2014,Porsche,Boxster,Deportivos biplaza,A dos ruedas,9.8
+2014,Porsche,Boxster,Deportivos biplaza,A dos ruedas,9.05
+2014,Porsche,Cayman,Deportivos biplaza,A dos ruedas,9.8
+2014,Porsche,Cayman,Deportivos biplaza,A dos ruedas,9.05
+2014,Bentley,Continental GTC,Compactos,Total (4x4 / AWD),15.68
+2014,Bentley,Continental GT Speed Convertible,Compactos,Total (4x4 / AWD),15.68
+2014,BMW,M6 Coupe,Compactos,A dos ruedas,13.84
+2014,BMW,M6 Coupe,Compactos,A dos ruedas,14.7
+2014,BMW,M6 Convertible,Compactos,A dos ruedas,13.84
+2014,BMW,M6 Convertible,Compactos,A dos ruedas,14.7
+2014,BMW,M6 Gran Coupe,Compactos,A dos ruedas,13.84
+2014,BMW,M6 Gran Coupe,Compactos,A dos ruedas,14.7
+2014,Bentley,Flying Spur,Berlinas y familiares,Total (4x4 / AWD),15.68
+2014,Mercedes-Benz,E350 4matic,Berlinas y familiares,Total (4x4 / AWD),10.69
+2014,Mercedes-Benz,E350,Berlinas y familiares,A dos ruedas,9.8
+2014,Mercedes-Benz,E350,Berlinas y familiares,A dos ruedas,10.23
+2014,BMW,X1 sDrive28i,Berlinas y familiares,A dos ruedas,8.71
+2014,BMW,X3 xDrive35i,SUV,Total (4x4 / AWD),11.2
+2014,BMW,X6 xDrive35i,SUV,Total (4x4 / AWD),11.76
+2014,BMW,X6 xDrive50i,SUV,Total (4x4 / AWD),13.84
+2014,BMW,X6 M,SUV,Total (4x4 / AWD),15.68
+2014,Honda,Accord Plug-in Hybrid,Berlinas y familiares,A dos ruedas,5.11
+2014,Jaguar,F-Type V8 S Convertible,Deportivos biplaza,A dos ruedas,13.07
+2014,Porsche,Boxster S,Deportivos biplaza,A dos ruedas,10.23
+2014,Porsche,Boxster S,Deportivos biplaza,A dos ruedas,9.8
+2014,Porsche,Cayman S,Deportivos biplaza,A dos ruedas,10.23
+2014,Porsche,Cayman S,Deportivos biplaza,A dos ruedas,9.8
+2014,Jaguar,XK Convertible,Compactos,A dos ruedas,13.07
+2014,Jaguar,XK,Compactos,A dos ruedas,13.07
+2014,Acura,ILX,Compactos,A dos ruedas,8.4
+2014,Acura,ILX,Compactos,A dos ruedas,9.41
+2014,Mercedes-Benz,CLS550,Compactos,A dos ruedas,11.76
+2014,Mercedes-Benz,CLS550 4matic,Compactos,Total (4x4 / AWD),12.38
+2014,Mitsubishi,Lancer,Compactos,A dos ruedas,8.4
+2014,Mitsubishi,Lancer,Compactos,A dos ruedas,8.11
+2014,Mitsubishi,Lancer,Compactos,A dos ruedas,9.05
+2014,Mitsubishi,Lancer,Compactos,A dos ruedas,9.05
+2014,Mitsubishi,Lancer,Compactos,Total (4x4 / AWD),11.76
+2014,Mitsubishi,Lancer AWD,Compactos,Total (4x4 / AWD),9.41
+2014,Mitsubishi,Lancer Evolution,Compactos,Total (4x4 / AWD),12.38
+2014,Mitsubishi,Lancer Evolution,Compactos,Total (4x4 / AWD),12.38
+2014,Chevrolet,Cruze,Berlinas y familiares,A dos ruedas,7.13
+2014,Mercedes-Benz,E350 4matic,Berlinas y familiares,Total (4x4 / AWD),10.23
+2014,Mercedes-Benz,E350,Berlinas y familiares,A dos ruedas,10.23
+2014,Nissan,Versa,Compactos,A dos ruedas,6.72
+2014,Nissan,Versa,Compactos,A dos ruedas,7.84
+2014,Nissan,Versa,Compactos,A dos ruedas,7.84
+2014,Chevrolet,Impala,Berlinas y familiares,A dos ruedas,9.41
+2014,Hyundai,Equus,Berlinas y familiares,A dos ruedas,13.07
+2014,Mitsubishi,Lancer Sportback,Berlinas y familiares,A dos ruedas,8.71
+2014,Mitsubishi,Lancer Sportback,Berlinas y familiares,A dos ruedas,9.41
+2014,Lincoln,MKT Livery FWD,Pickups y furgonetas,A dos ruedas,10.23
+2014,Lincoln,MKT Livery AWD,Pickups y furgonetas,Total (4x4 / AWD),12.38
+2014,Acura,MDX 2WD,SUV,A dos ruedas,10.23
+2014,Mitsubishi,Outlander 2WD,SUV,A dos ruedas,8.71
+2014,Acura,MDX 4WD,SUV,Total (4x4 / AWD),11.2
+2014,Lincoln,MKT AWD,SUV,Total (4x4 / AWD),13.07
+2014,Mitsubishi,Outlander 4WD,SUV,Total (4x4 / AWD),9.05
+2014,Mitsubishi,Outlander 4WD,SUV,Total (4x4 / AWD),10.23
+2014,Ford,Flex FWD,SUV,A dos ruedas,11.76
+2014,Lincoln,MKT FWD,SUV,A dos ruedas,11.76
+2014,Ford,Flex AWD,SUV,Total (4x4 / AWD),13.07
+2014,Ford,Flex AWD,SUV,Total (4x4 / AWD),12.38
+2014,Land Rover,Range Rover,SUV,Total (4x4 / AWD),12.38
+2014,Land Rover,Range Rover Sport,SUV,Total (4x4 / AWD),12.38
+2014,Jaguar,XK,Compactos,A dos ruedas,12.38
+2014,Jaguar,XK Convertible,Compactos,A dos ruedas,13.84
+2014,Ford,Fiesta FWD,Compactos,A dos ruedas,7.59
+2014,Ford,Fiesta FWD,Compactos,A dos ruedas,7.35
+2014,Acura,ILX Hybrid,Compactos,A dos ruedas,6.19
+2014,Mercedes-Benz,E550 4matic,Berlinas y familiares,Total (4x4 / AWD),11.2
+2014,Subaru,Legacy AWD,Berlinas y familiares,Total (4x4 / AWD),8.71
+2014,Porsche,Cayenne Diesel,SUV,Total (4x4 / AWD),10.23
+2014,Volkswagen,Touareg,SUV,Total (4x4 / AWD),10.23
+2014,Audi,TT Roadster quattro,Deportivos biplaza,Total (4x4 / AWD),9.05
+2014,Bugatti,Veyron,Deportivos biplaza,Total (4x4 / AWD),23.52
+2014,Jaguar,F-Type Convertible,Deportivos biplaza,A dos ruedas,10.23
+2014,Jaguar,F-Type S Convertible,Deportivos biplaza,A dos ruedas,10.69
+2014,Lamborghini,Aventador Roadster,Deportivos biplaza,Total (4x4 / AWD),19.6
+2014,Lamborghini,Aventador Veneno Coupe,Deportivos biplaza,Total (4x4 / AWD),18.09
+2014,Mercedes-Benz,SL550,Deportivos biplaza,A dos ruedas,11.76
+2014,Mercedes-Benz,SL63 AMG,Deportivos biplaza,A dos ruedas,12.38
+2014,Mercedes-Benz,SLK55 AMG,Deportivos biplaza,A dos ruedas,10.69
+2014,Porsche,911 Carrera,Compactos,A dos ruedas,10.69
+2014,Porsche,911 Carrera,Compactos,A dos ruedas,10.23
+2014,Porsche,911 Carrera Cabriolet,Compactos,A dos ruedas,10.69
+2014,Porsche,911 Carrera Cabriolet,Compactos,A dos ruedas,10.23
+2014,Porsche,911 Carrera S,Compactos,A dos ruedas,10.69
+2014,Porsche,911 Carrera S,Compactos,A dos ruedas,10.69
+2014,Porsche,911 Carrera S Cabriolet,Compactos,A dos ruedas,10.69
+2014,Porsche,911 Carrera S Cabriolet,Compactos,A dos ruedas,10.69
+2014,Porsche,911 Carrera 4,Compactos,Total (4x4 / AWD),10.69
+2014,Porsche,911 Carrera 4,Compactos,Total (4x4 / AWD),10.23
+2014,Porsche,911 Carrera 4 Cabriolet,Compactos,Total (4x4 / AWD),11.2
+2014,Porsche,911 Carrera 4 Cabriolet,Compactos,Total (4x4 / AWD),10.69
+2014,Porsche,911 Carrera 4S,Compactos,Total (4x4 / AWD),11.2
+2014,Porsche,911 Carrera 4S,Compactos,Total (4x4 / AWD),10.69
+2014,Porsche,911 Carrera 4S Cabriolet,Compactos,Total (4x4 / AWD),11.2
+2014,Scion,iQ,Compactos,A dos ruedas,6.36
+2014,Audi,RS 5,Compactos,Total (4x4 / AWD),13.07
+2014,Audi,TT Coupe quattro,Compactos,Total (4x4 / AWD),9.05
+2014,Buick,Verano,Compactos,A dos ruedas,9.8
+2014,Cadillac,ATS,Compactos,A dos ruedas,9.05
+2014,Cadillac,ATS,Compactos,A dos ruedas,9.8
+2014,Lexus,IS 350,Compactos,A dos ruedas,10.69
+2014,Lexus,IS 350 AWD,Compactos,Total (4x4 / AWD),11.2
+2014,Lexus,IS 250,Compactos,A dos ruedas,9.8
+2014,Lexus,IS 250 AWD,Compactos,Total (4x4 / AWD),10.23
+2014,Mercedes-Benz,C350,Compactos,A dos ruedas,9.8
+2014,Mercedes-Benz,C300 4matic,Compactos,Total (4x4 / AWD),10.23
+2014,Mercedes-Benz,C350,Compactos,A dos ruedas,10.23
+2014,Mercedes-Benz,CL550 4matic,Compactos,Total (4x4 / AWD),13.07
+2014,Mercedes-Benz,CL63 AMG,Compactos,A dos ruedas,13.07
+2014,Mercedes-Benz,CLS63 AMG,Compactos,A dos ruedas,12.38
+2014,Mercedes-Benz,CLS63 AMG S,Compactos,A dos ruedas,12.38
+2014,Scion,tC,Compactos,A dos ruedas,9.05
+2014,Scion,tC,Compactos,A dos ruedas,9.05
+2014,Volkswagen,CC 4motion,Compactos,Total (4x4 / AWD),11.76
+2014,Volvo,S60 AWD,Compactos,Total (4x4 / AWD),11.2
+2014,Volvo,S60 FWD,Compactos,A dos ruedas,9.8
+2014,Volvo,S60 AWD,Compactos,Total (4x4 / AWD),10.23
+2014,BMW,M5,Berlinas y familiares,A dos ruedas,13.84
+2014,BMW,M5,Berlinas y familiares,A dos ruedas,14.7
+2014,Chevrolet,Cruze Eco,Berlinas y familiares,A dos ruedas,7.59
+2014,Chevrolet,Cruze,Berlinas y familiares,A dos ruedas,7.84
+2014,Chevrolet,Cruze,Berlinas y familiares,A dos ruedas,8.11
+2014,Chevrolet,Cruze,Berlinas y familiares,A dos ruedas,8.71
+2014,Mercedes-Benz,E350 4matic,Berlinas y familiares,Total (4x4 / AWD),10.23
+2014,Mercedes-Benz,E63 AMG,Berlinas y familiares,A dos ruedas,12.38
+2014,Mercedes-Benz,E63 AMG S,Berlinas y familiares,A dos ruedas,12.38
+2014,Subaru,Legacy AWD,Berlinas y familiares,Total (4x4 / AWD),9.8
+2014,Subaru,Legacy AWD,Berlinas y familiares,Total (4x4 / AWD),11.76
+2014,Volkswagen,Passat,Berlinas y familiares,A dos ruedas,10.23
+2014,Volvo,S80 FWD,Berlinas y familiares,A dos ruedas,10.23
+2014,Volvo,S80 AWD,Berlinas y familiares,Total (4x4 / AWD),11.2
+2014,Cadillac,XTS AWD,Berlinas y familiares,Total (4x4 / AWD),11.76
+2014,Ford,Taurus AWD,Berlinas y familiares,Total (4x4 / AWD),11.76
+2014,Ford,Taurus FWD,Berlinas y familiares,A dos ruedas,9.05
+2014,Ford,Taurus FWD FFV,Berlinas y familiares,A dos ruedas,10.23
+2014,Ford,Taurus AWD FFV,Berlinas y familiares,Total (4x4 / AWD),11.2
+2014,Ford,Taurus AWD,Berlinas y familiares,Total (4x4 / AWD),11.2
+2014,Ford,Taurus FWD,Berlinas y familiares,A dos ruedas,10.23
+2014,Lincoln,MKS AWD,Berlinas y familiares,Total (4x4 / AWD),11.76
+2014,Lincoln,MKS AWD,Berlinas y familiares,Total (4x4 / AWD),11.2
+2014,Lincoln,MKS FWD,Berlinas y familiares,A dos ruedas,10.69
+2014,Mercedes-Benz,E350 4matic (wagon),Berlinas y familiares,Total (4x4 / AWD),10.69
+2014,Chevrolet,Silverado C15 2WD,Pickups y furgonetas,A dos ruedas,12.38
+2014,GMC,Sierra C15 2WD,Pickups y furgonetas,A dos ruedas,12.38
+2014,Chevrolet,Silverado K15 4WD,Pickups y furgonetas,Total (4x4 / AWD),13.07
+2014,GMC,Sierra K15 4WD,Pickups y furgonetas,Total (4x4 / AWD),13.07
+2014,Chevrolet,Express 1500 2WD Cargo,Pickups y furgonetas,A dos ruedas,14.7
+2014,Chevrolet,Express 1500 2WD Cargo,Pickups y furgonetas,A dos ruedas,15.68
+2014,Chevrolet,Express 1500 2WD Conversion Cargo,Pickups y furgonetas,A dos ruedas,16.8
+2014,Chevrolet,Express 1500 AWD Conversion Cargo,Pickups y furgonetas,Total (4x4 / AWD),16.8
+2014,Chevrolet,Express 1500 AWD Cargo,Pickups y furgonetas,Total (4x4 / AWD),16.8
+2014,Chevrolet,Express 2500 2WD Conversion Cargo MDPV,Pickups y furgonetas,A dos ruedas,19.6
+2014,GMC,Savana 1500 2WD (cargo),Pickups y furgonetas,A dos ruedas,14.7
+2014,GMC,Savana 1500 2WD (cargo),Pickups y furgonetas,A dos ruedas,15.68
+2014,GMC,Savana 1500 2WD Conversion (cargo),Pickups y furgonetas,A dos ruedas,16.8
+2014,GMC,Savana 1500  AWD (cargo),Pickups y furgonetas,Total (4x4 / AWD),16.8
+2014,GMC,Savana 1500  AWD Conversion (cargo),Pickups y furgonetas,Total (4x4 / AWD),16.8
+2014,GMC,Savana 2500 2WD Conversion (cargo) MDPV,Pickups y furgonetas,A dos ruedas,19.6
+2014,Chevrolet,Express 1500 2WD Passenger,Pickups y furgonetas,A dos ruedas,16.8
+2014,Chevrolet,Express 1500 AWD Passenger,Pickups y furgonetas,Total (4x4 / AWD),16.8
+2014,Chevrolet,Express 2500 2WD Passenger MDPV,Pickups y furgonetas,A dos ruedas,18.09
+2014,Chevrolet,Express 3500 2WD Passenger MDPV,Pickups y furgonetas,A dos ruedas,18.09
+2014,Chevrolet,Express 2500 2WD Passenger MDPV,Pickups y furgonetas,A dos ruedas,18.09
+2014,Chevrolet,Express 3500 2WD Passenger MDPV,Pickups y furgonetas,A dos ruedas,19.6
+2014,GMC,Savana 1500 2WD (Passenger),Pickups y furgonetas,A dos ruedas,16.8
+2014,GMC,Savana 1500 AWD (Passenger),Pickups y furgonetas,Total (4x4 / AWD),16.8
+2014,GMC,Savana 2500 2WD (Passenger) MDPV,Pickups y furgonetas,A dos ruedas,18.09
+2014,GMC,Savana 3500 2WD (Passenger) MDPV,Pickups y furgonetas,A dos ruedas,18.09
+2014,GMC,Savana 2500 2WD (Passenger) MDPV,Pickups y furgonetas,A dos ruedas,18.09
+2014,GMC,Savana 3500 2WD (Passenger) MDPV,Pickups y furgonetas,A dos ruedas,19.6
+2014,Cadillac,XTS Limo,Pickups y furgonetas,A dos ruedas,13.84
+2014,Cadillac,XTS Hearse,Pickups y furgonetas,A dos ruedas,13.84
+2014,Honda,Odyssey,Pickups y furgonetas,A dos ruedas,10.69
+2014,Buick,Encore,SUV,A dos ruedas,8.4
+2014,Ford,Explorer FWD,SUV,A dos ruedas,10.23
+2014,Ford,Escape FWD,SUV,A dos ruedas,9.05
+2014,Ford,Escape FWD,SUV,A dos ruedas,9.41
+2014,Ford,Escape FWD,SUV,A dos ruedas,9.41
+2014,Volvo,XC60 FWD,SUV,A dos ruedas,11.2
+2014,Volvo,XC70 FWD,SUV,A dos ruedas,11.2
+2014,Ford,Escape AWD,SUV,Total (4x4 / AWD),9.8
+2014,Ford,Escape AWD,SUV,Total (4x4 / AWD),9.41
+2014,Subaru,Outback AWD,SUV,Total (4x4 / AWD),9.8
+2014,Subaru,Outback AWD,SUV,Total (4x4 / AWD),9.05
+2014,Subaru,Outback AWD,SUV,Total (4x4 / AWD),11.76
+2014,Volvo,XC70 AWD,SUV,Total (4x4 / AWD),11.76
+2014,Volvo,XC60 AWD,SUV,Total (4x4 / AWD),11.76
+2014,Volvo,XC70 AWD,SUV,Total (4x4 / AWD),11.2
+2014,Volvo,XC60 AWD,SUV,Total (4x4 / AWD),11.76
+2014,Buick,Enclave FWD,SUV,A dos ruedas,12.38
+2014,Chevrolet,Traverse FWD,SUV,A dos ruedas,12.38
+2014,Chevrolet,Tahoe C10 2WD,SUV,A dos ruedas,13.84
+2014,Chevrolet,Suburban C10 2WD,SUV,A dos ruedas,13.84
+2014,Ford,Explorer 2WD FFV,SUV,A dos ruedas,11.76
+2014,Ford,Explorer FWD,SUV,A dos ruedas,11.76
+2014,GMC,Acadia FWD,SUV,A dos ruedas,12.38
+2014,GMC,Yukon C10 2WD,SUV,A dos ruedas,13.84
+2014,GMC,Yukon XL C10 2WD,SUV,A dos ruedas,13.84
+2014,Volvo,XC90 FWD,SUV,A dos ruedas,12.38
+2014,Buick,Enclave AWD,SUV,Total (4x4 / AWD),13.07
+2014,Cadillac,SRX AWD,SUV,Total (4x4 / AWD),13.07
+2014,Chevrolet,Traverse AWD,SUV,Total (4x4 / AWD),12.38
+2014,Ford,Explorer AWD FFV,SUV,Total (4x4 / AWD),12.38
+2014,Ford,Explorer AWD,SUV,Total (4x4 / AWD),12.38
+2014,Ford,Explorer AWD,SUV,Total (4x4 / AWD),13.07
+2014,GMC,Acadia AWD,SUV,Total (4x4 / AWD),13.07
+2014,Land Rover,Range Rover,SUV,Total (4x4 / AWD),15.68
+2014,Land Rover,Range Rover Sport,SUV,Total (4x4 / AWD),14.7
+2014,Porsche,Cayenne,SUV,Total (4x4 / AWD),11.76
+2014,Porsche,Cayenne,SUV,Total (4x4 / AWD),13.84
+2014,Volkswagen,Touareg Hybrid,SUV,Total (4x4 / AWD),11.2
+2014,Volvo,XC90 AWD,SUV,Total (4x4 / AWD),13.07
+2013,Volkswagen,Beetle Convertible,Compactos,A dos ruedas,7.59
+2013,BMW,320i xDrive,Compactos,Total (4x4 / AWD),9.05
+2013,Jaguar,XF FFV,Berlinas y familiares,A dos ruedas,13.07
+2013,Jaguar,XJL FFV,Berlinas y familiares,A dos ruedas,12.38
+2013,Jaguar,XJ FFV,Berlinas y familiares,A dos ruedas,13.07
+2013,Jaguar,XJL FFV,Berlinas y familiares,A dos ruedas,13.07
+2013,Mercedes-Benz,GLK250 Bluetec 4matic,SUV,Total (4x4 / AWD),8.4
+2014,Ferrari,458 Italia,Deportivos biplaza,A dos ruedas,16.8
+2014,Ferrari,458 Italia,Deportivos biplaza,A dos ruedas,15.68
+2014,Ferrari,458 Spider,Deportivos biplaza,A dos ruedas,16.8
+2014,Ferrari,458 Spider,Deportivos biplaza,A dos ruedas,15.68
+2014,Ferrari,F12,Deportivos biplaza,A dos ruedas,18.09
+2014,Ferrari,F12,Deportivos biplaza,A dos ruedas,18.09
+2014,Lamborghini,Gallardo Coupe,Deportivos biplaza,Total (4x4 / AWD),14.7
+2014,Lamborghini,Gallardo Spyder,Deportivos biplaza,Total (4x4 / AWD),14.7
+2014,Lamborghini,Gallardo Coupe,Deportivos biplaza,Total (4x4 / AWD),15.68
+2014,Lamborghini,Gallardo Spyder,Deportivos biplaza,Total (4x4 / AWD),16.8
+2014,Lamborghini,Aventador Coupe,Deportivos biplaza,Total (4x4 / AWD),18.09
+2014,Ferrari,California,Compactos,A dos ruedas,15.68
+2014,Ferrari,California,Compactos,A dos ruedas,14.7
+2014,Audi,S5,Compactos,Total (4x4 / AWD),11.2
+2014,Audi,S5 Cabriolet,Compactos,Total (4x4 / AWD),11.2
+2014,Audi,S5,Compactos,Total (4x4 / AWD),11.76
+2014,Audi,A5 quattro,Compactos,Total (4x4 / AWD),9.8
+2014,Audi,A5 Cabriolet quattro,Compactos,Total (4x4 / AWD),9.8
+2014,Audi,A5 Cabriolet,Compactos,A dos ruedas,8.71
+2014,Audi,A5 quattro,Compactos,Total (4x4 / AWD),9.05
+2014,Bentley,Continental GTC,Compactos,Total (4x4 / AWD),13.84
+2014,Chevrolet,Spark,Compactos,A dos ruedas,6.92
+2014,Chevrolet,Spark,Compactos,A dos ruedas,6.92
+2014,Mercedes-Benz,E350 4matic Coupe,Compactos,Total (4x4 / AWD),10.23
+2014,Mercedes-Benz,E350 4matic Coupe,Compactos,Total (4x4 / AWD),10.23
+2014,Mercedes-Benz,E350 Coupe,Compactos,A dos ruedas,10.23
+2014,Mercedes-Benz,E350 Coupe,Compactos,A dos ruedas,10.23
+2014,Mercedes-Benz,E350 4matic Coupe,Compactos,Total (4x4 / AWD),10.23
+2014,Mercedes-Benz,E550 Convertible,Compactos,A dos ruedas,11.76
+2014,Volkswagen,Beetle Convertible,Compactos,A dos ruedas,7.59
+2014,Volkswagen,Beetle Convertible,Compactos,A dos ruedas,7.35
+2014,Audi,S4,Compactos,Total (4x4 / AWD),11.2
+2014,Audi,S4,Compactos,Total (4x4 / AWD),11.76
+2014,Audi,A4 quattro,Compactos,Total (4x4 / AWD),9.8
+2014,Audi,A4,Compactos,A dos ruedas,8.71
+2014,Audi,A4 quattro,Compactos,Total (4x4 / AWD),9.05
+2014,Buick,Verano,Compactos,A dos ruedas,9.8
+2014,Buick,Verano,Compactos,A dos ruedas,9.41
+2014,Cadillac,ATS AWD,Compactos,Total (4x4 / AWD),11.2
+2014,Cadillac,ATS AWD,Compactos,Total (4x4 / AWD),10.23
+2014,Cadillac,ATS,Compactos,A dos ruedas,10.23
+2014,Cadillac,ATS,Compactos,A dos ruedas,10.69
+2014,Chevrolet,Camaro,Compactos,A dos ruedas,13.07
+2014,Chevrolet,Camaro,Compactos,A dos ruedas,10.69
+2014,Chevrolet,Camaro,Compactos,A dos ruedas,11.76
+2014,Chevrolet,Sonic,Compactos,A dos ruedas,8.4
+2014,Chevrolet,Camaro,Compactos,A dos ruedas,11.2
+2014,Chevrolet,Camaro,Compactos,A dos ruedas,12.38
+2014,Ford,Fiesta ST FWD,Compactos,A dos ruedas,8.11
+2014,Mercedes-Benz,C300 4matic,Compactos,Total (4x4 / AWD),10.69
+2014,Mercedes-Benz,CLS63 AMG 4matic,Compactos,Total (4x4 / AWD),13.07
+2014,Mercedes-Benz,CLS63 AMG S 4matic,Compactos,Total (4x4 / AWD),13.07
+2014,Volkswagen,Jetta,Compactos,A dos ruedas,6.92
+2014,Volkswagen,Golf,Compactos,A dos ruedas,6.92
+2014,Volkswagen,Jetta,Compactos,A dos ruedas,6.92
+2014,Volkswagen,Golf,Compactos,A dos ruedas,6.92
+2014,Volkswagen,Beetle,Compactos,A dos ruedas,7.35
+2014,Volkswagen,Beetle,Compactos,A dos ruedas,7.35
+2014,Volkswagen,CC,Compactos,A dos ruedas,9.41
+2014,Volkswagen,CC,Compactos,A dos ruedas,9.41
+2014,Audi,A7 quattro,Berlinas y familiares,Total (4x4 / AWD),8.11
+2014,Audi,A8,Berlinas y familiares,Total (4x4 / AWD),11.2
+2014,Audi,S8,Berlinas y familiares,Total (4x4 / AWD),12.38
+2014,Audi,S7,Berlinas y familiares,Total (4x4 / AWD),11.76
+2014,Audi,S6,Berlinas y familiares,Total (4x4 / AWD),11.76
+2014,Audi,RS 7,Berlinas y familiares,Total (4x4 / AWD),12.38
+2014,Audi,A8,Berlinas y familiares,Total (4x4 / AWD),11.2
+2014,Audi,A7 quattro,Berlinas y familiares,Total (4x4 / AWD),11.2
+2014,Audi,A6 quattro,Berlinas y familiares,Total (4x4 / AWD),10.69
+2014,Audi,A6,Berlinas y familiares,A dos ruedas,8.4
+2014,Audi,A6 quattro,Berlinas y familiares,Total (4x4 / AWD),10.23
+2014,Buick,LaCrosse,Berlinas y familiares,A dos ruedas,11.2
+2014,Buick,Regal eAssist,Berlinas y familiares,A dos ruedas,8.11
+2014,Buick,LaCrosse eAssist,Berlinas y familiares,A dos ruedas,8.11
+2014,Buick,LaCrosse AWD,Berlinas y familiares,Total (4x4 / AWD),11.76
+2014,Cadillac,CTS Sedan AWD,Berlinas y familiares,Total (4x4 / AWD),11.2
+2014,Cadillac,CTS AWD,Berlinas y familiares,Total (4x4 / AWD),11.2
+2014,Cadillac,CTS,Berlinas y familiares,A dos ruedas,11.2
+2014,Chevrolet,Malibu,Berlinas y familiares,A dos ruedas,9.8
+2014,Chevrolet,Malibu eAssist,Berlinas y familiares,A dos ruedas,8.11
+2014,Chevrolet,Sonic 5,Berlinas y familiares,A dos ruedas,8.4
+2014,Ferrari,FF,Berlinas y familiares,Total (4x4 / AWD),18.09
+2014,Ferrari,FF,Berlinas y familiares,Total (4x4 / AWD),18.09
+2014,Mercedes-Benz,E400 Hybrid,Berlinas y familiares,A dos ruedas,9.05
+2014,Audi,A8 L,Berlinas y familiares,Total (4x4 / AWD),12.38
+2014,Audi,A8 L,Berlinas y familiares,Total (4x4 / AWD),11.2
+2014,Audi,A8 L,Berlinas y familiares,Total (4x4 / AWD),14.7
+2014,Cadillac,XTS AWD,Berlinas y familiares,Total (4x4 / AWD),12.38
+2014,Chevrolet,Impala eAssist,Berlinas y familiares,A dos ruedas,8.11
+2014,Chevrolet,Impala Limited,Berlinas y familiares,A dos ruedas,10.69
+2014,Audi,allroad quattro,Berlinas y familiares,Total (4x4 / AWD),10.23
+2014,Cadillac,CTS Wagon,Berlinas y familiares,A dos ruedas,11.2
+2014,Cadillac,CTS Wagon AWD,Berlinas y familiares,Total (4x4 / AWD),11.2
+2014,Cadillac,CTS Wagon AWD,Berlinas y familiares,Total (4x4 / AWD),11.2
+2014,Cadillac,CTS Wagon,Berlinas y familiares,A dos ruedas,11.2
+2014,Volkswagen,Jetta SportWagen,Berlinas y familiares,A dos ruedas,6.92
+2014,Mercedes-Benz,E63 AMG 4matic (wagon),Berlinas y familiares,Total (4x4 / AWD),13.84
+2014,Mercedes-Benz,E63 AMG S 4matic (wagon),Berlinas y familiares,Total (4x4 / AWD),13.07
+2014,Chevrolet,Equinox FWD,SUV,A dos ruedas,11.76
+2014,Chevrolet,Equinox FWD,SUV,A dos ruedas,9.05
+2014,Chevrolet,Equinox FWD,SUV,A dos ruedas,11.76
+2014,GMC,Terrain FWD,SUV,A dos ruedas,11.76
+2014,GMC,Terrain FWD,SUV,A dos ruedas,9.05
+2014,GMC,Terrain FWD,SUV,A dos ruedas,11.76
+2014,Infiniti,QX70 RWD,SUV,A dos ruedas,12.38
+2014,Mercedes-Benz,GLK350,SUV,A dos ruedas,10.69
+2014,Volkswagen,Tiguan,SUV,A dos ruedas,10.23
+2014,Volkswagen,Tiguan,SUV,A dos ruedas,11.2
+2014,Audi,Q5 Hybrid,SUV,Total (4x4 / AWD),9.05
+2014,Audi,Q5,SUV,Total (4x4 / AWD),11.2
+2014,Audi,Q5,SUV,Total (4x4 / AWD),10.23
+2014,Buick,Encore AWD,SUV,Total (4x4 / AWD),9.05
+2014,Chevrolet,Equinox AWD,SUV,Total (4x4 / AWD),12.38
+2014,Chevrolet,Equinox AWD,SUV,Total (4x4 / AWD),10.23
+2014,Chevrolet,Equinox AWD,SUV,Total (4x4 / AWD),10.23
+2014,GMC,Terrain AWD,SUV,Total (4x4 / AWD),12.38
+2014,GMC,Terrain AWD,SUV,Total (4x4 / AWD),10.23
+2014,GMC,Terrain AWD,SUV,Total (4x4 / AWD),10.23
+2014,Infiniti,QX70 AWD,SUV,Total (4x4 / AWD),14.7
+2014,Infiniti,QX70 AWD,SUV,Total (4x4 / AWD),13.07
+2014,Mercedes-Benz,GLK350 4matic,SUV,Total (4x4 / AWD),11.2
+2014,Cadillac,Escalade 2WD,SUV,A dos ruedas,14.7
+2014,Cadillac,Escalade ESV 2WD,SUV,A dos ruedas,14.7
+2014,GMC,Yukon C10 2WD,SUV,A dos ruedas,14.7
+2014,GMC,Yukon XL C10 2WD,SUV,A dos ruedas,14.7
+2014,Audi,Q7,SUV,Total (4x4 / AWD),10.69
+2014,Audi,Q7,SUV,Total (4x4 / AWD),13.07
+2014,Cadillac,Escalade AWD,SUV,Total (4x4 / AWD),15.68
+2014,Cadillac,Escalade ESV AWD,SUV,Total (4x4 / AWD),16.8
+2014,Chevrolet,Tahoe K10 4WD,SUV,Total (4x4 / AWD),13.84
+2014,Chevrolet,Suburban K10 4WD,SUV,Total (4x4 / AWD),13.84
+2014,GMC,Yukon XL K10 4WD,SUV,Total (4x4 / AWD),13.84
+2014,GMC,Yukon K10 4WD,SUV,Total (4x4 / AWD),13.84
+2014,GMC,Yukon Denali K10 AWD,SUV,Total (4x4 / AWD),15.68
+2014,GMC,Yukon XL K10 AWD,SUV,Total (4x4 / AWD),16.8
+2014,Chevrolet,Volt,Compactos,A dos ruedas,6.36
+2013,Ferrari,F12,Deportivos biplaza,A dos ruedas,18.09
+2013,Ferrari,F12,Deportivos biplaza,A dos ruedas,18.09
+2013,Dodge,Dart,Berlinas y familiares,A dos ruedas,9.8
+2013,Jaguar,XJ LWB,Berlinas y familiares,A dos ruedas,11.76
+2014,Mazda,6,Berlinas y familiares,A dos ruedas,7.35
+2014,Chevrolet,Corvette,Deportivos biplaza,A dos ruedas,11.2
+2014,Mazda,MX-5,Deportivos biplaza,A dos ruedas,9.41
+2014,Mazda,MX-5,Deportivos biplaza,A dos ruedas,9.8
+2014,Mazda,MX-5,Deportivos biplaza,A dos ruedas,10.23
+2014,Audi,RS 5 Cabriolet,Compactos,Total (4x4 / AWD),13.07
+2014,Ford,Fiesta SFE FWD,Compactos,A dos ruedas,6.92
+2014,Maserati,GranTurismo,Compactos,A dos ruedas,14.7
+2014,Mercedes-Benz,E350 Coupe,Compactos,A dos ruedas,9.8
+2014,Mercedes-Benz,E350 Convertible,Compactos,A dos ruedas,10.23
+2014,Mercedes-Benz,E350 Convertible,Compactos,A dos ruedas,10.69
+2014,Volkswagen,Beetle Convertible,Compactos,A dos ruedas,9.41
+2014,Volkswagen,Eos,Compactos,A dos ruedas,9.41
+2014,Bentley,Continental GT,Compactos,Total (4x4 / AWD),13.07
+2014,Chevrolet,Sonic,Compactos,A dos ruedas,7.84
+2014,Mercedes-Benz,C350,Compactos,A dos ruedas,10.23
+2014,Subaru,Impreza AWD,Compactos,Total (4x4 / AWD),11.2
+2014,Subaru,Impreza AWD,Compactos,Total (4x4 / AWD),12.38
+2014,Toyota,Yaris,Compactos,A dos ruedas,7.13
+2014,Toyota,Yaris,Compactos,A dos ruedas,7.35
+2014,Volkswagen,Beetle,Compactos,A dos ruedas,9.05
+2014,Volkswagen,Jetta,Compactos,A dos ruedas,7.84
+2014,Volkswagen,Jetta,Compactos,A dos ruedas,8.11
+2014,Volkswagen,Jetta,Compactos,A dos ruedas,8.71
+2014,Volkswagen,Jetta,Compactos,A dos ruedas,9.05
+2014,Volkswagen,Jetta,Compactos,A dos ruedas,9.41
+2014,Volkswagen,Jetta,Compactos,A dos ruedas,8.4
+2014,Audi,A6 quattro,Berlinas y familiares,Total (4x4 / AWD),8.11
+2014,Cadillac,CTS Sedan AWD,Berlinas y familiares,Total (4x4 / AWD),10.69
+2014,Cadillac,CTS Sedan,Berlinas y familiares,A dos ruedas,10.23
+2014,Chevrolet,Sonic 5,Berlinas y familiares,A dos ruedas,7.84
+2014,Infiniti,Q50a,Berlinas y familiares,A dos ruedas,10.23
+2014,Infiniti,Q50,Berlinas y familiares,A dos ruedas,10.23
+2014,Infiniti,Q50a AWD,Berlinas y familiares,Total (4x4 / AWD),10.69
+2014,Infiniti,Q50 AWD,Berlinas y familiares,Total (4x4 / AWD),10.69
+2014,Mazda,3 5-Door,Berlinas y familiares,A dos ruedas,7.13
+2014,Mazda,3 5-Door,Berlinas y familiares,A dos ruedas,7.13
+2014,Mercedes-Benz,E63 AMG 4matic,Berlinas y familiares,Total (4x4 / AWD),12.38
+2014,Mercedes-Benz,E63 AMG S 4matic,Berlinas y familiares,Total (4x4 / AWD),13.07
+2014,Volkswagen,Passat,Berlinas y familiares,A dos ruedas,6.92
+2014,Volkswagen,Passat,Berlinas y familiares,A dos ruedas,6.72
+2014,Volkswagen,Passat,Berlinas y familiares,A dos ruedas,8.4
+2014,Volkswagen,Passat,Berlinas y familiares,A dos ruedas,8.4
+2014,Volkswagen,Passat,Berlinas y familiares,A dos ruedas,9.41
+2014,Volkswagen,Passat,Berlinas y familiares,A dos ruedas,9.05
+2014,Chevrolet,Impala,Berlinas y familiares,A dos ruedas,11.2
+2014,Fiat,500 L,Berlinas y familiares,A dos ruedas,8.71
+2014,Fiat,500 L,Berlinas y familiares,A dos ruedas,8.4
+2014,Subaru,Impreza Wagon AWD,Berlinas y familiares,Total (4x4 / AWD),11.2
+2014,Subaru,Impreza Wagon AWD,Berlinas y familiares,Total (4x4 / AWD),12.38
+2014,Volkswagen,Jetta SportWagen,Berlinas y familiares,A dos ruedas,7.13
+2014,Ram,1500 2WD,Pickups y furgonetas,A dos ruedas,14.7
+2014,Ram,1500 4WD,Pickups y furgonetas,Total (4x4 / AWD),12.38
+2014,Chrysler,Town and Country,Pickups y furgonetas,A dos ruedas,11.76
+2014,Dodge,Grand Caravan,Pickups y furgonetas,A dos ruedas,11.76
+2014,Volkswagen,Routan,Pickups y furgonetas,A dos ruedas,11.76
+2014,Chevrolet,Captiva FWD,SUV,A dos ruedas,12.38
+2014,Infiniti,QX60 FWD,SUV,A dos ruedas,10.69
+2014,Mitsubishi,Outlander Sport 2WD,SUV,A dos ruedas,9.05
+2014,Mitsubishi,Outlander Sport 2WD,SUV,A dos ruedas,8.71
+2014,Nissan,Pathfinder 2WD,SUV,A dos ruedas,10.69
+2014,Audi,Q5,SUV,Total (4x4 / AWD),8.71
+2014,Chevrolet,Captiva AWD,SUV,Total (4x4 / AWD),13.07
+2014,Chevrolet,Equinox AWD,SUV,Total (4x4 / AWD),12.38
+2014,GMC,Terrain AWD,SUV,Total (4x4 / AWD),12.38
+2014,Infiniti,QX60 AWD,SUV,Total (4x4 / AWD),11.2
+2014,Jeep,Wrangler 4WD,SUV,Total (4x4 / AWD),13.07
+2014,Mitsubishi,Outlander Sport 4WD,SUV,Total (4x4 / AWD),9.05
+2014,Nissan,Pathfinder 4WD,SUV,Total (4x4 / AWD),11.2
+2014,Subaru,Tribeca AWD,SUV,Total (4x4 / AWD),13.07
+2014,Volkswagen,Tiguan 4motion,SUV,Total (4x4 / AWD),10.23
+2014,Mercedes-Benz,ML350 4matic,SUV,Total (4x4 / AWD),12.38
+2014,Volkswagen,Touareg,SUV,Total (4x4 / AWD),12.38
+2014,Chevrolet,Impala,Berlinas y familiares,A dos ruedas,10.69
+2014,MINI,Cooper Clubvan,Deportivos biplaza,A dos ruedas,7.84
+2014,MINI,Cooper Coupe,Deportivos biplaza,A dos ruedas,7.59
+2014,MINI,Cooper Coupe,Deportivos biplaza,A dos ruedas,7.35
+2014,MINI,Cooper Roadster,Deportivos biplaza,A dos ruedas,7.84
+2014,MINI,Cooper S Coupe,Deportivos biplaza,A dos ruedas,7.84
+2014,MINI,Cooper S Roadster,Deportivos biplaza,A dos ruedas,7.84
+2014,MINI,John Cooper Works Coupe,Deportivos biplaza,A dos ruedas,7.84
+2014,MINI,John Cooper Works Roadster,Deportivos biplaza,A dos ruedas,7.84
+2014,Nissan,370Z,Deportivos biplaza,A dos ruedas,10.69
+2014,Nissan,370Z,Deportivos biplaza,A dos ruedas,11.2
+2014,Nissan,370Z Roadster,Deportivos biplaza,A dos ruedas,11.2
+2014,Nissan,370Z Roadster,Deportivos biplaza,A dos ruedas,11.76
+2014,MINI,Cooper Convertible,Compactos,A dos ruedas,7.84
+2014,MINI,Cooper S Convertible,Compactos,A dos ruedas,7.84
+2014,MINI,John Cooper Works Convertible,Compactos,A dos ruedas,7.84
+2014,MINI,Cooper Clubman,Compactos,A dos ruedas,7.84
+2014,MINI,Cooper S Clubman,Compactos,A dos ruedas,7.84
+2014,MINI,John Cooper Works Clubman,Compactos,A dos ruedas,7.84
+2014,Ford,Focus FWD,Compactos,A dos ruedas,7.59
+2014,Ford,Focus FWD,Compactos,A dos ruedas,7.59
+2014,Ford,Focus FWD,Compactos,A dos ruedas,7.84
+2014,Ford,Focus FWD,Compactos,A dos ruedas,9.05
+2014,Ford,Focus FWD FFV,Compactos,A dos ruedas,7.84
+2014,Ford,Focus FWD FFV,Compactos,A dos ruedas,7.84
+2014,Ford,Focus FWD FFV,Compactos,A dos ruedas,7.84
+2014,MINI,Cooper Countryman,Compactos,A dos ruedas,8.71
+2014,MINI,Cooper Paceman,Compactos,A dos ruedas,8.71
+2014,MINI,Cooper S Countryman,Compactos,A dos ruedas,8.4
+2014,MINI,Cooper S Countryman,Compactos,A dos ruedas,8.11
+2014,MINI,Cooper S Countryman All4,Compactos,Total (4x4 / AWD),9.05
+2014,MINI,Cooper S Countryman All4,Compactos,Total (4x4 / AWD),8.71
+2014,MINI,Cooper S Paceman,Compactos,A dos ruedas,8.4
+2014,MINI,Cooper S Paceman,Compactos,A dos ruedas,8.11
+2014,MINI,Cooper S Paceman All4,Compactos,Total (4x4 / AWD),9.05
+2014,MINI,Cooper S Paceman All4,Compactos,Total (4x4 / AWD),8.71
+2014,MINI,JCW Countryman All4,Compactos,Total (4x4 / AWD),9.05
+2014,MINI,JCW Countryman All4,Compactos,Total (4x4 / AWD),8.71
+2014,MINI,JCW Paceman All4,Compactos,Total (4x4 / AWD),9.05
+2014,MINI,JCW Paceman All4,Compactos,Total (4x4 / AWD),8.71
+2014,Infiniti,QX80 2WD,SUV,A dos ruedas,14.7
+2014,Infiniti,QX80 4WD,SUV,Total (4x4 / AWD),14.7
+2014,Mercedes-Benz,SLK250,Deportivos biplaza,A dos ruedas,9.05
+2014,Mercedes-Benz,SLK250,Deportivos biplaza,A dos ruedas,9.05
+2014,Mercedes-Benz,SLK350,Deportivos biplaza,A dos ruedas,9.8
+2014,Mercedes-Benz,SLS AMG Coupe,Deportivos biplaza,A dos ruedas,15.68
+2014,Mercedes-Benz,SLS AMG Roadster,Deportivos biplaza,A dos ruedas,15.68
+2014,Mercedes-Benz,SLS AMG GT Coupe,Deportivos biplaza,A dos ruedas,15.68
+2014,Mercedes-Benz,SLS AMG GT Roadster,Deportivos biplaza,A dos ruedas,15.68
+2014,MINI,Cooper Roadster,Deportivos biplaza,A dos ruedas,7.59
+2014,MINI,Cooper S Roadster,Deportivos biplaza,A dos ruedas,7.84
+2014,MINI,Cooper S Coupe,Deportivos biplaza,A dos ruedas,7.84
+2014,MINI,John Cooper Works Coupe,Deportivos biplaza,A dos ruedas,7.84
+2014,MINI,John Cooper Works Roadster,Deportivos biplaza,A dos ruedas,7.84
+2014,MINI,Cooper Convertible,Compactos,A dos ruedas,7.59
+2014,MINI,Cooper S Convertible,Compactos,A dos ruedas,7.84
+2014,MINI,John Cooper Works Convertible,Compactos,A dos ruedas,7.84
+2014,Porsche,911 Carrera 4S Cabriolet,Compactos,Total (4x4 / AWD),11.2
+2014,Mercedes-Benz,C250 Coupe,Compactos,A dos ruedas,9.41
+2014,Mercedes-Benz,C63 AMG Coupe,Compactos,A dos ruedas,15.68
+2014,Mercedes-Benz,C350 4matic Coupe,Compactos,Total (4x4 / AWD),10.69
+2014,Mercedes-Benz,C350 Coupe,Compactos,A dos ruedas,10.23
+2014,Mercedes-Benz,E550 Coupe,Compactos,A dos ruedas,11.2
+2014,MINI,Cooper Clubman,Compactos,A dos ruedas,7.59
+2014,MINI,Cooper S Clubman,Compactos,A dos ruedas,7.84
+2014,MINI,John Cooper Works Clubman,Compactos,A dos ruedas,7.84
+2014,Volkswagen,Beetle Convertible,Compactos,A dos ruedas,10.23
+2014,BMW,320i,Compactos,A dos ruedas,8.4
+2014,BMW,320i xDrive,Compactos,Total (4x4 / AWD),8.71
+2014,BMW,335i,Compactos,A dos ruedas,9.41
+2014,BMW,335i xDrive,Compactos,Total (4x4 / AWD),9.8
+2014,BMW,328d,Compactos,A dos ruedas,6.36
+2014,BMW,328d xDrive,Compactos,Total (4x4 / AWD),6.72
+2014,Chevrolet,Camaro,Compactos,A dos ruedas,14.7
+2014,Chevrolet,Camaro,Compactos,A dos ruedas,16.8
+2014,Chevrolet,Sonic,Compactos,A dos ruedas,7.13
+2014,Chevrolet,Sonic,Compactos,A dos ruedas,7.59
+2014,Chevrolet,Sonic RS,Compactos,A dos ruedas,7.84
+2014,Chevrolet,Sonic RS,Compactos,A dos ruedas,8.4
+2014,Ford,Focus SFE FWD FFV,Compactos,A dos ruedas,7.13
+2014,Infiniti,Q50 Hybrid,Compactos,A dos ruedas,7.59
+2014,Infiniti,Q50S Hybrid,Compactos,A dos ruedas,7.84
+2014,Infiniti,Q50 Hybrid AWD,Compactos,Total (4x4 / AWD),7.84
+2014,Infiniti,Q50S Hybrid AWD,Compactos,Total (4x4 / AWD),8.4
+2014,Mercedes-Benz,C250,Compactos,A dos ruedas,9.41
+2014,Mercedes-Benz,C63 AMG,Compactos,A dos ruedas,15.68
+2014,Mercedes-Benz,CL600,Compactos,A dos ruedas,16.8
+2014,Mercedes-Benz,CL65 AMG,Compactos,A dos ruedas,16.8
+2014,MINI,Cooper Countryman,Compactos,A dos ruedas,7.59
+2014,MINI,Cooper Paceman,Compactos,A dos ruedas,7.59
+2014,Volkswagen,Golf,Compactos,A dos ruedas,9.05
+2014,Volkswagen,Beetle,Compactos,A dos ruedas,9.41
+2014,Volkswagen,Beetle,Compactos,A dos ruedas,9.41
+2014,BMW,528i,Berlinas y familiares,A dos ruedas,8.71
+2014,BMW,535i,Berlinas y familiares,A dos ruedas,9.8
+2014,Cadillac,CTS,Berlinas y familiares,A dos ruedas,14.7
+2014,Cadillac,CTS V,Berlinas y familiares,A dos ruedas,14.7
+2014,Cadillac,CTS,Berlinas y familiares,A dos ruedas,16.8
+2014,Cadillac,CTS V,Berlinas y familiares,A dos ruedas,16.8
+2014,Chevrolet,Cruze,Berlinas y familiares,A dos ruedas,7.84
+2014,Chevrolet,Cruze Eco,Berlinas y familiares,A dos ruedas,7.13
+2014,Chevrolet,Sonic 5,Berlinas y familiares,A dos ruedas,7.13
+2014,Chevrolet,Sonic 5,Berlinas y familiares,A dos ruedas,7.59
+2014,Chevrolet,Sonic 5 RS,Berlinas y familiares,A dos ruedas,7.84
+2014,Chevrolet,Sonic 5 RS,Berlinas y familiares,A dos ruedas,8.4
+2014,Ford,Fusion FWD,Berlinas y familiares,A dos ruedas,8.4
+2014,Ford,Fusion FWD,Berlinas y familiares,A dos ruedas,8.11
+2014,Ford,Fusion AWD,Berlinas y familiares,Total (4x4 / AWD),9.41
+2014,Ford,Fusion FWD,Berlinas y familiares,A dos ruedas,9.05
+2014,Ford,Fusion FWD,Berlinas y familiares,A dos ruedas,9.05
+2014,Ford,Fusion Energi Plug-in Hybrid,Berlinas y familiares,A dos ruedas,5.47
+2014,Jaguar,XF,Berlinas y familiares,A dos ruedas,10.23
+2014,Lincoln,MKZ AWD,Berlinas y familiares,Total (4x4 / AWD),9.41
+2014,Lincoln,MKZ FWD,Berlinas y familiares,A dos ruedas,9.05
+2014,Lincoln,MKZ AWD,Berlinas y familiares,Total (4x4 / AWD),11.2
+2014,Lincoln,MKZ FWD,Berlinas y familiares,A dos ruedas,10.69
+2014,BMW,335i xDrive Gran Turismo,Berlinas y familiares,Total (4x4 / AWD),9.8
+2014,BMW,535i xDrive Gran Turismo,Berlinas y familiares,Total (4x4 / AWD),11.2
+2014,BMW,740i,Berlinas y familiares,A dos ruedas,10.69
+2014,BMW,740Li,Berlinas y familiares,A dos ruedas,10.69
+2014,Maserati,Quattroporte GTS,Berlinas y familiares,A dos ruedas,14.7
+2014,BMW,328d xDrive Sports Wagon,Berlinas y familiares,Total (4x4 / AWD),6.72
+2014,Cadillac,CTS Wagon,Berlinas y familiares,A dos ruedas,14.7
+2014,Cadillac,CTS Wagon,Berlinas y familiares,A dos ruedas,16.8
+2014,Volkswagen,Jetta SportWagen,Berlinas y familiares,A dos ruedas,9.05
+2014,Volkswagen,Jetta SportWagen,Berlinas y familiares,A dos ruedas,9.05
+2014,Chevrolet,Silverado C15 2WD,Pickups y furgonetas,A dos ruedas,11.76
+2014,GMC,Sierra C15 2WD,Pickups y furgonetas,A dos ruedas,11.76
+2014,Ram,1500 2WD,Pickups y furgonetas,A dos ruedas,13.84
+2014,Ram,1500 2WD,Pickups y furgonetas,A dos ruedas,11.76
+2014,Ram,1500 2WD,Pickups y furgonetas,A dos ruedas,11.76
+2014,Chevrolet,Silverado K15 4WD,Pickups y furgonetas,Total (4x4 / AWD),12.38
+2014,GMC,Sierra K15 4WD,Pickups y furgonetas,Total (4x4 / AWD),12.38
+2014,Ram,1500 4WD,Pickups y furgonetas,Total (4x4 / AWD),15.68
+2014,Ram,1500 4WD,Pickups y furgonetas,Total (4x4 / AWD),12.38
+2014,Ram,1500 4WD,Pickups y furgonetas,Total (4x4 / AWD),13.84
+2014,Chrysler,Town and Country,Pickups y furgonetas,A dos ruedas,11.76
+2014,Dodge,Grand Caravan,Pickups y furgonetas,A dos ruedas,11.76
+2014,Ram,C/V,Pickups y furgonetas,A dos ruedas,11.2
+2014,Chevrolet,Equinox FWD,SUV,A dos ruedas,9.05
+2014,Chevrolet,Captiva FWD,SUV,A dos ruedas,10.23
+2014,Dodge,Journey FWD,SUV,A dos ruedas,11.2
+2014,Dodge,Journey FWD,SUV,A dos ruedas,12.38
+2014,GMC,Terrain FWD,SUV,A dos ruedas,9.05
+2014,Mercedes-Benz,GLK350,SUV,A dos ruedas,11.2
+2014,Dodge,Journey AWD,SUV,Total (4x4 / AWD),12.38
+2014,Jeep,Wrangler Unlimited 4WD,SUV,Total (4x4 / AWD),13.07
+2014,Jeep,Wrangler Unlimited 4WD,SUV,Total (4x4 / AWD),13.07
+2014,Jeep,Wrangler 4WD,SUV,Total (4x4 / AWD),13.07
+2014,Porsche,Cayenne S Hybrid,SUV,Total (4x4 / AWD),11.2
+2014,SRT,Viper,Deportivos biplaza,A dos ruedas,15.68
+2014,Infiniti,Q60 AWD Coupe,Compactos,Total (4x4 / AWD),11.76
+2014,Infiniti,Q60 Convertible,Compactos,A dos ruedas,11.76
+2014,Infiniti,Q60 Convertible,Compactos,A dos ruedas,12.38
+2014,Infiniti,Q60 Coupe,Compactos,A dos ruedas,10.69
+2014,Infiniti,Q60 Coupe,Compactos,A dos ruedas,11.76
+2014,Mercedes-Benz,ML350,SUV,A dos ruedas,11.76
+2014,Mercedes-Benz,GL550 4matic,SUV,Total (4x4 / AWD),15.68
+2014,Mercedes-Benz,GL63 AMG,SUV,Total (4x4 / AWD),16.8
+2014,Mercedes-Benz,ML350 4matic,SUV,Total (4x4 / AWD),12.38
+2014,Mercedes-Benz,ML63 AMG,SUV,Total (4x4 / AWD),15.68
+2014,BMW,335i,Compactos,A dos ruedas,10.23
+2014,BMW,535i,Berlinas y familiares,A dos ruedas,10.23
+2014,BMW,740Li xDrive,Berlinas y familiares,Total (4x4 / AWD),10.69
+2014,Infiniti,QX50,Berlinas y familiares,A dos ruedas,11.76
+2014,Infiniti,QX50 AWD,Berlinas y familiares,Total (4x4 / AWD),11.76
+2014,MINI,Cooper Clubvan,Deportivos biplaza,A dos ruedas,7.59
+2014,Lotus,Evora,Compactos,A dos ruedas,11.2
+2014,Lotus,Evora,Compactos,A dos ruedas,11.76
+2014,Lotus,Evora,Compactos,A dos ruedas,10.69
+2014,Lotus,Evora,Compactos,A dos ruedas,10.69
+2014,Subaru,BRZ,Compactos,A dos ruedas,9.41
+2014,Subaru,BRZ,Compactos,A dos ruedas,8.4
+2014,Maserati,GranTurismo Convertible,Compactos,A dos ruedas,15.68
+2014,BMW,328i,Compactos,A dos ruedas,8.71
+2014,BMW,328i,Compactos,A dos ruedas,9.05
+2014,BMW,328i xDrive,Compactos,Total (4x4 / AWD),9.05
+2014,BMW,320i,Compactos,A dos ruedas,8.71
+2014,BMW,335i xDrive,Compactos,Total (4x4 / AWD),10.23
+2014,Chrysler,200 Convertible,Compactos,A dos ruedas,10.69
+2014,Chrysler,200 Convertible,Compactos,A dos ruedas,10.69
+2014,Mazda,2,Compactos,A dos ruedas,7.35
+2014,Mazda,2,Compactos,A dos ruedas,7.84
+2014,Rolls-Royce,Phantom Drophead Coupe,Compactos,A dos ruedas,16.8
+2014,Subaru,Impreza AWD,Compactos,Total (4x4 / AWD),8.4
+2014,Subaru,Impreza AWD,Compactos,Total (4x4 / AWD),7.84
+2014,Volkswagen,Jetta Hybrid,Compactos,A dos ruedas,5.23
+2014,Volkswagen,GTI,Compactos,A dos ruedas,8.71
+2014,Volkswagen,GTI,Compactos,A dos ruedas,9.41
+2014,BMW,528i xDrive,Berlinas y familiares,Total (4x4 / AWD),9.05
+2014,BMW,535i xDrive,Berlinas y familiares,Total (4x4 / AWD),10.23
+2014,BMW,535d,Berlinas y familiares,A dos ruedas,7.84
+2014,BMW,535d xDrive,Berlinas y familiares,Total (4x4 / AWD),7.84
+2014,BMW,550i,Berlinas y familiares,A dos ruedas,11.76
+2014,BMW,550i xDrive,Berlinas y familiares,Total (4x4 / AWD),12.38
+2014,Buick,LaCrosse,Berlinas y familiares,A dos ruedas,11.2
+2014,Buick,Regal,Berlinas y familiares,A dos ruedas,9.8
+2014,Buick,Regal,Berlinas y familiares,A dos ruedas,10.23
+2014,Buick,Regal,Berlinas y familiares,A dos ruedas,9.8
+2014,Chrysler,200,Berlinas y familiares,A dos ruedas,9.8
+2014,Chrysler,200,Berlinas y familiares,A dos ruedas,9.8
+2014,Chrysler,200,Berlinas y familiares,A dos ruedas,10.69
+2014,Dodge,Avenger,Berlinas y familiares,A dos ruedas,9.8
+2014,Dodge,Avenger,Berlinas y familiares,A dos ruedas,9.8
+2014,Dodge,Avenger,Berlinas y familiares,A dos ruedas,10.69
+2014,Dodge,Challenger,Berlinas y familiares,A dos ruedas,11.2
+2014,Dodge,Challenger,Berlinas y familiares,A dos ruedas,13.07
+2014,Jaguar,XF,Berlinas y familiares,A dos ruedas,13.07
+2014,Jaguar,XF AWD,Berlinas y familiares,Total (4x4 / AWD),12.38
+2014,Maserati,Ghibli V6 AWD,Berlinas y familiares,Total (4x4 / AWD),13.07
+2014,Rolls-Royce,Wraith,Berlinas y familiares,A dos ruedas,15.68
+2014,BMW,328i xDrive Gran Turismo,Berlinas y familiares,Total (4x4 / AWD),9.05
+2014,BMW,535i Gran Turismo,Berlinas y familiares,A dos ruedas,10.69
+2014,BMW,550i Gran Turismo,Berlinas y familiares,A dos ruedas,12.38
+2014,BMW,550i xDrive Gran Turismo,Berlinas y familiares,Total (4x4 / AWD),12.38
+2014,BMW,750i,Berlinas y familiares,A dos ruedas,11.76
+2014,BMW,750Li,Berlinas y familiares,A dos ruedas,12.38
+2014,BMW,750i xDrive,Berlinas y familiares,Total (4x4 / AWD),12.38
+2014,BMW,750Li xDrive,Berlinas y familiares,Total (4x4 / AWD),12.38
+2014,BMW,Alpina B7 SWB,Berlinas y familiares,A dos ruedas,12.38
+2014,BMW,Alpina B7 LWB,Berlinas y familiares,A dos ruedas,12.38
+2014,BMW,Alpina B7 SWB xDrive,Berlinas y familiares,Total (4x4 / AWD),12.38
+2014,BMW,Alpina B7 LWB xDrive,Berlinas y familiares,Total (4x4 / AWD),12.38
+2014,BMW,760Li,Berlinas y familiares,A dos ruedas,15.68
+2014,Cadillac,XTS,Berlinas y familiares,A dos ruedas,11.2
+2014,Chrysler,300,Berlinas y familiares,A dos ruedas,13.07
+2014,Chrysler,300 AWD,Berlinas y familiares,Total (4x4 / AWD),11.2
+2014,Chrysler,300 AWD,Berlinas y familiares,Total (4x4 / AWD),11.2
+2014,Chrysler,300 AWD,Berlinas y familiares,Total (4x4 / AWD),13.07
+2014,Dodge,Charger,Berlinas y familiares,A dos ruedas,11.2
+2014,Dodge,Charger,Berlinas y familiares,A dos ruedas,11.2
+2014,Dodge,Charger,Berlinas y familiares,A dos ruedas,13.07
+2014,Dodge,Charger AWD,Berlinas y familiares,Total (4x4 / AWD),11.2
+2014,Dodge,Charger AWD,Berlinas y familiares,Total (4x4 / AWD),11.2
+2014,Dodge,Charger AWD,Berlinas y familiares,Total (4x4 / AWD),13.07
+2014,Jaguar,XJ,Berlinas y familiares,A dos ruedas,13.07
+2014,Jaguar,XJL,Berlinas y familiares,A dos ruedas,13.07
+2014,Jaguar,XJ AWD,Berlinas y familiares,Total (4x4 / AWD),12.38
+2014,Jaguar,XJL AWD,Berlinas y familiares,Total (4x4 / AWD),12.38
+2014,Maserati,Quattroporte SQ4 V6,Berlinas y familiares,Total (4x4 / AWD),13.07
+2014,Rolls-Royce,Phantom,Berlinas y familiares,A dos ruedas,16.8
+2014,Rolls-Royce,Phantom EWB,Berlinas y familiares,A dos ruedas,16.8
+2014,Rolls-Royce,Ghost,Berlinas y familiares,A dos ruedas,15.68
+2014,Rolls-Royce,Ghost EWB,Berlinas y familiares,A dos ruedas,15.68
+2014,Subaru,Impreza Wagon AWD,Berlinas y familiares,Total (4x4 / AWD),8.4
+2014,Subaru,Impreza Wagon AWD,Berlinas y familiares,Total (4x4 / AWD),7.84
+2014,Honda,CR-V 2WD,SUV,A dos ruedas,9.05
+2014,Mazda,CX-9 2WD,SUV,A dos ruedas,12.38
+2014,Audi,SQ5,SUV,Total (4x4 / AWD),12.38
+2014,Honda,CR-V 4WD,SUV,Total (4x4 / AWD),9.41
+2014,Mazda,CX-9 4WD,SUV,Total (4x4 / AWD),13.07
+2014,Mercedes-Benz,GLK350 4matic,SUV,Total (4x4 / AWD),11.2
+2014,Subaru,XV Crosstrek AWD,SUV,Total (4x4 / AWD),9.05
+2014,Subaru,XV Crosstrek AWD,SUV,Total (4x4 / AWD),8.4
+2014,Cadillac,SRX 2WD,SUV,A dos ruedas,12.38
+2014,Toyota,Sequoia 2WD,SUV,A dos ruedas,15.68
+2014,BMW,X5 xDrive35i,SUV,Total (4x4 / AWD),11.2
+2014,BMW,X5 xDrive50i,SUV,Total (4x4 / AWD),13.84
+2014,Mercedes-Benz,ML350 Bluetec 4matic,SUV,Total (4x4 / AWD),10.23
+2014,Mercedes-Benz,ML550 4matic,SUV,Total (4x4 / AWD),14.7
+2014,Mercedes-Benz,GL450 4matic,SUV,Total (4x4 / AWD),14.7
+2014,Toyota,Sequoia 4WD FFV,SUV,Total (4x4 / AWD),16.8
+2014,Toyota,Sequoia 4WD,SUV,Total (4x4 / AWD),16.8
+2013,Ram,1500 2WD,Pickups y furgonetas,A dos ruedas,13.84
+2014,Mazda,3 4-Door,Compactos,A dos ruedas,6.92
+2014,Mazda,3 4-Door,Compactos,A dos ruedas,7.13
+2014,Nissan,Altima,Berlinas y familiares,A dos ruedas,7.59
+2014,Nissan,Altima,Berlinas y familiares,A dos ruedas,9.41
+2014,Toyota,Tundra 2WD,Pickups y furgonetas,A dos ruedas,13.84
+2014,Toyota,Tundra 2WD,Pickups y furgonetas,A dos ruedas,14.7
+2014,Toyota,Tundra 2WD,Pickups y furgonetas,A dos ruedas,15.68
+2014,Toyota,Tundra 4WD,Pickups y furgonetas,Total (4x4 / AWD),14.7
+2014,Toyota,Tundra 4WD,Pickups y furgonetas,Total (4x4 / AWD),15.68
+2014,Toyota,Tundra 4WD FFV,Pickups y furgonetas,Total (4x4 / AWD),15.68
+2014,Toyota,Venza,SUV,A dos ruedas,10.23
+2014,Toyota,Venza,SUV,A dos ruedas,10.69
+2014,Toyota,Venza 4WD,SUV,Total (4x4 / AWD),10.69
+2014,Toyota,Venza 4WD,SUV,Total (4x4 / AWD),11.2
+2014,Chevrolet,Corvette,Deportivos biplaza,A dos ruedas,11.76
+2014,Mercedes-Benz,SL65 AMG,Deportivos biplaza,A dos ruedas,13.84
+2014,Mercedes-Benz,SLS AMG Black Series Coupe,Deportivos biplaza,A dos ruedas,16.8
+2014,Scion,FR-S,Compactos,A dos ruedas,9.41
+2014,Scion,FR-S,Compactos,A dos ruedas,8.4
+2014,BMW,428i Coupe,Compactos,A dos ruedas,8.71
+2014,BMW,428i Coupe,Compactos,A dos ruedas,9.05
+2014,BMW,428i xDrive Coupe,Compactos,Total (4x4 / AWD),9.05
+2014,BMW,435i Coupe,Compactos,A dos ruedas,9.41
+2014,BMW,435i Coupe,Compactos,A dos ruedas,10.23
+2014,BMW,435i xDrive Coupe,Compactos,Total (4x4 / AWD),9.8
+2014,BMW,435i xDrive Coupe,Compactos,Total (4x4 / AWD),10.23
+2014,Mazda,3 4-Door,Compactos,A dos ruedas,7.35
+2014,Mazda,3 4-Door,Compactos,A dos ruedas,7.35
+2014,Mercedes-Benz,C300 4matic,Compactos,Total (4x4 / AWD),10.69
+2014,Rolls-Royce,Phantom Coupe,Compactos,A dos ruedas,16.8
+2014,Buick,Regal AWD,Berlinas y familiares,Total (4x4 / AWD),10.69
+2014,Dodge,Challenger,Berlinas y familiares,A dos ruedas,13.07
+2014,Dodge,Challenger SRT8,Berlinas y familiares,A dos ruedas,13.84
+2014,Dodge,Challenger SRT8,Berlinas y familiares,A dos ruedas,13.84
+2014,Mazda,3 5-Door,Berlinas y familiares,A dos ruedas,7.59
+2014,Mazda,3 5-Door,Berlinas y familiares,A dos ruedas,7.35
+2014,Toyota,Camry,Berlinas y familiares,A dos ruedas,8.4
+2014,Toyota,Camry Hybrid LE,Berlinas y familiares,A dos ruedas,5.74
+2014,Toyota,Camry Hybrid XLE/SE,Berlinas y familiares,A dos ruedas,5.88
+2014,Toyota,Camry,Berlinas y familiares,A dos ruedas,9.41
+2014,Chevrolet,SS,Berlinas y familiares,A dos ruedas,13.84
+2014,Chrysler,300,Berlinas y familiares,A dos ruedas,10.23
+2014,Chrysler,300,Berlinas y familiares,A dos ruedas,10.23
+2014,Chrysler,300 SRT8,Berlinas y familiares,A dos ruedas,13.84
+2014,Dodge,Charger,Berlinas y familiares,A dos ruedas,10.23
+2014,Dodge,Charger,Berlinas y familiares,A dos ruedas,10.23
+2014,Dodge,Charger SRT8,Berlinas y familiares,A dos ruedas,13.84
+2014,Jeep,Patriot FWD,SUV,A dos ruedas,9.05
+2014,Mercedes-Benz,GLK250 Bluetec 4matic,SUV,Total (4x4 / AWD),8.4
+2014,BMW,X5 sDrive35i,SUV,A dos ruedas,10.69
+2014,Dodge,Durango AWD,SUV,Total (4x4 / AWD),12.38
+2014,Land Rover,Range Rover Sport FFV,SUV,A dos ruedas,12.38
+2014,Mercedes-Benz,GL350 Bluetec 4matic,SUV,Total (4x4 / AWD),10.69
+2014,Scion,xD,Compactos,A dos ruedas,8.11
+2014,Scion,xD,Compactos,A dos ruedas,8.11
+2014,Bentley,Mulsanne,Berlinas y familiares,A dos ruedas,18.09
+2014,Chevrolet,Malibu,Berlinas y familiares,A dos ruedas,8.11
+2014,Ford,Fusion Hybrid FWD,Berlinas y familiares,A dos ruedas,5.0
+2014,Honda,Accord,Berlinas y familiares,A dos ruedas,8.11
+2014,Honda,Accord,Berlinas y familiares,A dos ruedas,9.41
+2014,Honda,Accord,Berlinas y familiares,A dos ruedas,10.69
+2014,Lincoln,MKZ Hybrid FWD,Berlinas y familiares,A dos ruedas,5.23
+2014,Toyota,Prius v,Berlinas y familiares,A dos ruedas,5.6
+2014,Mazda,5,Pickups y furgonetas,A dos ruedas,9.8
+2014,Mazda,5,Pickups y furgonetas,A dos ruedas,9.8
+2014,Toyota,FJ Cruiser 2WD,SUV,A dos ruedas,13.07
+2014,Toyota,FJ Cruiser 4WD,SUV,Total (4x4 / AWD),13.07
+2014,Toyota,FJ Cruiser 4WD,SUV,Total (4x4 / AWD),14.7
+2014,Ford,Expedition 2WD FFV,SUV,A dos ruedas,14.7
+2014,Lincoln,Navigator 2WD FFV,SUV,A dos ruedas,14.7
+2014,Ford,Expedition 4WD FFV,SUV,Total (4x4 / AWD),15.68
+2014,Lincoln,Navigator 4WD FFV,SUV,Total (4x4 / AWD),15.68
+2014,Toyota,Land Cruiser Wagon 4WD,SUV,Total (4x4 / AWD),15.68
+2014,Aston Martin,V8 Vantage,Deportivos biplaza,A dos ruedas,15.68
+2014,Aston Martin,V8 Vantage,Deportivos biplaza,A dos ruedas,14.7
+2014,Aston Martin,V8 Vantage S,Deportivos biplaza,A dos ruedas,15.68
+2014,Aston Martin,V8 Vantage S,Deportivos biplaza,A dos ruedas,14.7
+2014,Fiat,500,Compactos,A dos ruedas,7.84
+2014,Fiat,500 Abarth,Compactos,A dos ruedas,7.84
+2014,Acura,TSX,Compactos,A dos ruedas,9.05
+2014,Acura,TSX,Compactos,A dos ruedas,9.8
+2014,Acura,TSX,Compactos,A dos ruedas,10.23
+2014,Honda,Insight,Compactos,A dos ruedas,5.6
+2014,Honda,Insight,Compactos,A dos ruedas,5.6
+2014,Mitsubishi,Mirage,Compactos,A dos ruedas,6.36
+2014,Mitsubishi,Mirage,Compactos,A dos ruedas,5.88
+2014,Acura,TL 2WD,Berlinas y familiares,A dos ruedas,10.23
+2014,Acura,TL 4WD,Berlinas y familiares,Total (4x4 / AWD),11.2
+2014,Acura,TL 4WD,Berlinas y familiares,Total (4x4 / AWD),11.76
+2014,Honda,Accord,Berlinas y familiares,A dos ruedas,8.4
+2014,Honda,Accord,Berlinas y familiares,A dos ruedas,7.84
+2014,Honda,Accord,Berlinas y familiares,A dos ruedas,9.05
+2014,Jaguar,XF FFV,Berlinas y familiares,A dos ruedas,13.07
+2014,Jaguar,XF FFV,Berlinas y familiares,A dos ruedas,11.2
+2014,Nissan,Maxima,Berlinas y familiares,A dos ruedas,10.69
+2014,Jaguar,XJ FFV,Berlinas y familiares,A dos ruedas,13.07
+2014,Jaguar,XJL FFV,Berlinas y familiares,A dos ruedas,13.07
+2014,Jaguar,XJ FFV,Berlinas y familiares,A dos ruedas,11.2
+2014,Jaguar,XJL FFV,Berlinas y familiares,A dos ruedas,11.76
+2014,Porsche,Panamera,Berlinas y familiares,A dos ruedas,10.69
+2014,Porsche,Panamera 4,Berlinas y familiares,Total (4x4 / AWD),11.2
+2014,Porsche,Panamera 4S Executive,Berlinas y familiares,Total (4x4 / AWD),11.76
+2014,Porsche,Panamera GTS,Berlinas y familiares,Total (4x4 / AWD),12.38
+2014,Porsche,Panamera Turbo,Berlinas y familiares,Total (4x4 / AWD),13.07
+2014,Porsche,Panamera Turbo Executive,Berlinas y familiares,Total (4x4 / AWD),13.07
+2014,Acura,TSX Wagon,Berlinas y familiares,A dos ruedas,9.41
+2014,Honda,Ridgeline Truck 4WD,Pickups y furgonetas,Total (4x4 / AWD),13.84
+2014,Ford,E150 Van FFV,Pickups y furgonetas,A dos ruedas,16.8
+2014,Ford,E250 Van FFV,Pickups y furgonetas,A dos ruedas,16.8
+2014,Ford,E350 Van FFV,Pickups y furgonetas,A dos ruedas,18.09
+2014,Ford,E150 Van FFV,Pickups y furgonetas,A dos ruedas,15.68
+2014,Ford,E250 Van FFV,Pickups y furgonetas,A dos ruedas,15.68
+2014,Ford,E150 Wagon FFV,Pickups y furgonetas,A dos ruedas,18.09
+2014,Ford,E350 Wagon FFV,Pickups y furgonetas,A dos ruedas,18.09
+2014,Ford,E350 Wagon,Pickups y furgonetas,A dos ruedas,21.38
+2014,Nissan,Quest,Pickups y furgonetas,A dos ruedas,11.2
+2014,Toyota,Sienna 2WD,Pickups y furgonetas,A dos ruedas,11.2
+2014,Toyota,Sienna AWD,Pickups y furgonetas,Total (4x4 / AWD),12.38
+2014,Honda,Pilot 2WD,SUV,A dos ruedas,11.2
+2014,Hyundai,Tucson 2WD,SUV,A dos ruedas,9.8
+2014,Hyundai,Tucson 2WD,SUV,A dos ruedas,9.41
+2014,Jeep,Cherokee FWD,SUV,A dos ruedas,10.69
+2014,Jeep,Cherokee FWD,SUV,A dos ruedas,9.41
+2014,Lexus,RX 350,SUV,A dos ruedas,11.2
+2014,Lexus,RX 450h,SUV,A dos ruedas,7.84
+2014,Honda,Pilot 4WD,SUV,Total (4x4 / AWD),11.76
+2014,Hyundai,Tucson 4WD,SUV,Total (4x4 / AWD),10.69
+2014,Hyundai,Tucson 4WD,SUV,Total (4x4 / AWD),10.23
+2014,Jeep,Cherokee 4WD,SUV,Total (4x4 / AWD),9.8
+2014,Jeep,Cherokee 4WD,SUV,Total (4x4 / AWD),10.69
+2014,Lexus,RX 350 AWD,SUV,Total (4x4 / AWD),11.76
+2014,Lexus,RX 350 AWD,SUV,Total (4x4 / AWD),11.2
+2014,Lexus,RX 450h AWD,SUV,Total (4x4 / AWD),8.11
+2014,Land Rover,Range Rover FFV,SUV,Total (4x4 / AWD),14.7
+2014,Land Rover,Range Rover FFV,SUV,Total (4x4 / AWD),12.38
+2014,Land Rover,Range Rover Sport FFV,SUV,Total (4x4 / AWD),14.7
+2014,Lexus,LX 570,SUV,Total (4x4 / AWD),16.8
+2014,Honda,Accord Hybrid,Berlinas y familiares,A dos ruedas,5.0
+2014,Mercedes-Benz,E250 Bluetec,Berlinas y familiares,A dos ruedas,7.13
+2014,Mercedes-Benz,E250 Bluetec 4matic,Berlinas y familiares,Total (4x4 / AWD),7.59
+2014,Toyota,Corolla,Berlinas y familiares,A dos ruedas,7.59
+2014,Toyota,Corolla,Berlinas y familiares,A dos ruedas,7.35
+2014,Toyota,Corolla,Berlinas y familiares,A dos ruedas,7.35
+2014,Toyota,Corolla,Berlinas y familiares,A dos ruedas,7.59
+2014,Toyota,Corolla LE Eco,Berlinas y familiares,A dos ruedas,6.72
+2014,Toyota,Corolla LE Eco,Berlinas y familiares,A dos ruedas,6.92
+2014,Toyota,Tacoma 2WD,Pickups y furgonetas,A dos ruedas,11.2
+2014,Toyota,Tacoma 2WD,Pickups y furgonetas,A dos ruedas,10.23
+2014,Toyota,Tacoma 2WD,Pickups y furgonetas,A dos ruedas,12.38
+2014,Toyota,Tacoma 2WD,Pickups y furgonetas,A dos ruedas,13.07
+2014,Toyota,Tacoma 4WD,Pickups y furgonetas,Total (4x4 / AWD),12.38
+2014,Toyota,Tacoma 4WD,Pickups y furgonetas,Total (4x4 / AWD),12.38
+2014,Toyota,Tacoma 4WD,Pickups y furgonetas,Total (4x4 / AWD),13.07
+2014,Toyota,Tacoma 4WD,Pickups y furgonetas,Total (4x4 / AWD),13.84
+2014,Nissan,Titan 2WD,Pickups y furgonetas,A dos ruedas,15.68
+2014,Nissan,Titan 2WD,Pickups y furgonetas,A dos ruedas,15.68
+2014,Nissan,Titan 4WD,Pickups y furgonetas,Total (4x4 / AWD),16.8
+2014,Nissan,Titan 4WD,Pickups y furgonetas,Total (4x4 / AWD),16.8
+2014,Jeep,Cherokee 4WD Active Drive II,SUV,Total (4x4 / AWD),10.23
+2014,Jeep,Cherokee 4WD Active Drive II,SUV,Total (4x4 / AWD),11.2
+2014,Dodge,Durango RWD,SUV,A dos ruedas,11.76
+2014,Dodge,Durango RWD,SUV,A dos ruedas,13.84
+2014,Nissan,Armada 2WD,SUV,A dos ruedas,15.68
+2014,Nissan,Armada 2WD,SUV,A dos ruedas,15.68
+2014,Dodge,Durango AWD,SUV,Total (4x4 / AWD),14.7
+2014,Nissan,Armada 4WD,SUV,Total (4x4 / AWD),16.8
+2014,Nissan,Armada 4WD,SUV,Total (4x4 / AWD),16.8
+2014,Honda,CR-Z,Deportivos biplaza,A dos ruedas,6.36
+2014,Honda,CR-Z,Deportivos biplaza,A dos ruedas,6.92
+2014,Lexus,IS 350 C,Compactos,A dos ruedas,10.69
+2014,Lexus,IS 250 C,Compactos,A dos ruedas,9.8
+2014,Volkswagen,Beetle Convertible,Compactos,A dos ruedas,9.05
+2014,BMW,ActiveHybrid 3,Compactos,A dos ruedas,8.4
+2014,Volkswagen,Beetle,Compactos,A dos ruedas,9.05
+2014,BMW,ActiveHybrid 5,Berlinas y familiares,A dos ruedas,9.05
+2014,Cadillac,CTS Sedan,Berlinas y familiares,A dos ruedas,10.69
+2014,Kia,Optima,Berlinas y familiares,A dos ruedas,9.8
+2014,Kia,Optima,Berlinas y familiares,A dos ruedas,8.71
+2014,Maserati,Ghibli V6,Berlinas y familiares,A dos ruedas,12.38
+2014,BMW,ActiveHybrid 7L,Berlinas y familiares,A dos ruedas,9.41
+2014,Mercedes-Benz,S550,Berlinas y familiares,A dos ruedas,11.76
+2014,Porsche,Panamera S,Berlinas y familiares,A dos ruedas,11.2
+2014,Porsche,Panamera 4S,Berlinas y familiares,Total (4x4 / AWD),11.2
+2014,Ford,E350 Van,Pickups y furgonetas,A dos ruedas,19.6
+2014,Hyundai,Santa Fe 2WD,SUV,A dos ruedas,11.2
+2014,Hyundai,Santa Fe Sport 2WD,SUV,A dos ruedas,10.23
+2014,Hyundai,Santa Fe Sport 2WD,SUV,A dos ruedas,10.69
+2014,Kia,Sportage 2WD,SUV,A dos ruedas,10.23
+2014,Hyundai,Santa Fe Sport 4WD,SUV,Total (4x4 / AWD),11.2
+2014,Hyundai,Santa Fe Sport 4WD,SUV,Total (4x4 / AWD),11.2
+2014,Hyundai,Santa Fe 4WD,SUV,Total (4x4 / AWD),11.76
+2014,Jeep,Cherokee Trailhawk 4WD,SUV,Total (4x4 / AWD),11.76
+2014,Kia,Sportage 4WD,SUV,Total (4x4 / AWD),11.2
+2014,Toyota,4Runner 2WD,SUV,A dos ruedas,12.38
+2014,Toyota,4Runner 4WD,SUV,Total (4x4 / AWD),13.07
+2014,Toyota,4Runner 4WD,SUV,Total (4x4 / AWD),13.07
+2014,Mercedes-Benz,CLA250,Compactos,A dos ruedas,7.84
+2014,Hyundai,Sonata,Berlinas y familiares,A dos ruedas,8.4
+2014,Nissan,Murano FWD,SUV,A dos ruedas,11.76
+2014,Nissan,Murano AWD,SUV,Total (4x4 / AWD),11.76
+2014,Lexus,GX 460,SUV,Total (4x4 / AWD),13.84
+2014,smart,fortwo coupe,Deportivos biplaza,A dos ruedas,6.53
+2014,smart,fortwo cabriolet,Deportivos biplaza,A dos ruedas,6.53
+2014,Porsche,911 Turbo,Compactos,Total (4x4 / AWD),11.76
+2014,Porsche,911 Turbo Cabriolet,Compactos,Total (4x4 / AWD),11.76
+2014,Porsche,911 Turbo S,Compactos,Total (4x4 / AWD),11.76
+2014,Porsche,911 Turbo S Cabriolet,Compactos,Total (4x4 / AWD),11.76
+2014,Porsche,911 Targa 4,Compactos,Total (4x4 / AWD),11.2
+2014,Porsche,911 Targa 4,Compactos,Total (4x4 / AWD),10.69
+2014,Ford,Fiesta SFE FWD,Compactos,A dos ruedas,6.36
+2014,Lexus,IS F,Compactos,A dos ruedas,13.07
+2014,Dodge,Dart,Berlinas y familiares,A dos ruedas,8.71
+2014,Dodge,Dart Aero,Berlinas y familiares,A dos ruedas,7.35
+2014,Dodge,Dart Aero,Berlinas y familiares,A dos ruedas,7.35
+2014,Dodge,Dart,Berlinas y familiares,A dos ruedas,8.71
+2014,Dodge,Dart,Berlinas y familiares,A dos ruedas,8.11
+2014,Dodge,Dart GT,Berlinas y familiares,A dos ruedas,9.05
+2014,Dodge,Dart GT,Berlinas y familiares,A dos ruedas,8.71
+2014,Lexus,LS 460,Berlinas y familiares,A dos ruedas,12.38
+2014,Lexus,LS 460 AWD,Berlinas y familiares,Total (4x4 / AWD),13.07
+2014,Lexus,LS 460 L,Berlinas y familiares,A dos ruedas,12.38
+2014,Lexus,LS 460 L AWD,Berlinas y familiares,Total (4x4 / AWD),13.07
+2014,Lexus,ES 300h,Berlinas y familiares,A dos ruedas,5.88
+2014,Lexus,ES 350,Berlinas y familiares,A dos ruedas,9.8
+2014,Lexus,GS 350 AWD,Berlinas y familiares,Total (4x4 / AWD),11.2
+2014,Lexus,GS 450h,Berlinas y familiares,A dos ruedas,7.59
+2014,Lexus,LS 600h L,Berlinas y familiares,Total (4x4 / AWD),11.76
+2014,Toyota,Avalon Hybrid,Berlinas y familiares,A dos ruedas,5.88
+2014,Toyota,Avalon,Berlinas y familiares,A dos ruedas,9.41
+2014,Toyota,Avalon,Berlinas y familiares,A dos ruedas,9.8
+2014,Toyota,Prius,Berlinas y familiares,A dos ruedas,4.7
+2014,Hyundai,Sonata,Berlinas y familiares,A dos ruedas,9.41
+2014,Kia,Soul,Berlinas y familiares,A dos ruedas,9.05
+2014,Kia,Soul,Berlinas y familiares,A dos ruedas,9.05
+2014,Kia,Soul ECO dynamics,Berlinas y familiares,A dos ruedas,8.71
+2014,Kia,Soul,Berlinas y familiares,A dos ruedas,9.05
+2014,Nissan,Juke,Berlinas y familiares,A dos ruedas,8.11
+2014,Nissan,Juke,Berlinas y familiares,A dos ruedas,8.71
+2014,Nissan,Juke AWD,Berlinas y familiares,Total (4x4 / AWD),8.71
+2014,GMC,Sierra C15 2WD,Pickups y furgonetas,A dos ruedas,13.84
+2014,Ram,1500 HFE 2WD,Pickups y furgonetas,A dos ruedas,11.2
+2014,Chevrolet,Silverado K15 4WD,Pickups y furgonetas,Total (4x4 / AWD),13.84
+2014,GMC,Sierra K15 4WD,Pickups y furgonetas,Total (4x4 / AWD),13.84
+2014,Ford,E150 Wagon FFV,Pickups y furgonetas,A dos ruedas,16.8
+2014,Ford,Transit Connect Wagon FWD,Pickups y furgonetas,A dos ruedas,10.23
+2014,Ford,Transit Connect Van 2WD,Pickups y furgonetas,A dos ruedas,9.8
+2014,Ford,Transit Connect Wagon LWB FWD,Pickups y furgonetas,A dos ruedas,10.23
+2014,Honda,Crosstour 2WD,SUV,A dos ruedas,9.41
+2014,Honda,Crosstour 2WD,SUV,A dos ruedas,10.23
+2014,Jeep,Patriot FWD,SUV,A dos ruedas,9.8
+2014,Jeep,Compass FWD,SUV,A dos ruedas,9.8
+2014,Kia,Sportage 2WD,SUV,A dos ruedas,9.8
+2014,Honda,Crosstour 4WD,SUV,Total (4x4 / AWD),10.69
+2014,Jeep,Cherokee Trailhawk 4WD,SUV,Total (4x4 / AWD),10.69
+2014,Kia,Sportage 4WD,SUV,Total (4x4 / AWD),10.69
+2014,Mercedes-Benz,G550,SUV,Total (4x4 / AWD),18.09
+2014,Mercedes-Benz,G63 AMG,SUV,Total (4x4 / AWD),18.09
+2014,Toyota,Prius Plug-in Hybrid,Berlinas y familiares,A dos ruedas,4.7
+2014,Lexus,GS 350,Berlinas y familiares,A dos ruedas,10.23
+2014,Nissan,Frontier 2WD,Pickups y furgonetas,A dos ruedas,12.38
+2014,Nissan,Frontier 2WD,Pickups y furgonetas,A dos ruedas,11.2
+2014,Nissan,Frontier 2WD,Pickups y furgonetas,A dos ruedas,13.07
+2014,Nissan,Frontier 2WD,Pickups y furgonetas,A dos ruedas,12.38
+2014,Nissan,Frontier 4WD,Pickups y furgonetas,Total (4x4 / AWD),13.84
+2014,Nissan,Frontier 4WD,Pickups y furgonetas,Total (4x4 / AWD),13.07
+2014,Ford,F150 Pickup 2WD,Pickups y furgonetas,A dos ruedas,13.07
+2014,Ford,F150 Pickup 2WD,Pickups y furgonetas,A dos ruedas,13.07
+2014,Ford,F150 Pickup 2WD,Pickups y furgonetas,A dos ruedas,15.68
+2014,Ford,F150 Pickup 2WD FFV,Pickups y furgonetas,A dos ruedas,12.38
+2014,Ford,F150 Pickup 2WD FFV,Pickups y furgonetas,A dos ruedas,12.38
+2014,Ford,F150 Pickup 2WD FFV,Pickups y furgonetas,A dos ruedas,13.84
+2014,Ford,F150 Pickup 2WD FFV,Pickups y furgonetas,A dos ruedas,13.84
+2014,Ford,F150 Pickup 4WD,Pickups y furgonetas,Total (4x4 / AWD),13.84
+2014,Ford,F150 Pickup 4WD,Pickups y furgonetas,Total (4x4 / AWD),13.84
+2014,Ford,F150 Pickup 4WD,Pickups y furgonetas,Total (4x4 / AWD),18.09
+2014,Ford,F150 Pickup 4WD FFV,Pickups y furgonetas,Total (4x4 / AWD),13.07
+2014,Ford,F150 Pickup 4WD FFV,Pickups y furgonetas,Total (4x4 / AWD),13.07
+2014,Ford,F150 Pickup 4WD FFV,Pickups y furgonetas,Total (4x4 / AWD),14.7
+2014,Ford,F150 Pickup 4WD FFV,Pickups y furgonetas,Total (4x4 / AWD),14.7
+2014,Ford,F150 Raptor Pickup 4WD,Pickups y furgonetas,Total (4x4 / AWD),18.09
+2014,Nissan,Xterra 2WD,SUV,A dos ruedas,13.07
+2014,Nissan,Xterra 4WD,SUV,Total (4x4 / AWD),13.84
+2014,Nissan,Xterra 4WD,SUV,Total (4x4 / AWD),13.84
+2014,Infiniti,QX60 Hybrid FWD,SUV,A dos ruedas,9.05
+2014,Nissan,Pathfinder Hybrid 2WD,SUV,A dos ruedas,9.05
+2014,Infiniti,QX60 Hybrid AWD,SUV,Total (4x4 / AWD),9.05
+2014,Nissan,Pathfinder Hybrid 4WD,SUV,Total (4x4 / AWD),9.05
+2014,Lexus,CT 200h,Compactos,A dos ruedas,5.6
+2014,Subaru,XV Crosstrek Hybrid AWD,SUV,Total (4x4 / AWD),7.59
+2014,Porsche,911 GT3,Deportivos biplaza,A dos ruedas,13.84
+2014,Fiat,500,Compactos,A dos ruedas,7.84
+2014,Fiat,500,Compactos,A dos ruedas,6.92
+2014,Porsche,911 Targa 4S,Compactos,Total (4x4 / AWD),11.2
+2014,Porsche,911 Targa 4S,Compactos,Total (4x4 / AWD),11.2
+2014,Hyundai,Veloster,Compactos,A dos ruedas,8.71
+2014,Hyundai,Veloster,Compactos,A dos ruedas,8.4
+2014,Kia,Rio Eco,Compactos,A dos ruedas,7.59
+2014,Kia,Rio,Compactos,A dos ruedas,7.59
+2014,Kia,Rio,Compactos,A dos ruedas,7.59
+2014,Cadillac,CTS Sedan,Berlinas y familiares,A dos ruedas,13.07
+2014,Dodge,Dart,Berlinas y familiares,A dos ruedas,8.71
+2014,Hyundai,Elantra GT,Berlinas y familiares,A dos ruedas,8.71
+2014,Hyundai,Elantra GT,Berlinas y familiares,A dos ruedas,8.4
+2014,Hyundai,Azera,Berlinas y familiares,A dos ruedas,10.23
+2014,Hyundai,Genesis,Berlinas y familiares,A dos ruedas,11.2
+2014,Hyundai,Genesis R Spec,Berlinas y familiares,A dos ruedas,13.07
+2014,Mercedes-Benz,S63 AMG 4matic,Berlinas y familiares,Total (4x4 / AWD),13.07
+2014,Mercedes-Benz,S550 4matic,Berlinas y familiares,Total (4x4 / AWD),12.38
+2014,Land Rover,LR2,SUV,Total (4x4 / AWD),11.76
+2014,Jeep,Grand Cherokee 2WD,SUV,A dos ruedas,9.41
+2014,Jeep,Grand Cherokee 4WD,SUV,Total (4x4 / AWD),9.8
+2014,Land Rover,LR4,SUV,Total (4x4 / AWD),14.7
+2014,Mercedes-Benz,CLA45 AMG 4matic,Compactos,Total (4x4 / AWD),9.05
+2014,Nissan,Cube,Berlinas y familiares,A dos ruedas,8.4
+2014,Nissan,Cube,Berlinas y familiares,A dos ruedas,8.71
+2014,Ford,Edge FWD,SUV,A dos ruedas,9.8
+2014,Ford,Edge FWD,SUV,A dos ruedas,11.2
+2014,Ford,Edge FWD,SUV,A dos ruedas,10.69
+2014,Lincoln,MKX FWD,SUV,A dos ruedas,11.2
+2014,Ford,Edge AWD,SUV,Total (4x4 / AWD),11.2
+2014,Ford,Edge AWD,SUV,Total (4x4 / AWD),12.38
+2014,Lincoln,MKX AWD,SUV,Total (4x4 / AWD),12.38
+2014,Hyundai,Genesis Coupe,Compactos,A dos ruedas,11.2
+2014,Hyundai,Genesis Coupe,Compactos,A dos ruedas,10.69
+2014,Hyundai,Genesis Coupe,Compactos,A dos ruedas,12.38
+2014,Hyundai,Genesis Coupe,Compactos,A dos ruedas,12.38
+2014,Hyundai,Accent,Compactos,A dos ruedas,7.59
+2014,Hyundai,Accent,Compactos,A dos ruedas,7.59
+2014,Hyundai,Veloster,Compactos,A dos ruedas,7.59
+2014,Hyundai,Veloster,Compactos,A dos ruedas,7.84
+2014,Kia,Forte Koup,Compactos,A dos ruedas,9.41
+2014,Kia,Forte Koup,Compactos,A dos ruedas,9.41
+2014,Kia,Forte Koup,Compactos,A dos ruedas,8.4
+2014,Kia,Forte Koup,Compactos,A dos ruedas,8.71
+2014,Acura,RLX Hybrid,Berlinas y familiares,Total (4x4 / AWD),7.84
+2014,Hyundai,Sonata Hybrid,Berlinas y familiares,A dos ruedas,6.19
+2014,Hyundai,Sonata Hybrid Limited,Berlinas y familiares,A dos ruedas,6.36
+2014,Hyundai,Elantra,Berlinas y familiares,A dos ruedas,7.35
+2014,Hyundai,Elantra Limited,Berlinas y familiares,A dos ruedas,7.59
+2014,Hyundai,Elantra,Berlinas y familiares,A dos ruedas,7.59
+2014,Hyundai,Elantra,Berlinas y familiares,A dos ruedas,8.4
+2014,Hyundai,Elantra,Berlinas y familiares,A dos ruedas,8.4
+2014,Hyundai,Elantra Coupe,Berlinas y familiares,A dos ruedas,8.4
+2014,Infiniti,Q70,Berlinas y familiares,A dos ruedas,12.38
+2014,Infiniti,Q70 AWD,Berlinas y familiares,Total (4x4 / AWD),13.07
+2014,Infiniti,Q70 Hybrid,Berlinas y familiares,A dos ruedas,7.59
+2014,Infiniti,Q70,Berlinas y familiares,A dos ruedas,11.2
+2014,Infiniti,Q70 AWD,Berlinas y familiares,Total (4x4 / AWD),11.76
+2014,Kia,Optima Hybrid,Berlinas y familiares,A dos ruedas,6.19
+2014,Kia,Optima Hybrid EX,Berlinas y familiares,A dos ruedas,6.36
+2014,Nissan,Sentra,Berlinas y familiares,A dos ruedas,7.84
+2014,Nissan,Sentra,Berlinas y familiares,A dos ruedas,6.92
+2014,Nissan,Sentra FE,Berlinas y familiares,A dos ruedas,6.92
+2014,Nissan,Sentra,Berlinas y familiares,A dos ruedas,7.13
+2014,Ford,Special Service Police FWD,Berlinas y familiares,A dos ruedas,9.8
+2014,Kia,Forte 5,Berlinas y familiares,A dos ruedas,9.8
+2014,Kia,Forte 5,Berlinas y familiares,A dos ruedas,9.8
+2014,Kia,Forte 5,Berlinas y familiares,A dos ruedas,8.4
+2014,Kia,Forte 5,Berlinas y familiares,A dos ruedas,8.4
+2014,Porsche,Panamera Turbo S,Berlinas y familiares,Total (4x4 / AWD),13.07
+2014,Porsche,Panamera Turbo S Executive,Berlinas y familiares,Total (4x4 / AWD),13.07
+2014,Scion,xB,Berlinas y familiares,A dos ruedas,9.8
+2014,Scion,xB,Berlinas y familiares,A dos ruedas,9.8
+2014,Chevrolet,Silverado C15 2WD,Pickups y furgonetas,A dos ruedas,13.84
+2014,Ford,Transit Connect Wagon FWD,Pickups y furgonetas,A dos ruedas,9.41
+2014,Nissan,Rogue FWD,SUV,A dos ruedas,8.4
+2014,Toyota,Highlander 2WD,SUV,A dos ruedas,10.69
+2014,Toyota,Highlander 2WD,SUV,A dos ruedas,11.2
+2014,Toyota,RAV4,SUV,A dos ruedas,9.05
+2014,Land Rover,Range Rover Evoque,SUV,Total (4x4 / AWD),9.8
+2014,Nissan,Rogue AWD,SUV,Total (4x4 / AWD),8.4
+2014,Toyota,RAV4 AWD,SUV,Total (4x4 / AWD),9.41
+2014,Toyota,RAV4 Limited AWD,SUV,Total (4x4 / AWD),9.41
+2014,Land Rover,Range Rover L FFV,SUV,Total (4x4 / AWD),14.7
+2014,Land Rover,Range Rover L FFV,SUV,Total (4x4 / AWD),12.38
+2014,Toyota,Highlander AWD,SUV,Total (4x4 / AWD),11.76
+2014,Volkswagen,Beetle Convertible,Compactos,A dos ruedas,8.71
+2014,Toyota,Prius c,Compactos,A dos ruedas,4.7
+2014,Volkswagen,Beetle,Compactos,A dos ruedas,8.4
+2014,Volkswagen,Beetle,Compactos,A dos ruedas,8.71
+2014,Nissan,Rogue Select FWD,SUV,A dos ruedas,9.41
+2014,Nissan,Rogue Select AWD,SUV,Total (4x4 / AWD),9.8
+2015,Nissan,GT-R,Compactos,Total (4x4 / AWD),12.38
+2015,Volvo,S60 AWD,Compactos,Total (4x4 / AWD),10.23
+2015,Mazda,6,Berlinas y familiares,A dos ruedas,7.84
+2015,Mazda,6,Berlinas y familiares,A dos ruedas,7.35
+2015,Mazda,6,Berlinas y familiares,A dos ruedas,8.11
+2015,Kia,K900,Berlinas y familiares,A dos ruedas,11.2
+2015,Kia,K900,Berlinas y familiares,A dos ruedas,13.07
+2015,Kia,Sorento FWD,SUV,A dos ruedas,11.2
+2015,Mazda,CX-5 2WD,SUV,A dos ruedas,8.11
+2015,Mazda,CX-5 2WD,SUV,A dos ruedas,8.11
+2015,Mazda,CX-5 2WD,SUV,A dos ruedas,8.71
+2015,Kia,Sorento AWD,SUV,Total (4x4 / AWD),10.69
+2015,Kia,Sorento AWD,SUV,Total (4x4 / AWD),11.76
+2015,Mazda,CX-5 4WD,SUV,Total (4x4 / AWD),8.4
+2015,Mazda,CX-5 4WD,SUV,Total (4x4 / AWD),9.05
+2015,Volvo,XC60 AWD,SUV,Total (4x4 / AWD),11.76
+2015,Volvo,XC70 AWD,SUV,Total (4x4 / AWD),11.76
+2014,Ford,Fusion FWD,Berlinas y familiares,A dos ruedas,8.11
+2014,Ford,C-MAX Energi Plug-in Hybrid,Berlinas y familiares,A dos ruedas,5.47
+2015,Audi,TT Roadster quattro,Deportivos biplaza,Total (4x4 / AWD),9.05
+2015,Audi,TT Coupe quattro,Compactos,Total (4x4 / AWD),9.05
+2015,Subaru,WRX,Compactos,Total (4x4 / AWD),9.8
+2015,Subaru,WRX,Compactos,Total (4x4 / AWD),12.38
+2015,Volvo,S60 AWD,Compactos,Total (4x4 / AWD),10.69
+2015,Volvo,S80 AWD,Berlinas y familiares,Total (4x4 / AWD),10.69
+2015,Volvo,V60 AWD,Berlinas y familiares,Total (4x4 / AWD),10.23
+2015,Volvo,V60 AWD,Berlinas y familiares,Total (4x4 / AWD),10.69
+2015,Chevrolet,Silverado C15 2WD,Pickups y furgonetas,A dos ruedas,12.38
+2015,GMC,Sierra C15 2WD,Pickups y furgonetas,A dos ruedas,12.38
+2015,Chevrolet,Silverado K15 4WD,Pickups y furgonetas,Total (4x4 / AWD),13.07
+2015,GMC,Sierra K15 4WD,Pickups y furgonetas,Total (4x4 / AWD),13.07
+2015,Kia,Sorento FWD,SUV,A dos ruedas,10.23
+2015,Cadillac,Escalade 2WD,SUV,A dos ruedas,13.84
+2015,Cadillac,Escalade ESV 2WD,SUV,A dos ruedas,13.84
+2015,Chevrolet,Tahoe C1500 2WD,SUV,A dos ruedas,13.07
+2015,Chevrolet,Suburban C1500 2WD,SUV,A dos ruedas,13.07
+2015,GMC,Yukon C1500 2WD,SUV,A dos ruedas,13.84
+2015,GMC,Yukon C1500 XL 2WD,SUV,A dos ruedas,13.84
+2015,GMC,Yukon C1500 2WD,SUV,A dos ruedas,13.07
+2015,GMC,Yukon C1500 XL 2WD,SUV,A dos ruedas,13.07
+2015,Cadillac,Escalade 4WD,SUV,Total (4x4 / AWD),14.7
+2015,Cadillac,Escalade ESV 4WD,SUV,Total (4x4 / AWD),14.7
+2015,Chevrolet,Tahoe K1500 4WD,SUV,Total (4x4 / AWD),13.07
+2015,Chevrolet,Suburban K1500 4WD,SUV,Total (4x4 / AWD),13.07
+2015,GMC,Yukon K1500 XL 4WD,SUV,Total (4x4 / AWD),14.7
+2015,GMC,Yukon K1500 4WD,SUV,Total (4x4 / AWD),14.7
+2015,GMC,Yukon K1500 XL 4WD,SUV,Total (4x4 / AWD),13.07
+2015,GMC,Yukon K1500 4WD,SUV,Total (4x4 / AWD),13.07
+2014,BMW,228i,Compactos,A dos ruedas,8.4
+2014,Ford,C-MAX Hybrid FWD,Berlinas y familiares,A dos ruedas,5.47
+2014,Ford,Transit Connect Van 2WD,Pickups y furgonetas,A dos ruedas,9.41
+2014,Nissan,NV200 Cargo Van,Pickups y furgonetas,A dos ruedas,9.8
+2015,Jaguar,F-Type V8 S Convertible,Deportivos biplaza,A dos ruedas,13.07
+2015,Jaguar,F-Type R Coupe,Deportivos biplaza,A dos ruedas,13.07
+2015,Jaguar,F-Type Convertible,Deportivos biplaza,A dos ruedas,10.23
+2015,Jaguar,F-Type Coupe,Deportivos biplaza,A dos ruedas,10.23
+2015,Jaguar,F-Type S Convertible,Deportivos biplaza,A dos ruedas,10.69
+2015,Jaguar,F-Type S Coupe,Deportivos biplaza,A dos ruedas,10.69
+2015,Jaguar,XK,Compactos,A dos ruedas,12.38
+2015,Jaguar,XK Convertible,Compactos,A dos ruedas,13.07
+2015,Jaguar,XK,Compactos,A dos ruedas,13.07
+2015,Jaguar,XK Convertible,Compactos,A dos ruedas,13.84
+2015,Audi,A3 quattro,Compactos,Total (4x4 / AWD),8.71
+2015,Subaru,WRX,Compactos,Total (4x4 / AWD),11.2
+2015,Jaguar,XF,Berlinas y familiares,A dos ruedas,13.07
+2015,Jaguar,XJ,Berlinas y familiares,A dos ruedas,13.07
+2015,Jaguar,XJL,Berlinas y familiares,A dos ruedas,13.07
+2015,Subaru,Forester AWD,SUV,Total (4x4 / AWD),9.41
+2015,Subaru,Forester AWD,SUV,Total (4x4 / AWD),8.71
+2015,Subaru,Forester AWD,SUV,Total (4x4 / AWD),9.41
+2014,BMW,428i Convertible,Compactos,A dos ruedas,8.71
+2014,Honda,Civic Hybrid,Compactos,A dos ruedas,5.23
+2014,Ram,1500 2WD,Pickups y furgonetas,A dos ruedas,10.23
+2014,Ram,1500 4WD,Pickups y furgonetas,Total (4x4 / AWD),10.69
+2014,Toyota,Highlander Hybrid 4WD,SUV,Total (4x4 / AWD),8.4
+2014,Toyota,Highlander Hybrid 4WD LE Plus,SUV,Total (4x4 / AWD),8.4
+2014,BMW,228i,Compactos,A dos ruedas,9.05
+2014,BMW,M235i,Compactos,A dos ruedas,9.41
+2014,BMW,M235i,Compactos,A dos ruedas,10.23
+2014,Roush Performance,F150 Pickup 2WD,Pickups y furgonetas,A dos ruedas,21.38
+2014,Roush Performance,F150 Pickup 2WD,Pickups y furgonetas,A dos ruedas,18.09
+2014,Roush Performance,F150 Raptor Pickup 4WD,Pickups y furgonetas,Total (4x4 / AWD),21.38
+2014,Roush Performance,F150 Pickup 4WD,Pickups y furgonetas,Total (4x4 / AWD),21.38
+2014,Roush Performance,F150 Pickup 4WD,Pickups y furgonetas,Total (4x4 / AWD),18.09
+2015,Hyundai,Genesis RWD,Berlinas y familiares,A dos ruedas,10.69
+2015,Hyundai,Genesis AWD,Berlinas y familiares,Total (4x4 / AWD),12.38
+2015,Hyundai,Genesis RWD,Berlinas y familiares,A dos ruedas,13.07
+2014,Cadillac,ELR,Compactos,A dos ruedas,7.13
+2015,Audi,A3,Compactos,A dos ruedas,8.71
+2014,Honda,Civic,Compactos,A dos ruedas,7.13
+2014,Honda,Civic,Compactos,A dos ruedas,9.41
+2014,Honda,Civic HF,Compactos,A dos ruedas,6.72
+2015,Chrysler,200 AWD,Berlinas y familiares,Total (4x4 / AWD),10.69
+2015,Lexus,RX 350,SUV,A dos ruedas,11.2
+2015,Lexus,RX 450h,SUV,A dos ruedas,7.84
+2015,Lexus,RX 350 AWD,SUV,Total (4x4 / AWD),11.2
+2015,Lexus,RX 350 AWD,SUV,Total (4x4 / AWD),11.76
+2015,Lexus,RX 450h AWD,SUV,Total (4x4 / AWD),8.11
+2014,BMW,435i Convertible,Compactos,A dos ruedas,9.8
+2014,Honda,Civic,Compactos,A dos ruedas,7.13
+2014,Honda,Civic,Compactos,A dos ruedas,7.59
+2014,Mercedes-Benz,CLA250 4matic,Compactos,Total (4x4 / AWD),8.71
+2014,Dodge,Dart,Berlinas y familiares,A dos ruedas,7.59
+2014,BMW,X5 xDrive35d,SUV,Total (4x4 / AWD),9.05
+2014,Porsche,Panamera S E-Hybrid,Berlinas y familiares,A dos ruedas,9.41
+2014,MINI,Cooper (3-doors),Compactos,A dos ruedas,6.92
+2014,MINI,Cooper (3-doors),Compactos,A dos ruedas,6.92
+2014,MINI,Cooper S (3-doors),Compactos,A dos ruedas,8.11
+2014,Chevrolet,Camaro,Compactos,A dos ruedas,15.68
+2014,Ram,C/V,Pickups y furgonetas,A dos ruedas,11.2
+2015,BMW,Z4 sDrive28i,Deportivos biplaza,A dos ruedas,9.05
+2015,BMW,Z4 sDrive28i,Deportivos biplaza,A dos ruedas,9.05
+2015,BMW,Z4 sDrive35i,Deportivos biplaza,A dos ruedas,11.2
+2015,BMW,Z4 sDrive35i,Deportivos biplaza,A dos ruedas,11.76
+2015,BMW,Z4 sDrive35is,Deportivos biplaza,A dos ruedas,11.76
+2015,MINI,Cooper Roadster,Deportivos biplaza,A dos ruedas,8.11
+2015,MINI,Cooper Coupe,Deportivos biplaza,A dos ruedas,7.59
+2015,MINI,Cooper S Roadster,Deportivos biplaza,A dos ruedas,8.4
+2015,MINI,Cooper S Coupe,Deportivos biplaza,A dos ruedas,8.4
+2015,MINI,John Cooper Works Coupe,Deportivos biplaza,A dos ruedas,8.4
+2015,MINI,John Cooper Works Roadster,Deportivos biplaza,A dos ruedas,8.4
+2015,MINI,Cooper Convertible,Compactos,A dos ruedas,8.11
+2015,MINI,Cooper S Convertible,Compactos,A dos ruedas,8.4
+2015,MINI,John Cooper Works Convertible,Compactos,A dos ruedas,8.4
+2015,Bentley,Continental GT Convertible,Compactos,Total (4x4 / AWD),13.84
+2015,Bentley,Continental GT,Compactos,Total (4x4 / AWD),12.38
+2015,MINI,Cooper Countryman,Compactos,A dos ruedas,8.71
+2015,MINI,Cooper Paceman,Compactos,A dos ruedas,8.71
+2015,MINI,Cooper S Countryman,Compactos,A dos ruedas,8.4
+2015,MINI,Cooper S Countryman,Compactos,A dos ruedas,8.11
+2015,MINI,Cooper S Countryman All4,Compactos,Total (4x4 / AWD),9.05
+2015,MINI,Cooper S Countryman All4,Compactos,Total (4x4 / AWD),8.71
+2015,MINI,Cooper S Paceman,Compactos,A dos ruedas,8.4
+2015,MINI,Cooper S Paceman,Compactos,A dos ruedas,8.11
+2015,MINI,Cooper S Paceman All4,Compactos,Total (4x4 / AWD),9.05
+2015,MINI,Cooper S Paceman All4,Compactos,Total (4x4 / AWD),8.71
+2015,MINI,JCW Countryman All4,Compactos,Total (4x4 / AWD),9.05
+2015,MINI,JCW Countryman All4,Compactos,Total (4x4 / AWD),8.71
+2015,MINI,JCW Paceman All4,Compactos,Total (4x4 / AWD),9.05
+2015,MINI,JCW Paceman All4,Compactos,Total (4x4 / AWD),8.71
+2015,Volkswagen,GTI,Compactos,A dos ruedas,8.4
+2015,Volkswagen,GTI,Compactos,A dos ruedas,8.4
+2015,Volvo,S60 FWD,Compactos,A dos ruedas,8.11
+2015,Volvo,S60 FWD,Compactos,A dos ruedas,8.4
+2015,Bentley,Flying Spur,Berlinas y familiares,Total (4x4 / AWD),13.84
+2015,Chrysler,200,Berlinas y familiares,A dos ruedas,8.4
+2015,Chrysler,200,Berlinas y familiares,A dos ruedas,10.23
+2015,Volvo,S80 FWD,Berlinas y familiares,A dos ruedas,8.11
+2015,BMW,X1 xDrive28i,Berlinas y familiares,Total (4x4 / AWD),9.05
+2015,BMW,X1 xDrive35i,Berlinas y familiares,Total (4x4 / AWD),11.2
+2015,BMW,X3 sDrive 28i,Berlinas y familiares,A dos ruedas,9.8
+2015,Honda,Fit,Berlinas y familiares,A dos ruedas,6.72
+2015,Honda,Fit,Berlinas y familiares,A dos ruedas,7.35
+2015,Volvo,V60 FWD,Berlinas y familiares,A dos ruedas,8.11
+2015,Acura,RDX 2WD,SUV,A dos ruedas,10.23
+2015,Volvo,XC60 FWD,SUV,A dos ruedas,8.71
+2015,Volvo,XC70 FWD,SUV,A dos ruedas,8.71
+2015,Volvo,XC60 FWD,SUV,A dos ruedas,9.41
+2015,Acura,RDX 4WD,SUV,Total (4x4 / AWD),10.69
+2015,BMW,X3 xDrive28i,SUV,Total (4x4 / AWD),9.8
+2015,BMW,X3 xDrive35i,SUV,Total (4x4 / AWD),11.2
+2015,Volvo,XC70 AWD,SUV,Total (4x4 / AWD),11.2
+2015,Volvo,XC60 AWD,SUV,Total (4x4 / AWD),11.76
+2015,MINI,Cooper S Convertible,Compactos,A dos ruedas,8.11
+2015,Subaru,BRZ,Compactos,A dos ruedas,9.41
+2015,Subaru,BRZ,Compactos,A dos ruedas,8.4
+2015,BMW,428i Convertible,Compactos,A dos ruedas,8.71
+2015,BMW,640i Coupe,Compactos,A dos ruedas,9.41
+2015,BMW,528i,Berlinas y familiares,A dos ruedas,8.71
+2015,BMW,X1 sDrive28i,Berlinas y familiares,A dos ruedas,8.71
+2015,Honda,Fit,Berlinas y familiares,A dos ruedas,6.53
+2015,Porsche,918 Spyder,Deportivos biplaza,Total (4x4 / AWD),10.69
+2014,BMW,428i xDrive Convertible,Compactos,Total (4x4 / AWD),9.41
+2014,MINI,Cooper S (3-doors),Compactos,A dos ruedas,7.59
+2015,MINI,Cooper Roadster,Deportivos biplaza,A dos ruedas,7.84
+2015,MINI,Cooper Coupe,Deportivos biplaza,A dos ruedas,7.35
+2015,MINI,Cooper S Roadster,Deportivos biplaza,A dos ruedas,8.11
+2015,MINI,Cooper S Coupe,Deportivos biplaza,A dos ruedas,8.11
+2015,MINI,John Cooper Works Coupe,Deportivos biplaza,A dos ruedas,8.11
+2015,MINI,John Cooper Works Roadster,Deportivos biplaza,A dos ruedas,8.11
+2015,MINI,Cooper Convertible,Compactos,A dos ruedas,7.84
+2015,MINI,John Cooper Works Convertible,Compactos,A dos ruedas,8.11
+2015,BMW,640i Convertible,Compactos,A dos ruedas,9.8
+2015,BMW,640i xDrive Coupe,Compactos,Total (4x4 / AWD),10.23
+2015,BMW,640i xDrive Convertible,Compactos,Total (4x4 / AWD),10.23
+2015,BMW,435i Gran Coupe,Compactos,A dos ruedas,9.41
+2015,BMW,640i Gran Coupe,Compactos,A dos ruedas,9.8
+2015,BMW,640i xDrive Gran Coupe,Compactos,Total (4x4 / AWD),10.23
+2015,MINI,Cooper Countryman,Compactos,A dos ruedas,7.84
+2015,MINI,Cooper Paceman,Compactos,A dos ruedas,7.84
+2015,BMW,740Ld xDrive,Berlinas y familiares,Total (4x4 / AWD),9.05
+2015,Mercedes-Benz,SLS AMG GT Coupe,Deportivos biplaza,A dos ruedas,15.68
+2015,Mercedes-Benz,SLS AMG GT Roadster,Deportivos biplaza,A dos ruedas,15.68
+2015,BMW,650i xDrive Coupe,Compactos,Total (4x4 / AWD),12.38
+2015,BMW,650i xDrive Convertible,Compactos,Total (4x4 / AWD),12.38
+2015,BMW,650i xDrive Gran Coupe,Compactos,Total (4x4 / AWD),12.38
+2015,BMW,Alpina B6 Gran Coupe xDrive,Compactos,Total (4x4 / AWD),12.38
+2015,Nissan,Versa,Compactos,A dos ruedas,6.72
+2015,Nissan,Versa,Compactos,A dos ruedas,7.84
+2015,Nissan,Versa,Compactos,A dos ruedas,7.84
+2015,BMW,X3 xDrive28d,SUV,Total (4x4 / AWD),7.84
+2015,Mazda,MX-5,Deportivos biplaza,A dos ruedas,9.41
+2015,Mazda,MX-5,Deportivos biplaza,A dos ruedas,9.8
+2015,Mazda,MX-5,Deportivos biplaza,A dos ruedas,10.23
+2015,Chevrolet,Spark,Compactos,A dos ruedas,6.92
+2015,Chevrolet,Spark,Compactos,A dos ruedas,6.92
+2015,BMW,428i Gran Coupe,Compactos,A dos ruedas,8.71
+2015,Bentley,Mulsanne,Berlinas y familiares,A dos ruedas,18.09
+2015,Hyundai,Equus,Berlinas y familiares,A dos ruedas,13.07
+2015,Kia,Cadenza,Berlinas y familiares,A dos ruedas,10.69
+2015,Mercedes-Benz,S550,Berlinas y familiares,A dos ruedas,11.76
+2015,Mercedes-Benz,S63 AMG 4matic,Berlinas y familiares,Total (4x4 / AWD),13.07
+2015,Mercedes-Benz,S550 4matic,Berlinas y familiares,Total (4x4 / AWD),12.38
+2015,Land Rover,LR2,SUV,Total (4x4 / AWD),11.76
+2015,BMW,650i Coupe,Compactos,A dos ruedas,11.76
+2015,BMW,650i Convertible,Compactos,A dos ruedas,11.76
+2015,BMW,M6 Coupe,Compactos,A dos ruedas,13.84
+2015,BMW,M6 Coupe,Compactos,A dos ruedas,14.7
+2015,BMW,M6 Convertible,Compactos,A dos ruedas,13.84
+2015,BMW,M6 Convertible,Compactos,A dos ruedas,14.7
+2015,BMW,650i Gran Coupe,Compactos,A dos ruedas,11.76
+2015,BMW,M6 Gran Coupe,Compactos,A dos ruedas,13.84
+2015,BMW,M6 Gran Coupe,Compactos,A dos ruedas,14.7
+2015,Volvo,S60 PoleStar AWD,Compactos,Total (4x4 / AWD),11.2
+2015,Kia,Optima,Berlinas y familiares,A dos ruedas,9.8
+2015,Infiniti,QX50,Berlinas y familiares,A dos ruedas,11.76
+2015,Infiniti,QX50 AWD,Berlinas y familiares,Total (4x4 / AWD),11.76
+2015,Volvo,V60 PoleStar AWD,Berlinas y familiares,Total (4x4 / AWD),11.2
+2015,Infiniti,QX70 RWD,SUV,A dos ruedas,12.38
+2015,Infiniti,QX70 AWD,SUV,Total (4x4 / AWD),13.07
+2014,McLaren Automotive,MP4-12C Coupe,Deportivos biplaza,A dos ruedas,13.07
+2014,McLaren Automotive,MP4-12C Spider,Deportivos biplaza,A dos ruedas,13.07
+2015,Lamborghini,Huracan,Deportivos biplaza,Total (4x4 / AWD),14.7
+2015,Bentley,Continental GT Convertible,Compactos,Total (4x4 / AWD),15.68
+2015,Bentley,Continental GT,Compactos,Total (4x4 / AWD),15.68
+2015,Audi,S8,Berlinas y familiares,Total (4x4 / AWD),11.76
+2015,Audi,A8,Berlinas y familiares,Total (4x4 / AWD),10.69
+2015,Audi,A8,Berlinas y familiares,Total (4x4 / AWD),10.69
+2015,Bentley,Flying Spur,Berlinas y familiares,Total (4x4 / AWD),15.68
+2015,Audi,A8 L,Berlinas y familiares,Total (4x4 / AWD),10.69
+2015,Audi,A8 L,Berlinas y familiares,Total (4x4 / AWD),13.84
+2015,Audi,A8 L,Berlinas y familiares,Total (4x4 / AWD),8.4
+2015,Audi,A8 L,Berlinas y familiares,Total (4x4 / AWD),10.69
+2015,Ford,Taurus FWD FFV,Berlinas y familiares,A dos ruedas,10.23
