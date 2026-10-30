@@ -6,10 +6,10 @@ Tres visualizaciones interactivas, una por técnica (small multiples, slope char
 
 | Técnica | URL pública |
 | --- | --- |
-| Portada | https://ivanchu23.github.io/DATA_Visualization_UOC_ivan/ |
-| Small multiples (grupo I) | https://ivanchu23.github.io/DATA_Visualization_UOC_ivan/small-multiples.html |
-| Slope chart (grupo II) | https://ivanchu23.github.io/DATA_Visualization_UOC_ivan/slope-chart.html |
-| Violin plot (grupo III) | https://ivanchu23.github.io/DATA_Visualization_UOC_ivan/violin-plot.html |
+| Portada | https://ivanchu23.github.io/DATA_visualization_UOC_ivan/ |
+| Small multiples (grupo I) | https://ivanchu23.github.io/DATA_visualization_UOC_ivan/small-multiples.html |
+| Slope chart (grupo II) | https://ivanchu23.github.io/DATA_visualization_UOC_ivan/slope-chart.html |
+| Violin plot (grupo III) | https://ivanchu23.github.io/DATA_visualization_UOC_ivan/violin-plot.html |
 
 ## Datos
 
