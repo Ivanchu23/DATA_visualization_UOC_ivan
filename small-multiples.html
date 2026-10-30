@@ -1,0 +1,46 @@
+<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Diésel en Europa · Small multiples</title><style>
+:root{--bg:#ffffff;--ink:#0b0b0b;--muted:#6b6a65;--grid:#e1e0d9;--card:#f7f6f2;--blue:#2a78d6;--orange:#eb6834;--grey:#c3c2b7}
+@media (prefers-color-scheme: dark){:root{--bg:#1a1a19;--ink:#f0efec;--muted:#a9a8a0;--grid:#2c2c2a;--card:#232321;--grey:#55544f;--blue:#3987e5;--orange:#d95926}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;line-height:1.55}
+main{max-width:1040px;margin:0 auto;padding:28px 16px 48px}
+h1{font-size:24px;font-weight:600;margin:4px 0 6px}p.sub{color:var(--muted);margin:0 0 18px;font-size:15px}
+nav{font-size:14px;margin-bottom:18px}nav a{color:var(--blue);text-decoration:none;margin-right:14px}
+.chart{width:100%;}.note{font-size:13px;color:var(--muted);margin-top:10px}
+.note a{color:var(--muted)}.tag{display:inline-block;font-size:12px;padding:2px 8px;border-radius:6px;background:var(--card);color:var(--muted);margin-bottom:6px}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px;margin-top:20px}
+.card{display:block;background:var(--card);border-radius:12px;padding:18px;color:var(--ink);text-decoration:none;border:1px solid var(--grid)}
+.card:hover{border-color:var(--blue)}.card h2{font-size:18px;margin:6px 0}.card p{font-size:14px;color:var(--muted);margin:0}
+</style><script src="https://cdn.jsdelivr.net/npm/plotly.js-dist-min@2.35.2/plotly.min.js"></script></head><body><main><nav><a href="index.html">Inicio</a><a href="small-multiples.html">Small multiples</a><a href="slope-chart.html">Slope chart</a><a href="violin-plot.html">Violin plot</a></nav>
+<span class="tag">Técnica grupo I · Small multiples</span><h1>Cuota del diésel en las ventas de turismos nuevos, 2001–2019</h1><p class="sub">Cada panel destaca un país en azul; en gris, los otros ocho. Todos los paneles comparten escala. Pasa el cursor por las líneas para ver los valores.</p>
+<div id="chart" class="chart" style="height:760px" role="img" aria-label="Cuota del diésel en las ventas de turismos nuevos, 2001–2019"></div>
+<p class="note">Fuente: ICCT, <i>European Vehicle Market Statistics</i>, vía Our World in Data (<a href="https://github.com/owid/owid-datasets/tree/master/datasets/European%20vehicle%20passenger%20sales%20(ICCT%2C%202021)">owid-datasets</a>), CC BY 4.0. <a href="data/diesel_cuota_2001_2019.csv">Descargar datos (CSV)</a>.</p></main>
+<script>
+const dark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+const C = dark ? {ink:'#f0efec',muted:'#a9a8a0',grid:'#2c2c2a',grey:'#55544f',blue:'#3987e5',orange:'#d95926',bg:'#1a1a19'}
+               : {ink:'#0b0b0b',muted:'#6b6a65',grid:'#e1e0d9',grey:'#c9c8bf',blue:'#2a78d6',orange:'#eb6834',bg:'#ffffff'};
+const FONT = {family:'system-ui,-apple-system,Segoe UI,Roboto,sans-serif', color:C.muted, size:12};
+const CFG = {responsive:true, displaylogo:false, modeBarButtonsToRemove:['lasso2d','select2d','autoScale2d']};
+
+const D = {"Francia": {"x": [2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019], "y": [56.2, 63.0, 67.4, 69.2, 68.9, 71.4, 73.9, 77.3, 70.1, 70.3, 72.1, 72.6, 66.5, 63.4, 57.5, 51.9, 47.3, 38.9, 34.5]}, "Alemania": {"x": [2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019], "y": [34.6, 38.0, 39.9, 44.0, 42.7, 44.3, 47.7, 44.0, 30.4, 41.2, 47.1, 48.2, 47.5, 47.8, 48.1, 46.0, 38.8, 32.4, 33.9]}, "Grecia": {"x": [2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019], "y": [0.9, 0.8, 1.6, 2.8, 1.5, 2.2, 2.9, 3.6, 3.2, 4.0, 9.9, 39.9, 57.9, 63.7, 63.1, 54.5, 44.3, 35.7, 26.9]}, "Irlanda": {"x": [2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019], "y": [12.8, 16.3, 16.9, 18.7, 21.8, 24.7, 27.2, 33.7, 54.7, 63.2, 70.8, 73.2, 72.3, 73.4, 71.1, 69.9, 65.2, 54.3, 46.4]}, "Italia": {"x": [2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019], "y": [36.3, 43.3, 48.6, 58.5, 58.8, 58.5, 55.9, 50.7, 41.9, 46.0, 55.2, 53.1, 54.0, 55.2, 55.6, 57.3, 56.6, 51.4, 41.0]}, "Portugal": {"x": [2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019], "y": [28.5, 34.7, 44.8, 56.6, 63.8, 65.1, 69.3, 69.3, 66.5, 66.7, 69.7, 70.5, 72.3, 71.4, 68.2, 65.2, 61.3, 53.9, 40.3]}, "España": {"x": [2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019], "y": [53.4, 58.3, 61.6, 66.1, 69.0, 70.0, 70.9, 69.2, 70.1, 70.6, 70.3, 68.9, 67.4, 66.1, 62.9, 56.8, 48.3, 35.8, 33.0]}, "Suecia": {"x": [2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019], "y": [5.5, 7.0, 7.6, 11.9, 13.9, 19.7, 34.7, 36.2, 40.7, 50.9, 61.4, 66.7, 61.3, 58.8, 57.8, 52.7, 49.9, 37.9, 33.5]}, "Reino Unido": {"x": [2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019], "y": [17.8, 23.3, 27.3, 32.5, 36.7, 38.3, 40.1, 43.5, 41.8, 46.2, 50.7, 50.9, 49.8, 50.1, 48.5, 47.8, 41.9, 31.5, 26.6]}}; const P = ["España", "Francia", "Italia", "Portugal", "Alemania", "Reino Unido", "Irlanda", "Suecia", "Grecia"];
+const traces=[], ann=[]; const layout={grid:{rows:3,columns:3,pattern:'independent',xgap:0.08,ygap:0.16},
+  showlegend:false, paper_bgcolor:C.bg, plot_bgcolor:C.bg, font:FONT, margin:{l:50,r:30,t:30,b:40}, hovermode:'closest', shapes:[]};
+P.forEach((p,i)=>{
+  const ax=i===0?'':String(i+1);
+  P.forEach(o=>{ if(o!==p) traces.push({x:D[o].x,y:D[o].y,xaxis:'x'+ax,yaxis:'y'+ax,mode:'lines',line:{color:C.grey,width:1},
+     hovertemplate:o+' · %{x}: %{y:.0f}%<extra></extra>'}); });
+  traces.push({x:D[p].x,y:D[p].y,xaxis:'x'+ax,yaxis:'y'+ax,mode:'lines',line:{color:C.blue,width:2.6},
+     hovertemplate:'<b>'+p+'</b> · %{x}: %{y:.1f}%<extra></extra>'});
+  const y=D[p].y, k=y.indexOf(Math.max(...y)), last=y.length-1;
+  traces.push({x:[D[p].x[k],D[p].x[last]],y:[y[k],y[last]],xaxis:'x'+ax,yaxis:'y'+ax,mode:'markers+text',
+     marker:{color:C.blue,size:8,line:{color:C.bg,width:2}},text:[Math.round(y[k])+'%',Math.round(y[last])+'%'],
+     textposition:['top center','middle right'],textfont:{color:C.ink,size:11},hoverinfo:'skip',cliponaxis:false});
+  layout['xaxis'+ax]={range:[2000.5,2021.5],tickvals:[2001,2010,2019],showgrid:false,zeroline:false,tickfont:{size:11},showline:true,linecolor:C.grid};
+  layout['yaxis'+ax]={range:[0,92],tickvals:[0,25,50,75],ticksuffix:'%',gridcolor:C.grid,zeroline:false,tickfont:{size:11},showticklabels:i%3===0};
+  layout.shapes.push({type:'line',xref:'x'+ax,yref:'y'+ax,x0:2015,x1:2015,y0:0,y1:92,line:{color:C.muted,width:1,dash:'dot'}});
+  ann.push({text:'<b>'+p+'</b>',xref:'x'+ax+' domain',yref:'y'+ax+' domain',x:0,y:1.13,showarrow:false,xanchor:'left',font:{size:14,color:C.ink}});
+});
+ann.push({text:'2015: dieselgate',xref:'x',yref:'y',x:2015.3,y:88,showarrow:false,xanchor:'left',font:{size:10,color:C.muted}});
+layout.annotations=ann;
+Plotly.newPlot('chart',traces,layout,CFG);
+</script></body></html>

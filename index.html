@@ -1,0 +1,21 @@
+<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Visualización de datos de automoción</title><style>
+:root{--bg:#ffffff;--ink:#0b0b0b;--muted:#6b6a65;--grid:#e1e0d9;--card:#f7f6f2;--blue:#2a78d6;--orange:#eb6834;--grey:#c3c2b7}
+@media (prefers-color-scheme: dark){:root{--bg:#1a1a19;--ink:#f0efec;--muted:#a9a8a0;--grid:#2c2c2a;--card:#232321;--grey:#55544f;--blue:#3987e5;--orange:#d95926}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;line-height:1.55}
+main{max-width:1040px;margin:0 auto;padding:28px 16px 48px}
+h1{font-size:24px;font-weight:600;margin:4px 0 6px}p.sub{color:var(--muted);margin:0 0 18px;font-size:15px}
+nav{font-size:14px;margin-bottom:18px}nav a{color:var(--blue);text-decoration:none;margin-right:14px}
+.chart{width:100%;}.note{font-size:13px;color:var(--muted);margin-top:10px}
+.note a{color:var(--muted)}.tag{display:inline-block;font-size:12px;padding:2px 8px;border-radius:6px;background:var(--card);color:var(--muted);margin-bottom:6px}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px;margin-top:20px}
+.card{display:block;background:var(--card);border-radius:12px;padding:18px;color:var(--ink);text-decoration:none;border:1px solid var(--grid)}
+.card:hover{border-color:var(--blue)}.card h2{font-size:18px;margin:6px 0}.card p{font-size:14px;color:var(--muted);margin:0}
+</style></head><body><main>
+<span class="tag">Tres técnicas de visualización</span><h1>Datos abiertos de automoción</h1>
+<p class="sub">Tres visualizaciones interactivas, una por técnica, hechas con Plotly.js sobre datos abiertos del ICCT y de la EPA.</p>
+<div class="cards">
+<a class="card" href="small-multiples.html"><span class="tag">Grupo I</span><h2>Small multiples</h2><p>El auge y la caída del diésel en nueve países europeos, 2001–2019.</p></a>
+<a class="card" href="slope-chart.html"><span class="tag">Grupo II</span><h2>Slope chart</h2><p>¿Bajaron las emisiones de CO₂ de los coches nuevos tras el dieselgate? 2015 frente a 2019.</p></a>
+<a class="card" href="violin-plot.html"><span class="tag">Grupo III</span><h2>Violin plot</h2><p>Cómo se reparte el consumo según el tipo de vehículo y la tracción.</p></a>
+</div></main></body></html>

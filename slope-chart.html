@@ -1,0 +1,45 @@
+<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>CO₂ de los coches nuevos · Slope chart</title><style>
+:root{--bg:#ffffff;--ink:#0b0b0b;--muted:#6b6a65;--grid:#e1e0d9;--card:#f7f6f2;--blue:#2a78d6;--orange:#eb6834;--grey:#c3c2b7}
+@media (prefers-color-scheme: dark){:root{--bg:#1a1a19;--ink:#f0efec;--muted:#a9a8a0;--grid:#2c2c2a;--card:#232321;--grey:#55544f;--blue:#3987e5;--orange:#d95926}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;line-height:1.55}
+main{max-width:1040px;margin:0 auto;padding:28px 16px 48px}
+h1{font-size:24px;font-weight:600;margin:4px 0 6px}p.sub{color:var(--muted);margin:0 0 18px;font-size:15px}
+nav{font-size:14px;margin-bottom:18px}nav a{color:var(--blue);text-decoration:none;margin-right:14px}
+.chart{width:100%;}.note{font-size:13px;color:var(--muted);margin-top:10px}
+.note a{color:var(--muted)}.tag{display:inline-block;font-size:12px;padding:2px 8px;border-radius:6px;background:var(--card);color:var(--muted);margin-bottom:6px}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px;margin-top:20px}
+.card{display:block;background:var(--card);border-radius:12px;padding:18px;color:var(--ink);text-decoration:none;border:1px solid var(--grid)}
+.card:hover{border-color:var(--blue)}.card h2{font-size:18px;margin:6px 0}.card p{font-size:14px;color:var(--muted);margin:0}
+</style><script src="https://cdn.jsdelivr.net/npm/plotly.js-dist-min@2.35.2/plotly.min.js"></script></head><body><main><nav><a href="index.html">Inicio</a><a href="small-multiples.html">Small multiples</a><a href="slope-chart.html">Slope chart</a><a href="violin-plot.html">Violin plot</a></nav>
+<span class="tag">Técnica grupo II · Slope chart</span><h1>Emisiones medias de CO₂ de los turismos nuevos (g/km), 2015 → 2019</h1><p class="sub">Naranja y línea continua: las emisiones suben. Azul y línea discontinua: bajan. Pasa el cursor por cada línea para ver el cambio y la cuota de coches enchufables.</p>
+<div id="chart" class="chart" style="height:900px" role="img" aria-label="Emisiones medias de CO₂ de los turismos nuevos (g/km), 2015 → 2019"></div>
+<p class="note">Fuente: ICCT, <i>European Vehicle Market Statistics</i>, vía Our World in Data (<a href="https://github.com/owid/owid-datasets/tree/master/datasets/European%20vehicle%20passenger%20sales%20(ICCT%2C%202021)">owid-datasets</a>), CC BY 4.0. Emisiones homologadas en ciclo NEDC. <a href="data/co2_turismos_2015_2019.csv">Descargar datos (CSV)</a>.</p></main>
+<script>
+const dark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+const C = dark ? {ink:'#f0efec',muted:'#a9a8a0',grid:'#2c2c2a',grey:'#55544f',blue:'#3987e5',orange:'#d95926',bg:'#1a1a19'}
+               : {ink:'#0b0b0b',muted:'#6b6a65',grid:'#e1e0d9',grey:'#c9c8bf',blue:'#2a78d6',orange:'#eb6834',bg:'#ffffff'};
+const FONT = {family:'system-ui,-apple-system,Segoe UI,Roboto,sans-serif', color:C.muted, size:12};
+const CFG = {responsive:true, displaylogo:false, modeBarButtonsToRemove:['lasso2d','select2d','autoScale2d']};
+
+const R = [{"pais": "Dinamarca", "co2_2015": 107.85, "co2_2019": 107.09, "enchufables_2019_pct": 4.2}, {"pais": "Finlandia", "co2_2015": 124.12, "co2_2019": 112.16, "enchufables_2019_pct": 6.8}, {"pais": "Francia", "co2_2015": 111.11, "co2_2019": 111.84, "enchufables_2019_pct": 2.8}, {"pais": "Alemania", "co2_2015": 127.22, "co2_2019": 130.16, "enchufables_2019_pct": 3.0}, {"pais": "Grecia", "co2_2015": 106.09, "co2_2019": 114.53, "enchufables_2019_pct": 0.6}, {"pais": "Italia", "co2_2015": 115.87, "co2_2019": 118.75, "enchufables_2019_pct": 0.9}, {"pais": "Países Bajos", "co2_2015": 101.86, "co2_2019": 98.75, "enchufables_2019_pct": 15.1}, {"pais": "Noruega", "co2_2015": 99.4, "co2_2019": 52.54, "enchufables_2019_pct": 55.9}, {"pais": "Portugal", "co2_2015": 105.92, "co2_2019": 103.66, "enchufables_2019_pct": 5.7}, {"pais": "España", "co2_2015": 116.29, "co2_2019": 120.51, "enchufables_2019_pct": 1.3}, {"pais": "Suecia", "co2_2015": 127.34, "co2_2019": 114.14, "enchufables_2019_pct": 11.3}, {"pais": "Reino Unido", "co2_2015": 121.38, "co2_2019": 127.48, "enchufables_2019_pct": 3.1}];
+function repel(vals,gap){const o=vals.map((v,i)=>[v,i]).sort((a,b)=>a[0]-b[0]);const pos=o.map(a=>a[0]);
+  for(let it=0;it<300;it++)for(let j=1;j<pos.length;j++)if(pos[j]-pos[j-1]<gap){const m=(pos[j]+pos[j-1])/2;pos[j-1]=m-gap/2;pos[j]=m+gap/2;}
+  const out=new Array(vals.length);o.forEach((a,j)=>out[a[1]]=pos[j]);return out;}
+const L=repel(R.map(r=>r.co2_2015),2.5), Rr=repel(R.map(r=>r.co2_2019),2.5);
+const traces=[], ann=[];
+R.forEach((r,i)=>{
+  const up=r.co2_2019>r.co2_2015, col=up?C.orange:C.blue, d=(r.co2_2019-r.co2_2015);
+  traces.push({x:[0,1],y:[r.co2_2015,r.co2_2019],mode:'lines+markers',line:{color:col,width:2.4,dash:up?'solid':'dash'},
+    marker:{size:9,color:col,line:{color:C.bg,width:2}},
+    hovertemplate:'<b>'+r.pais+'</b><br>2015: '+r.co2_2015.toFixed(0)+' g/km<br>2019: '+r.co2_2019.toFixed(0)+' g/km<br>Cambio: '+(d>0?'+':'')+d.toFixed(0)+' g/km<br>Enchufables 2019: '+r.enchufables_2019_pct.toFixed(1).replace('.',',')+'%<extra></extra>'});
+  ann.push({x:0,y:L[i],xanchor:'right',xshift:-12,text:r.pais+'  <b>'+r.co2_2015.toFixed(0)+'</b>',showarrow:false,font:{size:12,color:C.ink}});
+  ann.push({x:1,y:Rr[i],xanchor:'left',xshift:12,text:'<b>'+r.co2_2019.toFixed(0)+'</b>  '+r.pais,showarrow:false,font:{size:12,color:C.ink}});
+});
+ann.push({x:0,y:142,text:'<b>2015</b>',showarrow:false,font:{size:15,color:C.ink}});
+ann.push({x:1,y:142,text:'<b>2019</b>',showarrow:false,font:{size:15,color:C.ink}});
+const layout={showlegend:false,paper_bgcolor:C.bg,plot_bgcolor:C.bg,font:FONT,margin:{l:150,r:150,t:20,b:20},hovermode:'closest',
+  xaxis:{range:[-0.05,1.05],visible:false,fixedrange:true},yaxis:{range:[48,146],visible:false,fixedrange:true},annotations:ann,
+  shapes:[0,1].map(x=>({type:'line',x0:x,x1:x,y0:48,y1:138,line:{color:C.grid,width:1}}))};
+Plotly.newPlot('chart',traces,layout,CFG);
+</script></body></html>
